@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hybrid Intelligent Experimental Robotics Lab"
+title                    : "Hybrid Intelligent Experimental Robotics (HIER) Lab"
 title_separator          : "-"
-subtitle                 : "HIER Lab"
+subtitle                 : # "HIER Lab"
 name                     : "HIER Lab"
 description              : "Hybrid Intelligent Experimental Robotics (HIER) Lab Website"
 url                      : "https://Jaemin87.github.io"
