@@ -28,8 +28,6 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-header:
-  overlay_image: "/assets/images/front_page.jpg"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -153,6 +151,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+header:
+  overlay_image: "/assets/images/front_page.jpg"
 
 # Reading Files
 include:
