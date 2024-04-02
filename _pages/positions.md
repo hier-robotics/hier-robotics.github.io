@@ -1,5 +1,5 @@
 ---
-layout:single
-title:"Positions"
-permalink:/positions/
+layout: single
+title: "Positions"
+permalink: /positions/
 ---
