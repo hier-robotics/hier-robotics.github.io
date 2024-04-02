@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://jaemin87.github.io/
   - title: "Research"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /categories/
   - title: "Publications"
     url: /year-archive/
   - title: "People"
