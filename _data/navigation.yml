@@ -5,10 +5,10 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /year-archive/
+    url: /publications/
   - title: "People"
     url: /people/
   - title: "Positions"
-    url: /sitemap/
+    url: /positions/
   - title: "Contact"
-    url: /sitemap/
+    url: /contact/
