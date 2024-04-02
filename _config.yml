@@ -289,3 +289,5 @@ defaults:
       comments: # true
       share: true
       related: true
+    header:
+      overlay_image: /assets/images/front_page.jpg
