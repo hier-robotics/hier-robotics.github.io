@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://jaemin87.github.io/
   - title: "Research"
-    url: /categories/
+    url: /research/
   - title: "Publications"
     url: /year-archive/
   - title: "People"
