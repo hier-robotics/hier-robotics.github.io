@@ -151,9 +151,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-header:
-  overlay_image: "/assets/images/front_page.jpg"
-
 # Reading Files
 include:
   - .htaccess
