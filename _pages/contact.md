@@ -1,5 +1,5 @@
 ---
-layout:single
-title:"Contact"
+layout: single
+title: "Contact"
 permalink: /contact/
 ---
