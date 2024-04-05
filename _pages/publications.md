@@ -3,7 +3,9 @@ layout: splash
 title: "Publications"
 permalink: /publications/
 ---
+
 ## 2024
+<small>
 <p>
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
@@ -33,6 +35,7 @@ permalink: /publications/
   Min Dai, Jaemin Lee, Aaron D. Ames <br>
   American Control Conference (ACC) 2024
 </p>
+</small>
 
 ## 2023
 
