@@ -1,5 +1,5 @@
 ---
-layout: slash
+layout: splash
 title: "Publications"
 permalink: /publications/
 ---
