@@ -5,13 +5,11 @@ permalink: /publications/
 ---
 
 ## 2024
-<span style="font-size:4em;">
-<p>
+<p style="font-size:15pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   submitted 
 </p>
-</span>
 
 <p>
   <b>Safety-critical Control of Quadrupedal Robots with Rolling Arms for Autonomous Inspection of Complex Environments</b> <br>
