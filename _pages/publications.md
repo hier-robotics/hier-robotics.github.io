@@ -38,7 +38,7 @@ permalink: /publications/
 </small>
 
 ## 2023
-
+<small>
 <p>
   <b>Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
@@ -68,6 +68,7 @@ permalink: /publications/
  Jee-Eun, Jaemin Lee, Tirthankar Bandyopadhyay, and Luis Sentis <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2023
 </p>
+</small>
 
 ## 2022
 
