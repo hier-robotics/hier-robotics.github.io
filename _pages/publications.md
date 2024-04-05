@@ -4,8 +4,12 @@ title: "Publications"
 permalink: /publications/
 ---
 ## 2024
+<p>
+  <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
+  Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
+  In IEEE International Conference on Robotics and Automation (ICRA) 2024
+</p>
 
-- Jaemin Lee, Jeeseop Kim, and Aaron D. Ames, " Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms"
 - Jaemin Lee, Jeeseop Kim, Wyatt Ubellacker, Tamas G. Molnar, and Aaron D. Ames, "Safety-critical Control of Quadrupedal Robots with Rolling Arms for Autonomous Inspection of Complex Environments"
 - Jeeseop Kim, Jaemin Lee, and Aaron D. Ames, "Safety-Critical Coordination of Legged Robots via Layered Controllers   and Forward Reachable Set based Control Barrier Functions"
 - Jaemin Lee, Jeeseop Kim, Aaron D. Ames, "A Data-driven Method for Safety-critical Control: Designing Control Barrier Functions from State Constraints"
