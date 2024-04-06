@@ -67,5 +67,54 @@ permalink: /publications/
 </p>
 
 ## 2022
+<p style="font-size:13pt">
+  <b>Hierarchical Covariance Control for Robots via Task-Space Linearization and Chance Constraints</b> <br>
+  Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
+  IEEE Control Systems Letters 6 (2022): 2359-2364
+</p>
+
+<p style="font-size:13pt">
+  <b>Online Gain Adaptation for Whole-Body Control of Legged Robots with Unknown External Disturbances</b> <br>
+  Jaemin Lee, Junhyeok Ahn, Donghyun Kim, Seung Hyeon Bang, and Luis Sentis <br>
+  Frontiers in Robotics and AI, 8 (2022)
+</p>
 
 ## 2021
+<p style="font-size:13pt">
+  <b>Efficient Trajectory Generation for Robotic Systems Constrained by Contact Forces</b> <br>
+  Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
+  Autonomous Robots, 45 (2021): 135-153
+</p>
+
+## 2020
+<p style="font-size:13pt">
+  <b>Data Efficient and Safe Learning for Locomotion via Simplified Model</b> <br>
+  Junhyeok Ahn, Jaemin Lee, and Luis Sentis <br>
+  IEEE Robotics and Automation Letters(R-AL), 5 (3) (2020): 4376-4383
+</p>
+
+<p style="font-size:13pt">
+  <b>Dynamic Locomotion for Passive-Ankle Biped Robots and Humanoids Using Whole-Body Locomotion Control</b> <br>
+  Donghyun Kim, Steven Jorgensen, Jaemin Lee, Junhyeok Ahn, Jianwen Lui, and Luis Sentis <br>
+  International Journal of Robotics Research (IJRR), 39 (8) (2020): 936-956
+</p>
+
+<p style="font-size:13pt">
+  <b>MPC-Based Hierarchical Task Space Control of Underactuated and Constrained Robots for Execution of Multiple Tasks</b> <br>
+  Jaemin Lee, Seung Hyeon Bang, Efstathios Bakolas, and Luis Sentis <br>
+  IEEE International Conference on Decision and Control (CDC) 2020
+</p>
+
+<p style="font-size:13pt">
+  <b>BP-RRT: Barrier Pair Synthesis for Temporal Logic Motion Planning</b> <br>
+  Hinghan He, Jaemin Lee, Ufuk Topcu, and Luis Sentis <br>
+  IEEE International Conference on Decision and Control (CDC) 2020
+</p>
+
+<p style="font-size:13pt">
+  <b>Trajectory generation for robotic systems with contact force constraints</b> <br>
+  Jaemin Lee, Junhyeok Ahn, Efstathios Bakolas, and Luis Sentis <br>
+  American Control Conference (ACC) 2024
+</p>
+
+
