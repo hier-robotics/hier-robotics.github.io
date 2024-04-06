@@ -202,7 +202,7 @@ permalink: /publications/
   International Conference on Control, Automation and Systems (ICCAS) 2013
 </p>
 
-# 2012
+## 2012
 <p style="font-size:13pt">
   <b>Intermediate desired value approach for task transition of robots in kinematic control </b> <br>
   Jaemin Lee, Nicolas Mansard, and Jaeheung Park <br>
