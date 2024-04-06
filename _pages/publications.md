@@ -112,9 +112,114 @@ permalink: /publications/
 </p>
 
 <p style="font-size:13pt">
-  <b>Trajectory generation for robotic systems with contact force constraints</b> <br>
+  <b>Reachability-based trajectory optimization for robotic systems given sequences of rigid contacts</b> <br>
   Jaemin Lee, Junhyeok Ahn, Efstathios Bakolas, and Luis Sentis <br>
-  American Control Conference (ACC) 2024
+  American Control Conference (ACC) 2020
+</p>
+
+## 2019
+<p style="font-size:13pt">
+  <b>Trajectory generation for robotic systems with contact force constraints</b> <br>
+  Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
+  American Control Conference (ACC) 2019
+</p>
+
+## 2018
+<p style="font-size:13pt">
+  <b>Computationally-robust and efficient prioritized whole-body controller with contact constraints</b> <br>
+  Donghyun Kim, Jaemin Lee, Junhyeok Ahn, Orion Campbell, Hocheol Hwang, and Luis Sentis <br>
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018
+</p>
+
+## 2017
+<p style="font-size:13pt">
+  <b>A Control Scheme to Minimize Muscle Energy for Power Assistant Robotics Systems under Unknown External Perturbation</b> <br>
+  Jaemin Lee, Minkyu Kim, and Keehoon Kim <br>
+  IEEE Transaction on Neural Systems and Rehabilitation Engineering 25. 12 (2017): 2313-2327
+</p>
+
+<p style="font-size:13pt">
+  <b>On the Design of a Miniature Haptic Ring for Cutaneous Force Feedback using Shape Memory Alloy Actuators</b> <br>
+  Donghyun Hwang, Jaemin Lee, and Keehoon Kim <br>
+  Smart Materials and Structures 26. 10 (2017)
+</p>
+
+## 2016
+<p style="font-size:13pt">
+  <b>Flexible piezoelectric energy harvesting from mouse click motions </b> <br>
+  Youngsu Cha, Jin Hong, Jaemin Lee, Jung Min Park, and Keehoon Kim <br>
+  Sensors 16.7 (2016): 1045
+</p>
+
+<p style="font-size:13pt">
+  <b>A Feasibility Test of Underactuated Robotic Prosthetic Fingers Actuated by Shape Memory Alloy</b> <br>
+  Jaemin Lee, Donghyun Hwang, Minkyu Kim, and Keehoon Kim <br>
+  IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob) 2016
+</p>
+
+<p style="font-size:13pt">
+  <b>Enhancement of sEMG-based Gesture Classification Using Mahalanobis Distance Metric</b> <br>
+  Minkyu Kim, Jaemin Lee, and Keehoon Kim <br>
+  IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob) 2016
+</p>
+
+<p style="font-size:13pt">
+  <b>Tele-operation system with Reliable Grasping Force Estimation to Compensate for the Time-varying sEMG Feature</b> <br>
+  Minkyu Kim, Jaemin Lee, and Keehoon Kim <br>
+  IEEE International Conference on Robotics and Automation (ICRA) 2016
+</p>
+
+## 2015
+<p style="font-size:13pt">
+  <b>A Robust Control Method of Multi-DOF Power-Assistant Robots for Unknown External Perturbation using sEMG Signals</b> <br>
+  Jaemin Lee, Minkyu Kim, and Keehoon Kim <br>
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2015 
+</p>
+
+## 2014
+<p style="font-size:13pt">
+  <b>A control Method of Power-Assisted Robot for Upper Limb considering Intention-based Motion by Using sEMG Signal </b> <br>
+  Jaemin Lee, Minkyu Kim, Hyunkyu Ko and Keehoon Kim <br>
+  International Conference on Ubiquitous Robots and Ambient Intelligence (URAI) 2014 
+</p>
+
+<p style="font-size:13pt">
+  <b>A preliminary analysis of window size and voting size with a time delay for a robust real-time sEMG pattern recognition </b> <br>
+  Minkyu Kim, Jaemin Lee, Hyunkyu Ko and Keehoon Kim <br>
+  International Conference on Ubiquitous Robots and Ambient Intelligence (URAI) 2014 
+</p>
+
+<p style="font-size:13pt">
+  <b>Integrated Control Method for Power-Assisted Rehabilitation: Ellipsoid Regression and Impedance Control </b> <br>
+  Jaemin Lee, Minkyu Kim and Keehoon Kim <br>
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2014
+</p>
+
+## 2013
+<p style="font-size:13pt">
+  <b>Control Strategies for Manipulating Contact Force of Impact Wrench to Generate High Level Torque </b> <br>
+  Jaemin Lee, Dong-Shin Ko, Young-Hwan Jeon and Deog-Jae Hur <br>
+  International Conference on Control, Automation and Systems (ICCAS) 2013
+</p>
+
+# 2012
+<p style="font-size:13pt">
+  <b>Intermediate desired value approach for task transition of robots in kinematic control </b> <br>
+  Jaemin Lee, Nicolas Mansard, and Jaeheung Park <br>
+  IEEE Transactions on Robotics 28.6 (2012): 1260-1277
+</p>
+
+<p style="font-size:13pt">
+  <b>A Continuous Task Transition Algorithm for Operational Space Control Framework </b> <br>
+  Hyejin Han, Jaemin Lee and Jaeheung Park <br>
+  International Conference on Ubiquitous Robots and Ambient Intelligence (URAI) 2012
+</p>
+
+## 2011
+<p style="font-size:13pt">
+  <b>Intermediate Desired Value Approach for Continuous Transition among Multiple Tasks of Robots </b> <br>
+  Jaemin Lee, Nicolas Mansard and Jaeheung Park <br>
+  IEEE International Conference on Robotics and Automation (ICRA) 2011
 </p>
 
 
