@@ -34,7 +34,6 @@ permalink: /publications/
   Min Dai, Jaemin Lee, Aaron D. Ames <br>
   American Control Conference (ACC) 2024
 </p>
-</small>
 
 ## 2023
 <p style="font-size:15pt">
@@ -66,7 +65,6 @@ permalink: /publications/
  Jee-Eun, Jaemin Lee, Tirthankar Bandyopadhyay, and Luis Sentis <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2023
 </p>
-</small>
 
 ## 2022
 
