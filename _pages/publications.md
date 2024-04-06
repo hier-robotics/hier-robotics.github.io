@@ -36,31 +36,31 @@ permalink: /publications/
 </p>
 
 ## 2023
-<p style="font-size:15pt">
+<p style="font-size:13pt">
   <b>Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
 </p>
 
-<p style="font-size:15pt">
+<p style="font-size:13pt">
   <b>Safety-Critical Coordination for Cooperative Legged Locomotion via Control Barrier Functions</b> <br>
   Jeeseop Kim, Jaemin Lee, and Aaron D. Ames <br>
   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
 </p>
 
-<p style="font-size:15pt">
+<p style="font-size:13pt">
   <b>Data-driven Adaptation for Robust Bipedal Locomotion with Step-to-Step Dynamics</b> <br>
   Min Dai, Xiaobin Xiong, Jaemin Lee, and Aaron D. Ames <br>
   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
 </p>
 
-<p style="font-size:15pt">
+<p style="font-size:13pt">
   <b>Real-Time Model Predictive Control for Industrial Manipulators with Singularity-Tolerant Hierarchical Task Control</b> <br>
   Jaemin Lee, Mingyo Seo, Andrew Bylard, Robert Sun, and Luis Sentis <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2023
 </p>
 
-<p style="font-size:15pt">
+<p style="font-size:13pt">
   <b>Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries</b> <br>
  Jee-Eun, Jaemin Lee, Tirthankar Bandyopadhyay, and Luis Sentis <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2023
