@@ -14,13 +14,13 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Safety-critical Control of Quadrupedal Robots with Rolling Arms for Autonomous Inspection of Complex Environments</b> <br>
   Jaemin Lee, Jeeseop Kim, Wyatt Ubellacker, Tamas G. Molnar, and Aaron D. Ames <br>
-  In IEEE International Conference on Robotics and Automation (ICRA) 2024
+  IEEE International Conference on Robotics and Automation (ICRA) 2024
 </p>
 
 <p style="font-size:13pt">
   <b>Safety-Critical Coordination of Legged Robots via Layered Controllers   and Forward Reachable Set based Control Barrier Functions</b> <br>
   Jeeseop Kim, Jaemin Lee, and Aaron D. Ames <br>
-  In IEEE International Conference on Robotics and Automation (ICRA) 2024
+  IEEE International Conference on Robotics and Automation (ICRA) 2024
 </p>
 
 <p style="font-size:13pt">
