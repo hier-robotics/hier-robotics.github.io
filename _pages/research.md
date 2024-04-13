@@ -6,8 +6,8 @@ permalink: /research/
 
 ## Whole-body Planning and Control
 
-## Versatile Loco-manipulation
+## Sensor-based Versatile Loco-manipulation
 
 ## Transformable Hardware
 
-## Sensor-based & AI-based Task Scheduling
+## AI-based Task Scheduling
