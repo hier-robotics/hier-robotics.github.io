@@ -10,4 +10,4 @@ permalink: /research/
 
 ## Transformable Hardware
 
-## Sensor-based Task Scheduling
+## Sensor-based & AI-based Task Scheduling
