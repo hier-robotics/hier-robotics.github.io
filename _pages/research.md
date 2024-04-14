@@ -7,11 +7,13 @@ permalink: /research/
 ## Whole-body Planning and Control
 
 <img src="/assets/images/logo.jpg" align="left" width="200px"/>
-some text floating around the image
+<p style="font-size:13pt">
+  <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
+  Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
+  submitted 
+</p>
 
 <br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
 
 ## Sensor-based Versatile Loco-manipulation
 
