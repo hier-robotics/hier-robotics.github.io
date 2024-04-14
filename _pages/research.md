@@ -7,7 +7,7 @@ permalink: /research/
 ## Whole-body Planning and Control
 
 <img src="/assets/images/logo.jpg" align="left" width="200px"/>
-<p style="font-size:13pt; margin-left: 30px">
+<p style="margin-left: 30px; font-size:13pt;">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   submitted 
