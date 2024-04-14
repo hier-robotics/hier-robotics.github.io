@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Whole-body Planning and Control
 
-<img src="assets/images/logo.jpg" align="left" width="200px"/>
+<img src="/assets/images/logo.jpg" align="left" width="200px"/>
 some text floating around the image
 
 <br clear="left"/>
