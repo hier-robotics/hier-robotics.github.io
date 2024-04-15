@@ -24,7 +24,7 @@ permalink: /publications/
 </p>
 
 <p style="font-size:13pt">
-  <b>[A Data-driven Method for Safety-critical Control: Designing Control Barrier Functions from State Constraints](https://ieeexplore.ieee.org/abstract/document/10341396)</b> <br>
+  <b>A Data-driven Method for Safety-critical Control: Designing Control Barrier Functions from State Constraints</b> [Link](https://ieeexplore.ieee.org/abstract/document/10341396) <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   American Control Conference (ACC) 2024
 </p>
