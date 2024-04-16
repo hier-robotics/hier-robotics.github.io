@@ -27,7 +27,6 @@ permalink: /publications/
   <b>A Data-driven Method for Safety-critical Control: Designing Control Barrier Functions from State Constraints</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   American Control Conference (ACC) 2024 <br>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10341396">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:X9i6XKldMp0J:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3sjB0:AFWwaeYAAAAAZh3qlB0o_EvBA0wJorGrOEDXs7U&scisig=AFWwaeYAAAAAZh3qlKXQ_WWyT0b2r6e4RFpn3ZM&scisf=4&ct=citation&cd=-1&hl=en">bib</a>
 </p>
 
 <p style="font-size:13pt">
@@ -52,13 +51,15 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Data-driven Adaptation for Robust Bipedal Locomotion with Step-to-Step Dynamics</b> <br>
   Min Dai, Xiaobin Xiong, Jaemin Lee, and Aaron D. Ames <br>
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10341396">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:X9i6XKldMp0J:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3sjB0:AFWwaeYAAAAAZh3qlB0o_EvBA0wJorGrOEDXs7U&scisig=AFWwaeYAAAAAZh3qlKXQ_WWyT0b2r6e4RFpn3ZM&scisf=4&ct=citation&cd=-1&hl=en">bib</a>
 </p>
 
 <p style="font-size:13pt">
   <b>Real-Time Model Predictive Control for Industrial Manipulators with Singularity-Tolerant Hierarchical Task Control</b> <br>
   Jaemin Lee, Mingyo Seo, Andrew Bylard, Robert Sun, and Luis Sentis <br>
-  IEEE International Conference on Robotics and Automation (ICRA) 2023
+  IEEE International Conference on Robotics and Automation (ICRA) 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10161138">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_zbriurneacJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3tlZ4:AFWwaeYAAAAAZh3rjZ4uxte3a2j7z3x7owCyoZY&scisig=AFWwaeYAAAAAZh3rjQbSZR0nJRyC2eybJIJdeLQ&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
 <p style="font-size:13pt">
