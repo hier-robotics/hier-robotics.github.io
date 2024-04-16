@@ -75,13 +75,15 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Hierarchical Covariance Control for Robots via Task-Space Linearization and Chance Constraints</b> <br>
   Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
-  IEEE Control Systems Letters 6 (2022): 2359-2364
+  IEEE Control Systems Letters 6 (2022): 2359-2364 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/9718524">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:LW7yEmpkIvIJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr38fK4:AFWwaeYAAAAAZh36ZK75ffuZHvoTfn2Wg3ojpM0&scisig=AFWwaeYAAAAAZh36ZBPAaIf30ys1Dy_POhEv6cg&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
 <p style="font-size:13pt">
   <b>Online Gain Adaptation for Whole-Body Control of Legged Robots with Unknown External Disturbances</b> <br>
   Jaemin Lee, Junhyeok Ahn, Donghyun Kim, Seung Hyeon Bang, and Luis Sentis <br>
-  Frontiers in Robotics and AI, 8 (2022)
+  Frontiers in Robotics and AI, 8 (2022) <br>
+  <a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.788902/full">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:MVm_lCRlT5oJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr38sFI:AFWwaeYAAAAAZh36qFIaXNcmZeeQhdho56Tgy64&scisig=AFWwaeYAAAAAZh36qPGW0iJTHgq_vxX5DjooEbo&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
 ## 2021
