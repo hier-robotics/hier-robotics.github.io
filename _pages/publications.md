@@ -39,13 +39,15 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10342094">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Zt8nOmlIZqkJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3rCBc:AFWwaeYAAAAAZh3tEBcmDvLRZw_bIjy_yP-hwpI&scisig=AFWwaeYAAAAAZh3tEIXzjV-GmVWb1r2-7Xv1Y0U&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
 <p style="font-size:13pt">
   <b>Safety-Critical Coordination for Cooperative Legged Locomotion via Control Barrier Functions</b> <br>
   Jeeseop Kim, Jaemin Lee, and Aaron D. Ames <br>
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10341987">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:w5ZjGMTmq-IJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3rTSE:AFWwaeYAAAAAZh3tVSEKcdZWdtDFSQihTN_On9M&scisig=AFWwaeYAAAAAZh3tVSj1kuK-6u4SOCXqy55uOSw&scisf=4&ct=citation&cd=-1&hl=en">bib</a>    
 </p>
 
 <p style="font-size:13pt">
@@ -65,7 +67,8 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Sample Efficient Dynamics Learning for Symmetrical Legged Robots: Leveraging Physics Invariance and Geometric Symmetries</b> <br>
  Jee-Eun, Jaemin Lee, Tirthankar Bandyopadhyay, and Luis Sentis <br>
-  IEEE International Conference on Robotics and Automation (ICRA) 2023
+  IEEE International Conference on Robotics and Automation (ICRA) 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10160959">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qaL-CMKyjhsJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3qt4k:AFWwaeYAAAAAZh3sr4k-8YincgcQ3I_bll2HWNA&scisig=AFWwaeYAAAAAZh3sr7TzWLJVP7a7KvNAVcdP1H4&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
 ## 2022
