@@ -29,6 +29,8 @@ permalink: /publications/
   American Control Conference (ACC) 2024
 </p>
 
+[Link](https://ieeexplore.ieee.org/abstract/document/10341396)
+
 <p style="font-size:13pt">
   <b>Multi-domain Walking with Reduced-order Models of Locomotion</b> <br>
   Min Dai, Jaemin Lee, Aaron D. Ames <br>
