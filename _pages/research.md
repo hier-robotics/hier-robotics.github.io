@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Whole-body Planning and Control
 
-<img src="/assets/images/logo.jpg" align="left" width="200px" style="margin-right: 20px;"/>
+<img src="/assets/images/whole_body_control.jpg" align="left" width="300px" style="margin-right: 20px;"/>
 <p style="font-size:13pt;">
   The objective of <b>whole-body planning and control</b> is to achieve the safe and efficient operations of intricate robotic systems that incorporate multiple points of contact, complicated constraints, and floating bases. Leveraging simplified rules and tasks derived from reduced-order models, we derive comprehensive control commands for the entire body, optimizing performance while maintaining a delicate equilibrium between safety and productivity through <b>whole-body planning and control</b> strategies. Central to our research focus is the development of comprehensive whole-body controllers, reachability-based motion planning techniques, and the implementation of safety-critical planning methodologies, addressing challenges posed by the model discrepancy between reduced-order and full-body models.
 </p>
