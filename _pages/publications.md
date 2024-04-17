@@ -12,6 +12,12 @@ permalink: /publications/
 </p>
 
 <p style="font-size:13pt">
+  <b>Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers</b> <br>
+  Seung Hyeon Bang, Jaemin Lee, Carlos Gonzalez, and Luis Sentis <br>
+  submitted 
+</p>
+
+<p style="font-size:13pt">
   <b>Safety-critical Control of Quadrupedal Robots with Rolling Arms for Autonomous Inspection of Complex Environments</b> <br>
   Jaemin Lee, Jeeseop Kim, Wyatt Ubellacker, Tamas G. Molnar, and Aaron D. Ames <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2024 <br>
