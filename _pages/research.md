@@ -18,14 +18,11 @@ permalink: /research/
   <b>Loco-manipulation</b> stands as a significnatly important capability for executing intricate, human-like missions in unstructured environments and wildelife. The choice of locomotion type profoundly impacts stability, dexterity, precision, and the integration of manipulation with mobility amid physical interactions. Particularly, in dynamic levels, agile and robust locomotion becomes imperative to effectively manage reactive forces for not only locomotion but also manipulation in contacts with the environment while ensuring precise global localization. To optimize agility, stability, and accuracy in <b>loco-manipulation</b>, we employ a multifaceted approach, harnessing multiple sensors within a reactive planning and control architecture. Our goal is to delve into optimization problems that dynamically ascertain the most suitable locomotion types, thereby enhancing performance and minimizing risks during the execution of long-term <b>loco-manipulation</b> missions using legged robots. This study amalgamates model-based and data-driven methodologies, leveraging uncertain measurements from the sensors of the robotic systems.
 </p>
 
-
 ## Transformable Hardware
 
 <img src="/assets/images/transformerable_hardware.jpg" align="left" width="250px" style="margin-right: 20px;"/>
 <p style="font-size:13pt;">
-  <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
-  Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
-  submitted 
+  Each locomotion type boasts its own set of advantages, particularly in terms of stability. For instance, quadrupedal locomotion is better for its stability and versatility, offering a robust platform for various tasks. However, it may not be suitable for terrains with limited space and often requires additional limbs to execute additional manipulation tasks compared to bipedal locomotion. Moreover, when navigating complex environments or emulating wildlife behaviors, such as climbing and hanging, robots face formidable challenges. To address these challenges, our focus lies in the development of innovative hardware for loco-manipulation, incorporating features like transformable limbs and end-effectors to enhance versatility and overall performance. Drawing inspiration from nature, such as the adaptability of gorilla front limbs, we aim to create limbs capable of transitioning between roles as both arms and legs, endowed with powerful mechanical performance. Our efforts center on refining the mechanical structure of robotic systems, employing hybrid actuation methods that combine hydraulic and electric actuators to provide temporary enhanced power and leverage natural damping effects for extreme locomotion scenarios.
 </p>
 
 ## AI-based Task Scheduling
