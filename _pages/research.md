@@ -20,7 +20,7 @@ permalink: /research/
 
 ## Transformable Hardware
 
-<img src="/assets/images/transformerable_hardware.jpg" align="left" width="250px" style="margin-right: 20px;margin-top: 10px;"/>
+<img src="/assets/images/transformerable_hardware.jpg" align="left" width="250px" style="margin-right: 20px;margin-top: 15px;"/>
 <p style="font-size:13pt;">
   Each locomotion type boasts its own set of advantages, particularly in terms of stability. For instance, quadrupedal locomotion is better for its stability and versatility, offering a robust platform for various tasks. However, it may not be suitable for terrains with limited space and often requires additional limbs to execute additional manipulation tasks compared to bipedal locomotion. Moreover, when navigating complex environments or emulating wildlife behaviors, such as climbing and hanging, robots face formidable challenges. To address these challenges, our focus lies in the development of innovative hardware for loco-manipulation, incorporating features like <b>transformable limbs and end-effectors</b> to enhance versatility and overall performance. Drawing inspiration from nature, such as the adaptability of gorilla front limbs, we aim to create limbs capable of <b>transitioning between roles as both arms and legs</b>, endowed with powerful mechanical performance. Our efforts center on refining the mechanical structure of robotic systems, employing hybrid actuation methods that combine hydraulic and electric actuators to provide temporary enhanced power and leverage natural damping effects for extreme locomotion scenarios.
 </p>
