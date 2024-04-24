@@ -8,7 +8,8 @@ permalink: /publications/
 <p style="font-size:13pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
-  submitted 
+  submitted <br>
+  <a href="https://arxiv.org/abs/2404.10938">arxiv</a> 
 </p>
 
 <p style="font-size:13pt">
