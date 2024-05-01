@@ -8,7 +8,7 @@ main:
     url: /publications/
   - title: "People"
     url: /people/
+  - title: "Videos"
+    url: /videos/
   - title: "Join"
-    url: /join/
-  # - title: "Contact"
-  #   url: /contact/
+    url: /join/    
