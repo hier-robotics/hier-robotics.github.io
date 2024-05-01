@@ -12,4 +12,3 @@ permalink: /people/
   Jaemin is .....
 </p>
 
-## Ph.D. Students
