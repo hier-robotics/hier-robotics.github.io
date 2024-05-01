@@ -15,7 +15,7 @@ We intend to accept new Ph.D. students annually, taking into account available g
 <p style="font-size:13pt;">
 If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please email the PI with the subject line "NC State University Student - <M.S/Undergraduate>". It would be great if you could include your research interests and the projects that you are most passionate about. Additionally, to provide us with a better understanding of your background, please include the following information:
 </p>
-- <p style="font-size:13pt;"> which year you ar at NC State University / future career path / an attachted CV/resume
+- <p style="font-size:13pt;"> which year you are at NC State University / future career path / an attachted CV/resume
 
 ## Prospective Postdocs
 <p style="font-size:13pt;">
