@@ -10,7 +10,7 @@ We intend to accept new Ph.D. students annually, taking into account available g
 </p>
 
 - <p style="font-size:13pt;"> Please indicate one of the following topics—Design, Planning and Control, or Learning—in the very first line of your email and send a brief statement outlining your specific interests and relevant skills or experiences.
-- <p style="font-size:13pt;"> Please attach your CV/Resume and supplementary materials demonstrating your expertise
+- <p style="font-size:13pt;"> Please attach your CV/Resume and supplementary materials demonstrating your expertise.
 
 ## NC State University Undergraduate or M.S. Students
 
