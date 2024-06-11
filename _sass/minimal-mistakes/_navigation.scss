@@ -22,8 +22,8 @@
   //   max-width: $x-large;
   // }
 
-  @include breakpoint($large) {
-    max-width: $large;
+  @include breakpoint($small) {
+    max-width: $small;
   }
 
   ol {
@@ -31,12 +31,12 @@
     list-style: none;
     font-size: $type-size-7;
 
-    @include breakpoint($large) {
+    @include breakpoint($small) {
       float: right;
       width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
-    @include breakpoint($x-large) {
+    @include breakpoint($small) {
       width: calc(100% - #{$right-sidebar-width});
     }
   }
@@ -350,7 +350,7 @@
     display: none;
   }
 
-  @include breakpoint(max-width $large - 1px) {
+  @include breakpoint(max-width $small - 1px) {
     label {
       position: relative;
       display: inline-block;
@@ -429,7 +429,7 @@
       display: block;
       padding: 0.25em 0;
 
-      @include breakpoint($large) {
+      @include breakpoint($small) {
         padding-top: 0.125em;
         padding-bottom: 0.125em;
       }
@@ -456,7 +456,7 @@
     font-weight: bold;
   }
 
-  @include breakpoint(max-width $large - 1px) {
+  @include breakpoint(max-width $small - 1px) {
     position: relative;
     max-height: 0;
     opacity: 0%;
@@ -470,7 +470,7 @@
   }
 }
 
-@include breakpoint(max-width $large - 1px) {
+@include breakpoint(max-width $small - 1px) {
   .nav__list input:checked ~ .nav__items {
     -webkit-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
@@ -537,7 +537,7 @@
   list-style: none;
   font-size: $type-size-7;
 
-  @include breakpoint($large) {
+  @include breakpoint($small) {
     font-size: $type-size-7;
   }
 
