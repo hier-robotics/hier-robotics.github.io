@@ -82,12 +82,14 @@
 
   /* extra large button */
   &--x-large {
-    font-size: $type-size-4;
+    // font-size: $type-size-4;
+    font-size: $type-size-7;
   }
 
   /* large button */
   &--large {
-    font-size: $type-size-5;
+    // font-size: $type-size-5;    
+    font-size: $type-size-7;
   }
 
   /* small button */
