@@ -18,8 +18,12 @@
   -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  // @include breakpoint($x-large) {
+  //   max-width: $x-large;
+  // }
+
+  @include breakpoint($large) {
+    max-width: $large;
   }
 
   ol {
