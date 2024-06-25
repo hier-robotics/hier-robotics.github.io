@@ -12,7 +12,7 @@ permalink: /research/
 </p>
 
 <p style="font-size:11pt;">
-- multi-layered architecture / safety-crtitical control/ whole-body control
+- topics: multi-layered architecture / safety-crtitical control/ whole-body control
 </p>
 
 ## Sensor-based Versatile Loco-manipulation
@@ -23,7 +23,7 @@ permalink: /research/
 </p>
 
 <p style="font-size:11pt;">
-- locomotion control / robust control / learning-based control / perception in a loop
+- topics: locomotion control / robust control / learning-based control / perception in a loop
 </p>
 
 ## Transformable Hardware
@@ -34,7 +34,7 @@ permalink: /research/
 </p>
 
 <p style="font-size:11pt;">
-- transformable hardware / hybrid dynamics / multi-purpose limbs / novel mechanisms
+- topics: transformable hardware / hybrid dynamics / multi-purpose limbs / novel mechanisms
 </p>
 
 
@@ -46,5 +46,5 @@ permalink: /research/
 </p>
 
 <p style="font-size:11pt;">
-- multi-tasking in a loop with AI / learning-based mode adaptation / risk-aware reconfiguration for long-term missions 
+- topics: multi-tasking in a loop with AI / learning-based mode adaptation / risk-aware reconfiguration for long-term missions 
 </p>
