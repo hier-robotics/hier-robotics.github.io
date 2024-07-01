@@ -8,7 +8,7 @@ permalink: /publications/
 <p style="font-size:11pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
-  submitted <br>
+  Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 <br>
   <a href="https://arxiv.org/abs/2404.10938">arxiv</a> 
 </p>
 
