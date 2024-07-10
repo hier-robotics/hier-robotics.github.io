@@ -4,9 +4,10 @@ title: "Join"
 permalink: /join/
 ---
 
+
 ## Prospective Ph.D. Students
 <p style="font-size:11pt;">
-We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to reach out via email to the Principal Investigator (PI), providing the following information:
+We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to reach out via email to the Principal Investigator (PI), [jaemin.lee@ncsu.edu](mailto:jaemin.lee@ncsu.edu), providing the following information:
 </p>
 - <p style="font-size:11pt;"> Please indicate one of the following topics—Design, Planning and Control, or Learning—in the very first line of your email and send a brief statement outlining your specific interests and relevant skills or experiences.
 - <p style="font-size:11pt;"> Please attach your CV/resume and supplementary materials demonstrating your expertise.
