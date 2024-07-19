@@ -13,6 +13,7 @@ His research interests span the area of robotics, optimal planning, whole-body c
 </p>
 
 ## Ph.D. Students
+
 <p style="font-size:11px;">
 - Name <br>
 - B.S. in <br>
