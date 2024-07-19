@@ -14,9 +14,9 @@ His research interests span the area of robotics, optimal planning, whole-body c
 
 ## Ph.D. Students
 <p style="font-size:11px;">
-* Name <br>
-* B.S. in <br>
-* M.S. in <br>
-* Ph.D. Student in Mechanical and Aerospace Enginnering <br>
-* Research Interest: <br>
+- Name <br>
+- B.S. in <br>
+- M.S. in <br>
+- Ph.D. Student in Mechanical and Aerospace Enginnering <br>
+- Research Interest: <br>
 </p>
