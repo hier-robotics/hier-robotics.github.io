@@ -16,7 +16,7 @@ His research interests span the area of robotics, optimal planning, whole-body c
 <img src="/assets/images/Huan_min.jpg" align="left" width="120px" style="margin-right: 20px;margin-top: 10px;"/>
 <p style="font-size:11pt;">
 - Huan Min <br>
-- B.S. in mechanical Engineering from Rutgers University<br>
+- B.S. in mechanical Engineering, Rutgers University<br>
 - M.S. in Robotics, Johns Hopkins University<br>
 - Ph.D. Student in Mechanical and Aerospace Enginnering, NC State University <br>
 - Research Interest: Learning-based Planning and Control for Loco-manipulation <br>
