@@ -15,7 +15,7 @@ His research interests span the area of robotics, optimal planning, whole-body c
 ## Ph.D. Students
 <img src="/assets/images/Huan_min.jpg" align="left" width="120px" style="margin-right: 20px;margin-top: 10px;"/>
 <p style="font-size:11pt;">
-- Huan Min <br>
+- <b> Huan Min </b> <br>
 - B.S. in mechanical Engineering, Rutgers University<br>
 - M.S. in Robotics, Johns Hopkins University<br>
 - Ph.D. Student in Mechanical and Aerospace Enginnering, NC State University <br>
