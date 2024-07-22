@@ -20,4 +20,6 @@ His research interests span the area of robotics, optimal planning, whole-body c
 - M.S. in Robotics, Johns Hopkins University<br>
 - Ph.D. Student in Mechanical and Aerospace Enginnering, NC State University <br>
 - Research Interest: Learning-based Planning and Control for Loco-manipulation <br>
+- Web: <br>
+- Email: <br>
 </p>
