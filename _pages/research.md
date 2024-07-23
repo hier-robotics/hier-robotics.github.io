@@ -6,12 +6,12 @@ permalink: /research/
 
 ## Safety-critical Whole-body Planning and Control
 
-<img src="/assets/images/whole_body_control.jpg" align="left" width="250px" style="margin-right: 20px;margin-top: 10px;"/>
-<p style="font-size:11pt;">
+<img src="/assets/images/whole_body_control.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 10px;"/>
+<p style="font-size:9pt;">
   The objective of <b>whole-body planning and control</b> is to achieve the safe and efficient operations of intricate robotic systems that incorporate multiple points of contact, complicated constraints, and floating bases. Leveraging simplified rules and tasks derived from reduced-order models, we derive comprehensive control commands for the entire body, optimizing performance while maintaining a delicate equilibrium between safety and productivity through <b>whole-body planning and control</b> strategies. Central to our research focus is the development of comprehensive whole-body controllers, reachability-based motion planning techniques, and the implementation of safety-critical planning methodologies, addressing challenges posed by the model discrepancy between reduced-order and full-body models.
 </p>
 
-<p style="font-size:11pt;">
+<p style="font-size:9pt;">
 - topics: multi-layered architecture / safety-crtitical control/ whole-body control
 </p>
 
