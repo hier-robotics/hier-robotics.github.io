@@ -288,7 +288,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
 
 # excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 # header:
