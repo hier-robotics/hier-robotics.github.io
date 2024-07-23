@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-### 2024
+## 2024
 <p style="font-size:9pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
@@ -46,7 +46,7 @@ permalink: /publications/
   <a href="https://arxiv.org/abs/2310.03179">arxiv</a> 
 </p>
 
-### 2023
+## 2023
 <p style="font-size:9pt">
   <b>Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
@@ -82,7 +82,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/10160959">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:qaL-CMKyjhsJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr3qt4k:AFWwaeYAAAAAZh3sr4k-8YincgcQ3I_bll2HWNA&scisig=AFWwaeYAAAAAZh3sr7TzWLJVP7a7KvNAVcdP1H4&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2022
+## 2022
 <p style="font-size:9pt">
   <b>Hierarchical Covariance Control for Robots via Task-Space Linearization and Chance Constraints</b> <br>
   Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
@@ -97,7 +97,7 @@ permalink: /publications/
   <a href="https://www.frontiersin.org/articles/10.3389/frobt.2021.788902/full">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:MVm_lCRlT5oJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr38sFI:AFWwaeYAAAAAZh36qFIaXNcmZeeQhdho56Tgy64&scisig=AFWwaeYAAAAAZh36qPGW0iJTHgq_vxX5DjooEbo&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2021
+## 2021
 <p style="font-size:9pt">
   <b>Efficient Trajectory Generation for Robotic Systems Constrained by Contact Forces</b> <br>
   Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
@@ -105,7 +105,7 @@ permalink: /publications/
   <a href="https://link.springer.com/article/10.1007/s10514-020-09952-7">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ClxIGubsypEJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4bIzo:AFWwaeYAAAAAZh4dOzoPxNskWsx80tLEg4d-Xqk&scisig=AFWwaeYAAAAAZh4dO6Co8wsUH0AHuRKqQNYpKIc&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2020
+## 2020
 <p style="font-size:9pt">
   <b>Data Efficient and Safe Learning for Locomotion via Simplified Model</b> <br>
   Junhyeok Ahn, Jaemin Lee, and Luis Sentis <br>
@@ -141,7 +141,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/9147926">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Gk3vOxim_XUJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4YOG0:AFWwaeYAAAAAZh4eIG0hrzbUij2RhJfaxDJ5BB0&scisig=AFWwaeYAAAAAZh4eIAkC0IovJNcjUVcRnJ6Q0ys&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2019
+## 2019
 <p style="font-size:9pt">
   <b>Trajectory generation for robotic systems with contact force constraints</b> <br>
   Jaemin Lee, Efstathios Bakolas, and Luis Sentis <br>
@@ -149,7 +149,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/8815154">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:75O1xBYl2bwJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4YUoU:AFWwaeYAAAAAZh4eSoV9gF-95fvgROA2La0UNvI&scisig=AFWwaeYAAAAAZh4eShO-HRXVuigUak5DmTTpGNI&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2018
+## 2018
 <p style="font-size:9pt">
   <b>Computationally-robust and efficient prioritized whole-body controller with contact constraints</b> <br>
   Donghyun Kim, Jaemin Lee, Junhyeok Ahn, Orion Campbell, Hocheol Hwang, and Luis Sentis <br>
@@ -157,7 +157,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/8593767">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:btapB9422cgJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4Yapg:AFWwaeYAAAAAZh4ecpgFcuroMDtVn0wv0cTBkus&scisig=AFWwaeYAAAAAZh4ecgbkTNcOrL7dm5zxjejupbg&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2017
+## 2017
 <p style="font-size:9pt">
   <b>A Control Scheme to Minimize Muscle Energy for Power Assistant Robotics Systems under Unknown External Perturbation</b> <br>
   Jaemin Lee, Minkyu Kim, and Keehoon Kim <br>
@@ -172,7 +172,7 @@ permalink: /publications/
   <a href="https://iopscience.iop.org/article/10.1088/1061-665X/aa860d/meta">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:fm9Im0GvtNMJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4Yz0A:AFWwaeYAAAAAZh4e10A4pKZvfGZl0h4nQTQayD4&scisig=AFWwaeYAAAAAZh4e1-Zd7atbFXOL_MHmdwSv4lw&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2016
+## 2016
 <p style="font-size:9pt">
   <b>Flexible piezoelectric energy harvesting from mouse click motions </b> <br>
   Youngsu Cha, Jin Hong, Jaemin Lee, Jung Min Park, and Keehoon Kim <br>
@@ -201,7 +201,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/7487773">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:MSk-BrRAHNIJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4ZvnQ:AFWwaeYAAAAAZh4fpnT3x6vMrJUXgXghLA8JCc8&scisig=AFWwaeYAAAAAZh4fpmZ28zvpiZ4qoTWemvLsgVY&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2015
+## 2015
 <p style="font-size:9pt">
   <b>A Robust Control Method of Multi-DOF Power-Assistant Robots for Unknown External Perturbation using sEMG Signals</b> <br>
   Jaemin Lee, Minkyu Kim, and Keehoon Kim <br>
@@ -209,7 +209,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/7353499">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:5TiSAExYELkJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4Z4k4:AFWwaeYAAAAAZh4f-k6l6CYIeMiQ2sL1Bq26BtQ&scisig=AFWwaeYAAAAAZh4f-uDJqlSblUdEv44YXp9JYM0&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2014
+## 2014
 <p style="font-size:9pt">
   <b>A control Method of Power-Assisted Robot for Upper Limb considering Intention-based Motion by Using sEMG Signal </b> <br>
   Jaemin Lee, Minkyu Kim, Hyunkyu Ko and Keehoon Kim <br>
@@ -231,7 +231,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/6942844">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:kD_kaZGZ40oJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4mcws:AFWwaeYAAAAAZh4gawtjankwizdg9O8uPjqkV84&scisig=AFWwaeYAAAAAZh4ga0ileVw8M4uEA7b8Zth7WEA&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2013
+## 2013
 <p style="font-size:9pt">
   <b>Control Strategies for Manipulating Contact Force of Impact Wrench to Generate High Level Torque </b> <br>
   Jaemin Lee, Dong-Shin Ko, Young-Hwan Jeon and Deog-Jae Hur <br>
@@ -239,7 +239,7 @@ permalink: /publications/
   <a href="https://ieeexplore.ieee.org/abstract/document/6704222">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:GUZ_uJtY-aoJ:scholar.google.com/&output=citation&scisdr=ClGfjA__ENeGwr4mgjE:AFWwaeYAAAAAZh4gmjHvrUPR6XT3gTpQBOLWjRI&scisig=AFWwaeYAAAAAZh4gmmtkNvctVX097NvlDpNOyy0&scisf=4&ct=citation&cd=-1&hl=en">bib</a>  
 </p>
 
-### 2012
+## 2012
 <p style="font-size:9pt">
   <b>Intermediate desired value approach for task transition of robots in kinematic control </b> <br>
   Jaemin Lee, Nicolas Mansard, and Jaeheung Park <br>
