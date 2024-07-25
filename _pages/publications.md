@@ -15,7 +15,8 @@ permalink: /publications/
 <p style="font-size:9pt">
   <b>Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers</b> <br>
   Seung Hyeon Bang, Jaemin Lee, Carlos Gonzalez, and Luis Sentis <br>
-  Accepted to IEEE International Conference on Decision and Control (CDC) 2024
+  Accepted to IEEE International Conference on Decision and Control (CDC) 2024 <br>
+  <a href="https://arxiv.org/abs/2407.16811">arxiv</a>
 </p>
 
 <p style="font-size:9pt">
