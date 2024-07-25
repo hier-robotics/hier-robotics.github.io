@@ -11,6 +11,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  height: 4rem
 
   &__inner-wrap {
     @include clearfix;
@@ -41,7 +42,7 @@
 }
 
 .site-logo img {
-  height: 2.5rem;
+  height: 3rem;
 }
 
 .site-title {
