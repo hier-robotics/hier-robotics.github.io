@@ -19,6 +19,8 @@ permalink: /people/
 - M.S. in Robotics, Johns Hopkins University<br>
 - Ph.D. Student in Mechanical and Aerospace Enginnering, NC State University <br>
 - Research Interest: Learning-based Planning and Control for Loco-manipulation <br>
+  <br>
+  <br>
 </p>
 
 ## Master Students
