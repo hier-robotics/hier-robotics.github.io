@@ -6,6 +6,12 @@ permalink: /publications/
 
 ## 2024
 <p style="font-size:9pt">
+  <b>Safety-critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles during Navigation toward Destination</b> <br>
+  Jaemin Lee, Min Dai, Jeeseop Kim, and Aaron D. Ames <br>
+  Submitted
+</p>
+
+<p style="font-size:9pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 <br>
@@ -23,28 +29,28 @@ permalink: /publications/
   <b>Safety-critical Control of Quadrupedal Robots with Rolling Arms for Autonomous Inspection of Complex Environments</b> <br>
   Jaemin Lee, Jeeseop Kim, Wyatt Ubellacker, Tamas G. Molnar, and Aaron D. Ames <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2024 <br>
-  <a href="https://arxiv.org/abs/2312.07778">arxiv</a> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/10610504">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:uaofKQL6MiAJ:scholar.google.com/&output=citation&scisdr=ClEobhnCENeGwkg-TyM:AFWwaeYAAAAAZug4VyNERavprTuWJnvsXUYav7w&scisig=AFWwaeYAAAAAZug4V8QJLYt2GpKMPD2QWcIXn5A&scisf=4&ct=citation&cd=-1&hl=en">bib</a> 
 </p>
 
 <p style="font-size:9pt">
-  <b>Safety-Critical Coordination of Legged Robots via Layered Controllers   and Forward Reachable Set based Control Barrier Functions</b> <br>
+  <b>Safety-Critical Coordination of Legged Robots via Layered Controllers and Forward Reachable Set based Control Barrier Functions</b> <br>
   Jeeseop Kim, Jaemin Lee, and Aaron D. Ames <br>
   IEEE International Conference on Robotics and Automation (ICRA) 2024 <br>
-  <a href="https://arxiv.org/abs/2312.08689">arxiv</a> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/10610589">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:P_dVjJ6BnjwJ:scholar.google.com/&output=citation&scisdr=ClEobhnCENeGwkg-Fd8:AFWwaeYAAAAAZug4Dd-WH0mwT-_W5AYGSA8xVbI&scisig=AFWwaeYAAAAAZug4DeNaD47GeXdE9wCWA2w9nWM&scisf=4&ct=citation&cd=-1&hl=en">bib</a> 
 </p>
 
 <p style="font-size:9pt">
   <b>A Data-driven Method for Safety-critical Control: Designing Control Barrier Functions from State Constraints</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
   American Control Conference (ACC) 2024 <br>
-  <a href="https://arxiv.org/abs/2312.07786">arxiv</a> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/10644811">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:lZzLlY8irKYJ:scholar.google.com/&output=citation&scisdr=ClEobhnCENeGwkgx3OE:AFWwaeYAAAAAZug3xOEKISvaQycP-DLt7c2aADo&scisig=AFWwaeYAAAAAZug3xBrVl1pcTyGTdH6eg4aA9cE&scisf=4&ct=citation&cd=-1&hl=en">bib</a> 
 </p>
 
 <p style="font-size:9pt">
   <b>Multi-domain Walking with Reduced-order Models of Locomotion</b> <br>
   Min Dai, Jaemin Lee, Aaron D. Ames <br>
   American Control Conference (ACC) 2024 <br>
-  <a href="https://arxiv.org/abs/2310.03179">arxiv</a> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/10644270">link</a>  <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:1819xZVHAUEJ:scholar.google.com/&output=citation&scisdr=ClEobhnCENeGwkgxRhU:AFWwaeYAAAAAZug3XhVmnXIKtU8sLU3EzMds7_o&scisig=AFWwaeYAAAAAZug3XmYMmmpbuzEdCyldDd16mb8&scisf=4&ct=citation&cd=-1&hl=en">bib</a> 
 </p>
 
 ## 2023
