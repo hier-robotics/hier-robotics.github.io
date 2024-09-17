@@ -26,3 +26,11 @@ permalink: /people/
 ## Master Students
 
 ## Undergraduate Students
+<img src="/assets/images/logo_5.png" align="left" width="100px" style="margin-right: 20px;margin-top: 10px;"/>
+<p style="text-align: justify;font-size:9pt;">
+- <b> Keagan Donovan </b> <br>
+- Undergraduate Student in Mechanical and Aerospace Enginnering, NC State University <br>
+- Research Interest: Transformable Legged Robots<br>
+  <br>
+  <br>
+</p>
