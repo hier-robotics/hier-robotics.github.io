@@ -12,7 +12,7 @@ permalink: /people/
 </p>
 
 ## Ph.D. Students
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
     <p style="font-size:10pt;margin: 0;"> <b>Huan Min</b> <br>
@@ -38,11 +38,23 @@ permalink: /people/
 <p> <br> </p>
 
 ## Undergraduate Students
-<img src="/assets/images/logo_5.png" align="left" width="100px" style="margin-right: 20px;margin-top: 10px;"/>
-<p style="text-align: justify;font-size:10pt;">
-- <b> Keagan Donovan </b> <br>
-- Undergraduate Student in Mechanical and Aerospace Enginnering, NC State University <br>
-- Research Interest: Transformable Legged Robots<br>
-  <br>
-  <br>
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
+  <div style="text-align: center; width: 150px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Keagan Donovan"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan</b> <br>
+    Design for Transformable Legged Robots
+    </p>
+  </div>
+  <div style="text-align: center; width: 150px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person1"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+  <div style="text-align: center; width: 150px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+</div>
+
+
