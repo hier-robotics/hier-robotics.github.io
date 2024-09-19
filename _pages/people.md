@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Head of HIER Lab: Dr. Jaemin Lee
 
-<img src="/assets/images/Jaemin5.jpg" align="left" width="100px" style="margin-right: 20px;margin-top: 20px;"/>
+<img src="/assets/images/Jaemin5.jpg" align="left" width="150px" style="margin-right: 20px;margin-top: 20px;"/>
 <p style="text-align: justify;font-size:10pt;">
   Jaemin is a Tenure-Track Assistant Professor of Mechanical and Aerospace Engineering at the North Carolina State University. His research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots or humanoids with experimental validations. His laboratory specializes in the creation of innovative robotic systems and the development of advanced planning and control algorithms with optimization and learning techniques. The overarching aim is to deploy autonomous robotic systems effectively in unstructured environments for real-world applications, leveraging AI integration.
 </p>
