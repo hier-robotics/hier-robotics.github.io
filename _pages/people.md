@@ -14,8 +14,8 @@ permalink: /people/
 ## Ph.D. Students
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="text-align: center;">
-    <img src="/assets/images/Huan_min.jpg" style="width: 200px;" alt="Huan Min"/>
-    <p>Huan Min (Ph.D. Student)<br>
+    <img src="/assets/images/Huan_min.jpg" style="width: 150px;" alt="Huan Min"/>
+    <p style="font-size:10pt;">Huan Min (Ph.D. Student)<br>
     Planning and Control for Loco-manipulation
     </p>
   </div>
