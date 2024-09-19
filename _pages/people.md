@@ -31,11 +31,11 @@ permalink: /people/
   </div>
 </div>
 
-<p> <br> </p>
+<p> </p>
 
 ## Master Students
 
-<p> <br> </p>
+<p> </p>
 
 ## Undergraduate Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
