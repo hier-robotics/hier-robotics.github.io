@@ -15,36 +15,25 @@ permalink: /people/
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Huan Min</b> (Ph.D. Student)<br>
+    <p style="font-size:10pt;margin: 0;"> <b>Huan Min</b> <br>
     Planning and Control for Loco-manipulation
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person1"/>
-    <p style="font-size:10pt;margin: 0;"> <b>>Future Student</b> (Ph.D. Student)<br>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student<br>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div>
-
 </div>
 
 
 
 
-<img src="/assets/images/Huan_min.jpg" align="left" width="100px" style="margin-right: 20px;margin-top: 10px;"/>
-<p style="text-align: justify;font-size:10pt;">
-- <b> Huan Min </b> <br>
-- B.S. in mechanical Engineering, Rutgers University<br>
-- M.S. in Robotics, Johns Hopkins University<br>
-- Ph.D. Student in Mechanical and Aerospace Enginnering, NC State University <br>
-- Research Interest: Learning-based Planning and Control for Loco-manipulation <br>
-  <br>
-  <br>
-</p>
 
 ## Master Students
 
