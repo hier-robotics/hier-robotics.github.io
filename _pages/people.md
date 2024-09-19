@@ -31,11 +31,11 @@ permalink: /people/
   </div>
 </div>
 
-
-
-
+<p> <br> </p>
 
 ## Master Students
+
+<p> <br> </p>
 
 ## Undergraduate Students
 <img src="/assets/images/logo_5.png" align="left" width="100px" style="margin-right: 20px;margin-top: 10px;"/>
