@@ -19,14 +19,17 @@ permalink: /people/
     Planning and Control for Loco-manipulation
     </p>
   </div>
-<!--   <div style="text-align: center;">
-    <img src="https://example.com/path-to-image2.jpg" style="width: 200px;" alt="Person 2"/>
-    <p>Person 2</p>
+  <div style="text-align: center; width: 150px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person1"/>
+    <p style="font-size:10pt;margin: 0;"> <b>>Future Student</b> (Ph.D. Student)<br>
+    </p>
   </div>
-  <div style="text-align: center;">
-    <img src="https://example.com/path-to-image3.jpg" style="width: 200px;" alt="Person 3"/>
-    <p>Person 3</p>
-  </div> -->
+  <div style="text-align: center; width: 150px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student<br>
+    </p>
+  </div>
+
 </div>
 
 
