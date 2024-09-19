@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-## Head of HIER Lab: Dr. Jaemin Lee
+## PI of HIER Lab: Dr. Jaemin Lee
 
 <img src="/assets/images/Jaemin5.jpg" align="left" width="150px" style="margin-right: 20px;margin-top: 20px;"/>
 <p style="text-align: justify;font-size:10pt;">
