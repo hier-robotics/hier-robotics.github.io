@@ -12,6 +12,26 @@ permalink: /people/
 </p>
 
 ## Ph.D. Students
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="/assets/images/Huan_min.jpg" style="width: 200px;" alt="Huan Min"/>
+    <p>Huan Min (Ph.D. Student)<br>
+    Planning and Control for Loco-manipulation
+    </p>
+  </div>
+<!--   <div style="text-align: center;">
+    <img src="https://example.com/path-to-image2.jpg" style="width: 200px;" alt="Person 2"/>
+    <p>Person 2</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://example.com/path-to-image3.jpg" style="width: 200px;" alt="Person 3"/>
+    <p>Person 3</p>
+  </div> -->
+</div>
+
+
+
+
 <img src="/assets/images/Huan_min.jpg" align="left" width="100px" style="margin-right: 20px;margin-top: 10px;"/>
 <p style="text-align: justify;font-size:10pt;">
 - <b> Huan Min </b> <br>
