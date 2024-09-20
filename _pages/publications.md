@@ -8,7 +8,8 @@ permalink: /publications/
 <p style="font-size:10pt">
   <b>Safety-critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles during Navigation toward Destination</b> <br>
   Jaemin Lee, Min Dai, Jeeseop Kim, and Aaron D. Ames <br>
-  Submitted
+  Submitted <br>
+  <a href="https://arxiv.org/abs/2409.10274">arxiv</a> 
 </p>
 
 <p style="font-size:10pt">
