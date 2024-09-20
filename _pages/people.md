@@ -18,7 +18,7 @@ permalink: /people/
 </p>
 
 
-<p> <br> <br> </p>
+<p> <br> </p>
 
 ## Ph.D. Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
