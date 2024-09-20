@@ -9,6 +9,9 @@ permalink: /people/
 <img src="/assets/images/Jaemin5.jpg" align="left" width="150px" style="margin-right: 20px;margin-top: 20px;"/>
 <p style="text-align: justify;font-size:10pt;">
   Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots or humanoids with experimental validations.<br>
+</p>  
+
+<p style="text-align: justify;font-size:10pt;">
   - Assistant Professor, North carolina State University <br>
   - Postdoctoral Scholar, California Institute of Technology (Caltech) <br>
   - Ph.D., The University of Texas at Austin 
