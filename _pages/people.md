@@ -49,7 +49,7 @@ permalink: /people/
 ## Undergraduate Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 150px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Keagan Donovan"/>
+    <img src="/assets/images/Keagan.png" style="width: 100%;" alt="Keagan Donovan"/>
     <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan</b> <br>
     Design for Transformable Legged Robots
     </p>
