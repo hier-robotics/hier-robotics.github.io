@@ -20,7 +20,7 @@ permalink: /people/
 
 <p> </p>
 
-## Ph.D. Students
+## Graduate Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
@@ -39,10 +39,6 @@ permalink: /people/
     </p>
   </div>
 </div>
-
-<p> </p>
-
-## Master Students
 
 <p> </p>
 
