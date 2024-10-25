@@ -47,12 +47,13 @@ permalink: /people/
   <div style="text-align: center; width: 150px;">
     <img src="/assets/images/Keagan.png" style="width: 100%;" alt="Keagan Donovan"/>
     <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan</b> <br>
-    Design for Transformable Legged Robots
+    Design for Transformable Foot of Robots
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person1"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <img src="/assets/images/Ali.jpg" style="width: 100%;" alt="Ali Mohamed-Ali"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Ali Mohamed-Ali</b> <br>
+    Design for Powerful Ankle of Robots
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
