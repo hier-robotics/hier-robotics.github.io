@@ -5,15 +5,44 @@ title: "Videos"
 permalink: /videos/
 ---
 
+<style>
+  .video-container {
+    width: 80%;           /* Set width to 80% of the parent container */
+    max-width: 900px;     /* Optional: Limit the max width */
+    margin: auto;         /* Center the container */
+    position: relative;   /* Needed for aspect-ratio scaling */
+    padding-top: 56.25%;  /* 16:9 Aspect ratio (height / width * 100) */
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;          /* Make iframe fill the container */
+    height: 100%;         /* Maintain the aspect ratio */
+    border: none;
+  }
+</style>
+
+
+
 ## Bipedal Locomotion 
 
 <p style="font-size:11pt">
 <b>Submitted to ICRA 2025</b>
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tRX4j422qTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/tRX4j422qTs" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Qudrupedal Locomotion
 <p style="font-size:11pt">
 <b>Presented in IROS 2024</b>
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tWnDhS-yXw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe src=""https://www.youtube.com/embed/8tWnDhS-yXw" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  
