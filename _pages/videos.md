@@ -5,4 +5,6 @@ title: "Videos"
 permalink: /videos/
 ---
 
-# Under construction ...
+## Bipedal Locomotion 
+
+## Qudrupedal Locomotion
