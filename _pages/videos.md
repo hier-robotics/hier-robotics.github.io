@@ -13,18 +13,7 @@ permalink: /videos/
     position: relative;   /* Needed for aspect-ratio scaling */
     padding-top: 56.25%;  /* 16:9 Aspect ratio (height / width * 100) */
   }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;          /* Make iframe fill the container */
-    height: 100%;         /* Maintain the aspect ratio */
-    border: none;
-  }
 </style>
-
-
 
 ## Bipedal Locomotion 
 
