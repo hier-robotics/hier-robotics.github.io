@@ -12,9 +12,9 @@ permalink: /people/
 </p>  
 
 <p style="text-align: justify;font-size:10pt;">
-  - Assistant Professor, North carolina State University <br>
-  - Postdoctoral Scholar, California Institute of Technology (Caltech) <br>
-  - Ph.D., The University of Texas at Austin 
+  - Assistant Professor, North carolina State University, NC <br>
+  - Postdoctoral Scholar, California Institute of Technology (Caltech), CA <br>
+  - Ph.D., The University of Texas at Austin, TX 
 </p>
 
 
@@ -26,7 +26,8 @@ permalink: /people/
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
     <p style="font-size:10pt;margin: 0;"> <b>Huan Min </b> <br>
     Ph.D Student <br>  
-    Planning and Control for Loco-manipulation
+    Planning and Control for Loco-manipulation <br>
+    M.S. from Johns Hopkins University, MD
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
