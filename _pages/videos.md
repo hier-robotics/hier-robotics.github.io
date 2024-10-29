@@ -11,7 +11,6 @@ permalink: /videos/
     max-width: 900px;     /* Optional: Limit the max width */
     margin: auto;         /* Center the container */
     position: relative;   /* Needed for aspect-ratio scaling */
-    padding-top: 56.25%;  /* 16:9 Aspect ratio (height / width * 100) */
   }
 </style>
 
