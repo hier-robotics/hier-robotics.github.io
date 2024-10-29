@@ -24,6 +24,7 @@ permalink: /videos/
   <iframe src="https://www.youtube.com/embed/tRX4j422qTs" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+<p> </p>
 
 ## Qudrupedal Locomotion
 <p style="font-size:11pt">
@@ -31,6 +32,6 @@ permalink: /videos/
 </p>
 
 <div class="video-container">
-  <iframe src=""https://www.youtube.com/embed/8tWnDhS-yXw" 
+  <iframe src="https://www.youtube.com/embed/8tWnDhS-yXw" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  
+</div>
