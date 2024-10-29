@@ -8,7 +8,7 @@ permalink: /people/
 
 <img src="/assets/images/Jaemin5.jpg" align="left" width="150px" style="margin-right: 20px;margin-top: 20px;"/>
 <p style="text-align: justify;font-size:10pt;">
-  Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations. In addition, he is interested in connecting robotic systems and generative AI for ensuring full autonomy in unstructured environments.<br>
+  Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI.<br>
 </p>  
 
 <p style="text-align: justify;font-size:10pt;">
