@@ -13,8 +13,10 @@ permalink: /people/
 
 <p style="text-align: justify;font-size:10pt;">
   - Assistant Professor, North carolina State University, NC <br>
-  - Postdoctoral Scholar, California Institute of Technology (Caltech), CA <br>
-  - Ph.D., The University of Texas at Austin, TX 
+  - Postdoctoral Scholar, California Institute of Technology, CA <br>
+  - Ph.D., The University of Texas at Austin, TX <br>
+  - Research Scientist, Korea Institute of Science and Technology, South Korea <br>
+  - M.S., Seoul National University, South Korea <br>
 </p>
 
 
