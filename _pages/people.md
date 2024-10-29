@@ -27,7 +27,7 @@ permalink: /people/
     <p style="font-size:10pt;margin: 0;"> <b>Huan Min </b> <br>
     Ph.D Student <br>  
     Planning and Control for Loco-manipulation <br>
-    M.S. from Johns Hopkins University, MD
+    M.S., Johns Hopkins University, MD
     </p>
   </div>
   <div style="text-align: center; width: 150px;">
