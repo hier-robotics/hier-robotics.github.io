@@ -21,7 +21,7 @@ permalink: /people/
 </p>
 
 
-<p> </p>
+<p> <br> </p>
 
 ## Graduate Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
