@@ -35,7 +35,9 @@ permalink: /videos/
   <iframe src="https://www.youtube.com/embed/qQe_QMOhKnM" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-  
+
+
+<p style="font-size:11pt"> 
 <b>Presented in IROS 2024</b>
 </p>
 
