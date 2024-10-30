@@ -28,6 +28,14 @@ permalink: /videos/
 
 ## Qudrupedal Locomotion
 <p style="font-size:11pt">
+<b>New robots have arrived.</b>
+</p>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qQe_QMOhKnM" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+  
 <b>Presented in IROS 2024</b>
 </p>
 
