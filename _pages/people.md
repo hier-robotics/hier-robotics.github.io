@@ -67,7 +67,7 @@ permalink: /people/
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Daniel_Dong.jpg" style="width: 100%;" alt="Daniel Dong"/>
+    <img src="/assets/images/daniel_dong.png" style="width: 100%;" alt="Daniel Dong"/>
     <p style="font-size:10pt;margin: 0;"> <b>Daniel Dong (CS)</b> <br>
       Connecting Robots to LLM
     </p>
