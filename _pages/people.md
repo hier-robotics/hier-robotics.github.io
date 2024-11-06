@@ -27,7 +27,7 @@ permalink: /people/
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Huan Min </b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>Huan Min (MAE) </b> <br>
     Ph.D Student <br>  
     Planning and Control for Loco-manipulation <br>
     M.S., Johns Hopkins University, MD
@@ -56,13 +56,13 @@ permalink: /people/
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Keagan.png" style="width: 100%;" alt="Keagan Donovan"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan</b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan (MAE)</b> <br>
     Design for Transformable Foot of Robots
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Ali.jpg" style="width: 100%;" alt="Ali Mohamed-Ali"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Ali Mohamed-Ali</b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>Ali Mohamed-Ali (MAE)</b> <br>
     Design for Powerful Ankle of Robots
     </p>
   </div>
