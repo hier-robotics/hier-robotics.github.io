@@ -66,15 +66,15 @@ permalink: /people/
     Design for Powerful Ankle of Robots
     </p>
   </div>
+    <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Will Joseph"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Will Joseph (MAE)</b> <br>
+    </p>
+  </div>  
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/daniel_dong.jpg" style="width: 100%;" alt="Daniel Dong"/>
     <p style="font-size:10pt;margin: 0;"> <b>Daniel Dong (CS)</b> <br>
       Connecting Robots to LLM
-    </p>
-  </div>
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div>
 </div>
