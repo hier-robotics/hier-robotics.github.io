@@ -69,6 +69,7 @@ permalink: /people/
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Will Joseph"/>
     <p style="font-size:10pt;margin: 0;"> <b>Will Joseph (MAE)</b> <br>
+      Design for Actuator and Motion Controller
     </p>
   </div>  
   <div style="text-align: center; width: 170px;">
