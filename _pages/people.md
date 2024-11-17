@@ -20,6 +20,12 @@ permalink: /people/
   - M.S., Seoul National University, South Korea <br>
 </p>
 
+<p style="text-align: justify;font-size:10pt;">
+MAE Cources <br>
+  - Undergraduate: Principles of Automatic Control <br>
+  - Graduate: Planning and Control for Animaloid and Humanoid Robots
+</p>
+
 
 <p> <br> </p>
 
