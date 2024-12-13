@@ -39,8 +39,8 @@ MAE Cources <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person1"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <img src="/assets/images/Jakub_jon" style="width: 100%;" alt="Jakub Jon"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
