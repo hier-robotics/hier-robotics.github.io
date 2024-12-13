@@ -87,4 +87,27 @@ MAE Cources <br>
   </div>
 </div>
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
+    </p>
+  </div>
+  <div style="text-align: center; width: 170px;">
+   <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+    <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>  
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+</div>
+
 
