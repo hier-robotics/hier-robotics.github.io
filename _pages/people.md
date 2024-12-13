@@ -33,14 +33,16 @@ MAE Cources <br>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Huan_min.jpg" style="width: 100%;" alt="Huan Min"/>
     <p style="font-size:10pt;margin: 0;"> <b>Huan Min (MAE) </b> <br>
-    Ph.D Student <br>  
+    Ph.D. Student <br>  
     Planning and Control for Loco-manipulation <br>
     M.S., Johns Hopkins University, MD
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Jakub_jon" style="width: 100%;" alt="Jakub Jon"/>
+    <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
     <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br>
+    M.S. Student <br>  
+    Perception-based Safe Locomotion <br>  
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
