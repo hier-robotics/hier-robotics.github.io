@@ -25,6 +25,13 @@ MAE Cources <br>
   - Graduate: Planning and Control for Animaloid and Humanoid Robots (Upcomming)
 </p>
 
+<p style="text-align: justify;font-size:10pt;">
+Academic Service <br>
+  - Associate Editor, IEEE Robotics and Automation Letter (IEEE RA-L) <br>
+  - Associate Editor, IEEE International Conference on Robotics and Automation (ICRA) <br>
+  - Reviewer, IEEE Transactions on Robotics (IEEE T-RO), IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA),  IEEE International Conference on Intelligent Robots and Systems (IROS), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Robotica, ASME Journal of Dynamic Systems, Measurement and Control, Autonomous Robots (AURO), IEEE Transaction on Industrial Electronics (TIE), IEEE Control Systems Letters (L-CSS)
+</p>
+
 
 <p> <br> </p>
 
