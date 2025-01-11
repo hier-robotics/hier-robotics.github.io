@@ -94,11 +94,13 @@ Academic Service <br>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
     <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
+       Transformable Manipulation
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-   <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+   <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;" alt="Jaey Kim"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim</b> <br>
+      Legged Robots for Jumping
     </p>
   </div>
     <div style="text-align: center; width: 170px;">
