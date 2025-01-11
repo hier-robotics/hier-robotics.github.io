@@ -99,7 +99,7 @@ Academic Service <br>
   </div>
   <div style="text-align: center; width: 170px;">
    <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;" alt="Jaey Kim"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim</b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim (MAE) </b> <br>
       Legged Robots for Jumping
     </p>
   </div>
