@@ -10,4 +10,21 @@ permalink: /class/
  This class will be offered in Fall 2025. <br>
 </p>  
 
+### Discription:
+
+
+### Format:
+
+
+### Prerequisites:
+
+
+### Lecture Slides and Videos
+
+
+### Timeline
+
+
+### Grading and Course Policies
+
 
