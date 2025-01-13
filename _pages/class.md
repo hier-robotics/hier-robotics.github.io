@@ -6,6 +6,8 @@ permalink: /class/
 ---
 
 ## MAE 5XX Fundamentals for Animaloid and Humanoid
-This class will be offered in Fall 2025.
+<p style="text-align: justify;font-size:10pt;">
+ This class will be offered in Fall 2025. <br>
+</p>  
 
 
