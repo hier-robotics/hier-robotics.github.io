@@ -27,7 +27,9 @@ The course will include two weekly lectures, four homework assignments, and a fi
 </p>  
 
 ### Lecture Slides and Videos
-
+<p style="text-align: justify;font-size:10pt;">
+Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
+</p>  
 
 ### Timeline
 
