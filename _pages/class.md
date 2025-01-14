@@ -68,13 +68,13 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> </td>
     </tr>
     <tr>
-      <td>Week 4</td>
-      <td>Floating-based Dynamics</td>
+      <td>Week 5</td>
+      <td>Floating-base and Contact Dynamics</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>Week 5</td>
+      <td>Week 6</td>
       <td>Whole-body Control</td>
       <td> </td>
       <td> </td>
