@@ -78,33 +78,39 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Optimization-based Control</td>
       <td> </td>
       <td> </td>
-    </tr>    
+    </tr>
     <tr>
       <td>Week 7</td>
-      <td>Whole-body Control</td>
+      <td>Hierarchical Task-space Control</td>
       <td> </td>
       <td> </td>
     </tr>   
     <tr>
       <td>Week 8</td>
+      <td>Whole-body Control</td>
+      <td> </td>
+      <td> </td>
+    </tr>   
+    <tr>
+      <td>Week 9</td>
       <td>Reduced-order Models</td>
       <td> </td>
       <td> </td>
     </tr> 
     <tr>
-      <td>Week 9</td>
+      <td>Week 10</td>
       <td>Locomotion Gaits</td>
       <td> </td>
       <td> </td>
     </tr> 
     <tr>
-      <td>Week 10</td>
+      <td>Week 11</td>
       <td>Model-based/Model-free Path Planning</td>
       <td> </td>
       <td> </td>
     </tr>
     <tr>
-      <td>Week 11</td>
+      <td>Week 12</td>
       <td>Data-driven Planning</td>
       <td> </td>
       <td> </td>
