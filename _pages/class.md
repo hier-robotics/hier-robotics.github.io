@@ -75,16 +75,35 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 6</td>
+      <td>Optimization-based Control</td>
+      <td> </td>
+      <td> </td>
+    </tr>    
+    <tr>
+      <td>Week 7</td>
       <td>Whole-body Control</td>
       <td> </td>
       <td> </td>
     </tr>   
     <tr>
-      <td>Week 7</td>
+      <td>Week 8</td>
       <td>Reduced-order Models</td>
       <td> </td>
       <td> </td>
     </tr> 
+    <tr>
+      <td>Week 9</td>
+      <td>Locomotion Gaits</td>
+      <td> </td>
+      <td> </td>
+    </tr> 
+
+    <tr>
+      <td>Week 10</td>
+      <td>Path Planning</td>
+      <td> </td>
+      <td> </td>
+    </tr>       
   </tbody>
 </table>
 
