@@ -59,7 +59,11 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 3</td>
       <td>Kinematic Control</td>
       <td> </td>
-      <td> <a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)  </td>
+      <td>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
+        </ul>   
+      </td>
     </tr>
     <tr>
       <td>Week 4</td>
