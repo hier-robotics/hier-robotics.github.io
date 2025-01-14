@@ -63,7 +63,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 3</td>
       <td>Kinematic Control</td>
-      <td> </td>
+      <td> <b>Project Survey</b></td>
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
