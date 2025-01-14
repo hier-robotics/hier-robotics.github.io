@@ -26,12 +26,12 @@ The course will include two weekly lectures, four homework assignments, and a fi
 <b>MAE 435: Principles of Automatic Control</b>  
 </p>  
 
-### Lecture Slides and Videos
+### Lecture Slides and Videos:
 <p style="text-align: justify;font-size:10pt;">
 Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
 </p>  
 
-### Timeline
+### Timeline:
 
 <table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
   <thead>
@@ -74,7 +74,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 4</td>
       <td>Dynamic Control</td>
-      <td> </td>
+      <td> <b>Homework 1</b></td>
       <td> </td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 7</td>
       <td>Hierarchical Task-space Control</td>
-      <td> </td>
+      <td> <b>Homework 2<b> </td>
       <td> </td>
     </tr>   
     <tr>
@@ -117,7 +117,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 10</td>
       <td>Locomotion Gaits</td>
-      <td> </td>
+      <td> <b>Homework 3<b> </td>
       <td> </td>
     </tr> 
     <tr>
@@ -130,7 +130,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 12</td>
       <td>Data-driven Planning</td>
       <td> </td>
-      <td> </td>
+      <td> <b>Homework 4<b> </td>
     </tr> 
     <tr>
       <td>Week 13</td>
@@ -141,8 +141,6 @@ Lecture slides will be posted on the course website one hour before each lecture
   </tbody>
 </table>
 
-
-
-### Grading and Course Policies
+### Grading and Course Policies:
 
 
