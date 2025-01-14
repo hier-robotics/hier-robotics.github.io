@@ -16,7 +16,9 @@ Robotic systems have increasingly integrated planning and control algorithms to 
 </p>  
 
 ### Format:
-
+<p style="text-align: justify;font-size:10pt;">
+The course will include two weekly lectures, four homework assignments, and a final project. The lectures will cover fundamental concepts such as rigid-body dynamics, optimal control theory, and planning and control techniques for modern robotics, with a particular focus on methods applicable to legged robots, including humanoid and animaloid robots. The assignments will emphasize practical implementation, requiring students to do simulation of locomotion gaits and solve coding problems related to the covered topics. For the final project, students will define their own problem and develop at least one solution using simulation tools. <br>
+</p>  
 
 ### Prerequisites:
 
