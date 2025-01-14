@@ -78,7 +78,13 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Whole-body Control</td>
       <td> </td>
       <td> </td>
-    </tr>    
+    </tr>   
+    <tr>
+      <td>Week 7</td>
+      <td>Reduced-order Models</td>
+      <td> </td>
+      <td> </td>
+    </tr> 
   </tbody>
 </table>
 
