@@ -73,6 +73,12 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> </td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Whole-body Control</td>
+      <td> </td>
+      <td> </td>
+    </tr>    
   </tbody>
 </table>
 
