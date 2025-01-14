@@ -33,7 +33,7 @@ Lecture slides will be posted on the course website one hour before each lecture
 
 ### Timeline
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="0" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
       <th>Column 1</th>
