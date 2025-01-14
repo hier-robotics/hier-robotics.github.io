@@ -50,9 +50,10 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> </td>
     </tr>
     <tr>
-      <td>Row 2 Cell 1</td>
-      <td>Row 2 Cell 2</td>
-      <td>Row 2 Cell 3</td>
+      <td>Week 1</td>
+      <td>Terminology</td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>Row 3 Cell 1</td>
