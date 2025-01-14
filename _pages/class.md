@@ -99,7 +99,11 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 8</td>
       <td>Whole-body Control</td>
       <td> </td>
-      <td> </td>
+      <td> 
+        <ul>
+          <li><a href="https://ai.stanford.edu/~park73/papers/Jaeheung-IJHR2004.pdf">Whole-body dynamic behavior and control of human-like robots</a>, Khatib et al.(2004)</li>
+        </ul>          
+      </td>
     </tr>   
     <tr>
       <td>Week 9</td>
