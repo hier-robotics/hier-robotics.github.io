@@ -111,7 +111,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 9</td>
       <td>Reduced-order Models</td>
-      <td> </td>
+      <td> Project milestone</td>
       <td> </td>
     </tr> 
     <tr>
