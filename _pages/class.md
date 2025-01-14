@@ -131,7 +131,13 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Data-driven Planning</td>
       <td> </td>
       <td> </td>
-    </tr>    
+    </tr> 
+    <tr>
+      <td>Week 13</td>
+      <td>No class</td>
+      <td> <b> Final project presentation/report</b></td>
+      <td> </td>
+    </tr>     
   </tbody>
 </table>
 
