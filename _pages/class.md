@@ -80,7 +80,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 5</td>
       <td>Floating-base and Contact Dynamics</td>
-      <td> </td>
+      <td> <b>Project Proposal</b></td>
       <td> </td>
     </tr>
     <tr>
