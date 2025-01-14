@@ -97,13 +97,18 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> </td>
       <td> </td>
     </tr> 
-
     <tr>
       <td>Week 10</td>
-      <td>Path Planning</td>
+      <td>Model-based/Model-free Path Planning</td>
       <td> </td>
       <td> </td>
-    </tr>       
+    </tr>
+    <tr>
+      <td>Week 11</td>
+      <td>Data-driven Planning</td>
+      <td> </td>
+      <td> </td>
+    </tr>    
   </tbody>
 </table>
 
