@@ -36,9 +36,10 @@ Lecture slides will be posted on the course website one hour before each lecture
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-      <th>Column 3</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Deadlines</th>
+      <th>References</th>
     </tr>
   </thead>
   <tbody>
