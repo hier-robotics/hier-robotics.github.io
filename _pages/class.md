@@ -57,7 +57,19 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>Kinematics and Velocity Control</td>
+      <td>Kinematic Control</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Dynamic Control</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Floating-based Dynamics</td>
       <td> </td>
       <td> </td>
     </tr>
