@@ -53,7 +53,12 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 2</td>
       <td>Terminology and Rigid-body Motion</td>
       <td> </td>
-      <td> </td>
+      <td>
+        <ul>
+          <li> Modern robotics, Lynch et al.(2017)</li>
+          <li> Rigid body dynamics algorithm, Featherstone (2008)</li>
+        </ul>   
+      </td>
     </tr>
     <tr>
       <td>Week 3</td>
@@ -61,6 +66,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> </td>
       <td>
         <ul>
+          <li> Modern robotics, Lynch et al.(2017)</li>
           <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
         </ul>   
       </td>
