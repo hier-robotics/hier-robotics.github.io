@@ -5,7 +5,7 @@ title: "Class"
 permalink: /class/
 ---
 
-## MAE 5XX Fundamentals for Legged Robots (Animaloid and Humanoid)
+## MAE 5XX Fundamentals for Modern Robotics
 <p style="text-align: justify;font-size:10pt;">
  This class will be offered in Fall 2025. <br>
 </p>  
