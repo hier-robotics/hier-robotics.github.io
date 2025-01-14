@@ -92,7 +92,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 7</td>
       <td>Hierarchical Task-space Control</td>
-      <td> <b>Homework 2<b> </td>
+      <td> <b>Homework 2</b> </td>
       <td> </td>
     </tr>   
     <tr>
@@ -117,7 +117,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 10</td>
       <td>Locomotion Gaits</td>
-      <td> <b>Homework 3<b> </td>
+      <td> <b>Homework 3</b> </td>
       <td> </td>
     </tr> 
     <tr>
@@ -129,7 +129,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 12</td>
       <td>Data-driven Planning</td>
-      <td> <b>Homework 4<b>  </td>
+      <td> <b>Homework 4</b>  </td>
       <td> </td>
     </tr> 
     <tr>
