@@ -102,6 +102,9 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> 
         <ul>
           <li><a href="https://ai.stanford.edu/~park73/papers/Jaeheung-IJHR2004.pdf">Whole-body dynamic behavior and control of human-like robots</a>, Khatib et al.(2004)</li>
+          <li><a href="https://ai.stanford.edu/~lsentis/files/ijhr-05.pdf">Synthesis of whole-body behaviors through hierarchical control of behavioral primitives</a>, Sentis et al.(2005)</li>
+          <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364920918014">Dynamic locomotion for passive-ankle biped robots and humanoids using whole-body locomotion control</a>, Kim et al.(2020)</li>
+          <li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.788902/full">Online gain adaptation of whole-body control for legged robots with unknown disturbances</a>, Lee et al.(2022)</li>
         </ul>          
       </td>
     </tr>   
