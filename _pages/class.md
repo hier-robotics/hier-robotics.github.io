@@ -21,7 +21,10 @@ The course will include two weekly lectures, four homework assignments, and a fi
 </p>  
 
 ### Prerequisites:
-
+<p style="text-align: justify;font-size:10pt;">
+<b>MAE 208: Engineering Dynamics</b> <br>
+<b>MAE 435: Principles of Automatic Control</b>  
+</p>  
 
 ### Lecture Slides and Videos
 
