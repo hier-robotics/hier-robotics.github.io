@@ -129,8 +129,8 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 12</td>
       <td>Data-driven Planning</td>
+      <td> <b>Homework 4<b>  </td>
       <td> </td>
-      <td> <b>Homework 4<b> </td>
     </tr> 
     <tr>
       <td>Week 13</td>
