@@ -5,25 +5,28 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## 2024
+## 2025
+
 <p style="font-size:10pt">
   <b>Safety-critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles during Navigation toward Destination</b> <br>
   Jaemin Lee, Min Dai, Jeeseop Kim, and Aaron D. Ames <br>
-  Submitted <br>
+  Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025 <br>
   <a href="https://arxiv.org/abs/2409.10274">arxiv</a> 
 </p>
+
+## 2024
 
 <p style="font-size:10pt">
   <b>Safety-critical Autonomous Inspection of Distillation Columns using Quadruped Robots Equipped with Roller Arms</b> <br>
   Jaemin Lee, Jeeseop Kim, and Aaron D. Ames <br>
-  Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 <br>
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 <br>
   <a href="https://arxiv.org/abs/2404.10938">arxiv</a> 
 </p>
 
 <p style="font-size:10pt">
   <b>Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers</b> <br>
   Seung Hyeon Bang, Jaemin Lee, Carlos Gonzalez, and Luis Sentis <br>
-  Accepted to IEEE International Conference on Decision and Control (CDC) 2024 <br>
+  IEEE International Conference on Decision and Control (CDC) 2024 <br>
   <a href="https://arxiv.org/abs/2407.16811">arxiv</a>
 </p>
 
