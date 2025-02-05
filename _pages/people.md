@@ -103,6 +103,7 @@ Academic Service <br>
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Hanbin Jang"/>
     <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang (MAE)</b> <br>
+      Reinforcement Learning of Quadruped Locomotion
     </p>
   </div>  
   <div style="text-align: center; width: 170px;">
