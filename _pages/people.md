@@ -35,8 +35,7 @@ Academic Service <br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br>
-    M.S. Student <br>  
+    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br> 
     Perception-based Safe Locomotion <br>  
     </p>
   </div>
