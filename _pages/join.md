@@ -10,12 +10,12 @@ permalink: /join/
 <p style="font-size:10pt;">
 We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to reach out via email to the Principal Investigator (PI), (jaemin.lee at ncsu.edu), providing the following information:
 </p>
-- <p style="font-size:10pt;"> Please indicate one of the following topics—Design, Planning and Control, or Learning—in the very first line of your email and send a brief statement outlining your specific interests and relevant skills or experiences.
-- <p style="font-size:10pt;"> Please attach your CV/resume and supplementary materials demonstrating your expertise.
+- <p style="font-size:10pt;"> Please indicate one of the following topics—<b>Design</b>, <b>Planning and Control</b>, or <b>Learning</b>—in the very first line of your email and send a brief statement outlining your specific interests and relevant skills or experiences.
+- <p style="font-size:10pt;"> Please attach your <b>CV/resume</b> and supplementary materials demonstrating your expertise.
 
 ## NC State University Undergraduate or M.S. Students
 <p style="font-size:10pt;">
-If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please email the PI with the subject line "NC State University Student - <M.S/Undergraduate>". It would be great if you could include your research interests and the projects that you are most passionate about. Typically,  we expect at least a year of collaboration, culminating in the submission of a conference paper (e.g., ICRA, IROS, Humanoids). In addition, to provide us with a better understanding of your background, please include the following information:
+If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please email the PI with the subject line "NC State University Student - <M.S/Undergraduate>". It would be great if you could include your research interests and the projects that you are most passionate about. Typically, we expect <b>at least a year of collaboration</b>, culminating in the submission of a conference paper (e.g., ICRA, IROS, Humanoids). In addition, to provide us with a better understanding of your background, please include the following information:
 </p>
 - <p style="font-size:10pt;"> which year you are at NC State University / future career path / an attachted CV/resume
 
