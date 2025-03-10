@@ -167,7 +167,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> 
         <ul>
           <li> Monte-Carlo method </li>
-          <li> Neural Network </li>
+          <li> Simple Examples of Neural Network </li>
         </ul>  
       </td>
     </tr> 
