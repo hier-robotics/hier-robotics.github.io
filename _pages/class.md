@@ -133,7 +133,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> <b>Project milestone</b></td>
       <td> 
           <ul>
-          <li> Double Ingegrator, Unicycle, Single Rigid Body Models</li>
+          <li> Double Integrator, Unicycle, Single Rigid Body Models</li>
           <li> Linear Inverted Pendulum (LIP), Hybird LIP (HIP), Angular-momentum-based LIP (ALIP) </li>
         </ul>  
       </td>
