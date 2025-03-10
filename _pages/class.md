@@ -107,7 +107,12 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 7</td>
       <td>Hierarchical Task-space Control</td>
       <td> <b>Homework 2</b> </td>
-      <td> </td>
+      <td>
+        <ul>
+          <li><a href="https://ieeexplore.ieee.org/abstract/document/8630545">Continuous task transition approach for robot controller based on hierarchical quadratic programming</a>, Kim et al. (2019)</li>
+          <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
+        </ul>   
+      </td>
     </tr>   
     <tr>
       <td>Week 8</td>
