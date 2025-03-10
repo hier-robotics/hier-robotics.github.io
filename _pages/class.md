@@ -134,7 +134,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td> 
           <ul>
           <li> Double Ingegrator, Unicycle, Single Rigid Body Models</li>
-          <li> Linear Inverted Pendulum (LIP), Hybird LIP (HIP), Angular-momemtum-based LIP (ALIP) </li>
+          <li> Linear Inverted Pendulum (LIP), Hybird LIP (HIP), Angular-momentum-based LIP (ALIP) </li>
         </ul>  
       </td>
     </tr> 
@@ -142,19 +142,34 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 10</td>
       <td>Locomotion Gaits</td>
       <td> <b>Homework 3</b> </td>
-      <td> </td>
+      <td> 
+        <ul>
+          <li> Quadrupal locomotion: Trot gait</li>
+          <li> Bipedal locomotion: Dynamic walking </li>
+        </ul>        
+      </td>
     </tr> 
     <tr>
       <td>Week 11</td>
       <td>Model-based/Model-free Path Planning</td>
       <td> </td>
-      <td> </td>
+      <td>
+        <ul>
+          <li> Rapidly-exploring ramdom tree (RRT), RRT* </li>
+          <li> LIP-based gait planning </li>
+        </ul>  
+      </td>
     </tr>
     <tr>
       <td>Week 12</td>
       <td>Data-driven Planning</td>
       <td> <b>Homework 4</b>  </td>
-      <td> </td>
+      <td> 
+        <ul>
+          <li> Monte-Carlo method </li>
+          <li> Neural Network </li>
+        </ul>  
+      </td>
     </tr> 
     <tr>
       <td>Week 13</td>
