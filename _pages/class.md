@@ -151,12 +151,11 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 11</td>
-      <td>Model-based/Model-free Path Planning</td>
+      <td>Model-free Path Planning</td>
       <td> </td>
       <td>
         <ul>
           <li> Rapidly-exploring ramdom tree (RRT), RRT* </li>
-          <li> LIP-based gait planning </li>
         </ul>  
       </td>
     </tr>
