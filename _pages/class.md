@@ -75,19 +75,33 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 4</td>
       <td>Dynamic Control</td>
       <td> <b>Homework 1</b></td>
-      <td> </td>
+      <td>
+        <ul>
+          <li> Modern robotics, Lynch et al.(2017)</li>
+          <li> Rigid Body Dynamic Algorithm, Featherstone (2018)</li>
+        </ul>        
+      </td>
     </tr>
     <tr>
       <td>Week 5</td>
       <td>Floating-base and Contact Dynamics</td>
       <td> <b>Project Proposal</b></td>
-      <td> </td>
+      <td>
+        <ul>
+           <li><a href="https://link.springer.com/article/10.1007/s10514-013-9341-4">Centroidal dynamics of a humanoid robot</a>, Orin et al.(2013)</li>
+            <li><a href="https://www.cambridge.org/core/journals/robotica/article/robot-multiple-contact-control/5F8067E1F22E9BD2A3E77D31465C7D6C">Robot multiple contact control</a>, Park et al.(2008)</li>
+        </ul> 
+      </td>
     </tr>
     <tr>
       <td>Week 6</td>
       <td>Optimization-based Control</td>
       <td> </td>
-      <td> </td>
+      <td>
+        <ul>
+           <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a>, Adrien et al.(2014)</li>
+        </ul>           
+      </td>
     </tr>
     <tr>
       <td>Week 7</td>
