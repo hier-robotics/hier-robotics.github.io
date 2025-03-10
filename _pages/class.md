@@ -78,7 +78,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
-          <li> Rigid Body Dynamic Algorithm, Featherstone (2018)</li>
+          <li> Rigid body dynamics algorithm, Featherstone (2008)</li>
         </ul>        
       </td>
     </tr>
@@ -131,7 +131,12 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 9</td>
       <td>Reduced-order Models</td>
       <td> <b>Project milestone</b></td>
-      <td> </td>
+      <td> 
+          <ul>
+          <li> Double Ingegrator, Unicycle, Single Rigid Body Models</li>
+          <li> Linear Inverted Pendulum (LIP), Hybird LIP (HIP), Angular-momemtum-based LIP (ALIP) </li>
+        </ul>  
+      </td>
     </tr> 
     <tr>
       <td>Week 10</td>
