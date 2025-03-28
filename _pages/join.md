@@ -12,6 +12,7 @@ We intend to accept new Ph.D. students annually, taking into account available g
 </p>
 - <p style="font-size:10pt;"> Please indicate one of the following topics—<b>Design</b>, <b>Planning and Control</b>, or <b>Learning</b>—in the very first line of your email and send a brief statement outlining your specific interests and relevant skills or experiences.
 - <p style="font-size:10pt;"> Please attach your <b>CV/resume</b> and supplementary materials demonstrating your expertise.
+- <p style="font-size:10pt;"> We have <b>two funded Ph.D. positions</b> available for the 2026 academic year in the following research areas: 1) <b>Learning-Based Tele-Locomotion of Humanoid Robots</b>, 2) <b>Safe Autonomy for Heterogeneous Legged Robot Teams</b>.     
 
 ## NC State University Undergraduate or M.S. Students
 <p style="font-size:10pt;">
