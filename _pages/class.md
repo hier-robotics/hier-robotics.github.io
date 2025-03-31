@@ -181,7 +181,8 @@ Lecture slides will be posted on the course website one hour before each lecture
 
 ### Project requirements: 
 <p style="text-align: justify;font-size:10pt;"> You need to choose proper high-fidelity simulation platform such as one of the following platforms: <br> 
-<b>Mujoco/Gezebo/Bullet/Issac Lab/...</b>  
+<b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
+<b> /Gezebo/Bullet/Issac Lab/...</b>  
 </p>  
 
 ### Grading and Course Policies:
