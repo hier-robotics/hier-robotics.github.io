@@ -179,6 +179,11 @@ Lecture slides will be posted on the course website one hour before each lecture
   </tbody>
 </table>
 
+### Project requirements: 
+<p style="text-align: justify;font-size:10pt;"> You need to choose proper high-fidelity simulation platform such as one of the following platforms: <br> 
+<b>Mujoco/Gezebo/Bullet/Issac Lab/...</b>  
+</p>  
+
 ### Grading and Course Policies:
 
 
