@@ -182,7 +182,9 @@ Lecture slides will be posted on the course website one hour before each lecture
 ### Project requirements: 
 <p style="text-align: justify;font-size:10pt;"> You need to choose proper high-fidelity simulation platform such as one of the following platforms: <br> 
 <b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
-<b> /Gezebo/Bullet/Issac Lab/...</b>  
+<b>Gezebo</b>:<a href="https://classic.gazebosim.org/">https://classic.gazebosim.org/</a>  <br>
+<b>Bullet</b>:<a href="https://pybullet.org/wordpress/">https://pybullet.org/wordpress/</a>  <br>
+<b>Issac Lab</b>:<a href="https://github.com/isaac-sim/IsaacLab">https://github.com/isaac-sim/IsaacLab</a>
 </p>  
 
 ### Grading and Course Policies:
