@@ -21,8 +21,9 @@ permalink: /people/
 
 <p style="text-align: justify;font-size:10pt;">
 MAE Cources <br>
-  - Undergraduate: MAE 435 Principles of Automatic Control <br>
-  - Graduate: Planning and Control for Animaloid and Humanoid Robots (Upcomming)
+  - Undergraduate: MAE 435 Principles of Automatic Control (Spring) <br>
+  - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall) <br>
+              MAE 789 Advanced Planning and Control for Robots (2026 Fall)
 </p>
 
 <p style="text-align: justify;font-size:10pt;">
