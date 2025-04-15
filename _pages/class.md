@@ -195,5 +195,28 @@ Dr. Lee will be attending conferences—including the International Conference o
 </p>  
 
 ### Grading and Course Policies:
+<p style="text-align: justify;font-size:10pt;"> 
 
+</p>  
 
+<table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
+  <thead>
+    <tr>
+      <th>Homework</th>
+      <th>Project Survey</th>
+      <th>Project Proposal</th>
+      <th>Project Milestone</th>
+      <th>Final Presentation/Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20 %</td>
+      <td>10 %</td>
+      <td>10 %</td>
+      <td>20 %</td>
+      <td>40 %</td>
+    </tr>
+  </tbody>
+</table>  
+    
