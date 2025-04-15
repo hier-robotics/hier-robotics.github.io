@@ -196,12 +196,13 @@ Dr. Lee will be attending conferences—including the International Conference o
 
 ### Grading and Course Policies:
 <p style="text-align: justify;font-size:10pt;"> 
-
+Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse.
 </p>  
 
 <table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
   <thead>
     <tr>
+      <th>Attendence(Quiz)</th> 
       <th>Homework</th>
       <th>Project Survey</th>
       <th>Project Proposal</th>
@@ -211,8 +212,9 @@ Dr. Lee will be attending conferences—including the International Conference o
   </thead>
   <tbody>
     <tr>
+      <td>5 %</td>
       <td>20 %</td>
-      <td>10 %</td>
+      <td>5 %</td>
       <td>10 %</td>
       <td>20 %</td>
       <td>40 %</td>
