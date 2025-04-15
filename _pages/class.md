@@ -22,7 +22,7 @@ The course will include two weekly lectures, four homework assignments, and a fi
 
 ### Prerequisites:
 <p style="text-align: justify;font-size:10pt;">
-<b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br>
+<b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br>- 
 <b>Control Class, e.g., MAE 435: Principles of Automatic Control</b>  
 </p>  
 
@@ -30,6 +30,13 @@ The course will include two weekly lectures, four homework assignments, and a fi
 <p style="text-align: justify;font-size:10pt;">
 Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
 </p>  
+
+<p style="text-align: justify;font-size:10pt;">
+Dr. Lee will be attending conferences—including the International Conference on Robot Learning 2025 and the International Conference on Humanoid Robots 2025—and giving invited talks. Please take the following schedule into consideration for this class.<br>
+- Sep 29, Oct 1, Oct 6: Virtual classes (lecture videos will be uploaded) <br>
+- Oct 8: No class — reserved for project work (in place of a midterm exam)
+</p>  
+
 
 ### Timeline:
 
