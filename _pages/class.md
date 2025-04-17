@@ -213,11 +213,11 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
   <tbody>
     <tr>
       <td>5 %</td>
-      <td>20 %</td>
+      <td>30 %</td>
       <td>5 %</td>
       <td>10 %</td>
-      <td>20 %</td>
-      <td>40 %</td>
+      <td>10 %</td>
+      <td>20 % / 20%</td>
     </tr>
   </tbody>
 </table>  
