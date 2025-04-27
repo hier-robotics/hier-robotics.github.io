@@ -33,8 +33,8 @@ Lecture slides will be posted on the course website one hour before each lecture
 
 <p style="text-align: justify;font-size:10pt;">
 Dr. Lee will be attending conferences—including the International Conference on Robot Learning 2025 and the International Conference on Humanoid Robots 2025—and giving invited talks. Please take the following schedule into consideration for this class.<br>
-- Sep 29, Oct 1, Oct 6: Virtual classes (lecture videos will be uploaded) <br>
-- Oct 8: No class — reserved for project work (in place of a midterm exam)
+- Sep 22, Sep 24, Sep 29: Virtual classes (lecture videos will be uploaded) <br>
+- Oct 1: No class — reserved for project work (in place of a midterm exam)
 </p>  
 
 
