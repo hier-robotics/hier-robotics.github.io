@@ -113,6 +113,7 @@ Academic Service <br>
     </p>
   </div>
 </div> 
+
  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jack.jpg" style="width: 100%;" alt="Jack Fetkovich"/>
