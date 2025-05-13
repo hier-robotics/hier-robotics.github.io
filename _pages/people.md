@@ -107,7 +107,7 @@ Academic Service <br>
       Legged Robots for Jumping
     </p>
   </div>
-    <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%;" alt="Hanbin Jang"/>
     <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang (MAE)</b> <br>
       Reinforcement Learning of Quadruped Locomotion
