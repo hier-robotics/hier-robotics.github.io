@@ -111,7 +111,9 @@ Academic Service <br>
     <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang (MAE)</b> <br>
       Reinforcement Learning of Quadruped Locomotion
     </p>
-  </div>  
+  </div>
+</div> 
+ <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jack.jpg" style="width: 100%;" alt="Jack Fetkovich"/>
     <p style="font-size:10pt;margin: 0;"> <b>Jack Fetkovich (ECE)</b> <br>
