@@ -59,20 +59,35 @@ Academic Service <br>
 
 <p> </p>
 
-## Undergraduate Students
+## Accelerated B.S/M.S. (ABM) Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Keagan.png" style="width: 100%;" alt="Keagan Donovan"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Keagan Donovan (MAE)</b> <br>
-    Design for Transformable Foot of Robots
+    <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
+       Transformable Manipulation
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Ali.jpg" style="width: 100%;" alt="Ali Mohamed-Ali"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Ali Mohamed-Ali (MAE)</b> <br>
-    Design for Powerful Ankle of Robots
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div>
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    </p>
+  </div>
+</div>
+
+<p> </p>
+
+## Undergraduate Students
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Will.jpg" style="width: 100%;" alt="Will Joseph"/>
     <p style="font-size:10pt;margin: 0;"> <b>Will Joseph (MAE)</b> <br>
@@ -86,14 +101,6 @@ Academic Service <br>
     </p>
   </div>
 </div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
-       Transformable Manipulation
-    </p>
-  </div>
   <div style="text-align: center; width: 170px;">
    <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;" alt="Jaey Kim"/>
     <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim (MAE) </b> <br>
