@@ -35,16 +35,17 @@ Academic Service <br>
 ## Graduate Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Junyoung.jpg" style="width: 100%;" alt="JunYoung Kim"/>
+    <p style="font-size:10pt;margin: 0;"> <b>JunYoung Kim (MAE)</b> <br> 
+    Whole-body Planning and Control for Humanoids <br>  
+    </p>
+  </div>
+  <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
     <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br> 
     Perception-based Safe Locomotion <br>  
     </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div>
+  </div>  
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
