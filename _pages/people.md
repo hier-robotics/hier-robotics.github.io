@@ -123,8 +123,11 @@ Academic Service <br>
     </p>
   </div>
     <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <img src="/assets/images/nwsutton.jpg" style="width: 100%;" alt="
+Nicholas Sutton"/>
+    <p style="font-size:10pt;margin: 0;"> <b>
+Nicholas Sutton (CS)</b> <br>
+      Reasoning and Behavior Model of Humanoids
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
