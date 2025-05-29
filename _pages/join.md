@@ -8,7 +8,6 @@ permalink: /join/
 ## Google Form
 If you are interested in joining our lab, please submit the google form:  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header">Application</a> 
 
-
 ## Prospective Ph.D. Students
 <p style="font-size:10pt;">
 We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to reach out via email to the Principal Investigator (PI), (jaemin.lee at ncsu.edu), or <b>sumit the google form </b> providing the following information:
