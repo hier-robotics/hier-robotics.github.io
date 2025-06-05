@@ -70,7 +70,8 @@ Academic Service <br>
   </div>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>David Alexander</b> <br>
+      Ankle Exoskeleton Robots
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
