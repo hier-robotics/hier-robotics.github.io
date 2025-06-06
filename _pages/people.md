@@ -81,7 +81,12 @@ Academic Service <br>
       Ankle Exoskeleton Robots
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
+      <!-- 3rd of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+
+  <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+<!--   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
@@ -90,7 +95,7 @@ Academic Service <br>
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
-  </div>
+  </div> -->
 </div>
 
 <p> </p>
@@ -138,7 +143,13 @@ Nicholas Sutton (CS)</b> <br>
       Reasoning and Behavior Model of Humanoids
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
+    <!-- 3rd of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+
+  <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+   
+<!--   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
@@ -147,7 +158,7 @@ Nicholas Sutton (CS)</b> <br>
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
-  </div>
+  </div> -->
 </div>
 
 
