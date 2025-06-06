@@ -46,7 +46,7 @@ Academic Service <br>
     Perception-based Safe Locomotion <br>  
     </p>
   </div>  
-  <div style="text-align: center; width: 170px;">
+<!--   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
@@ -55,7 +55,7 @@ Academic Service <br>
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
-  </div>
+  </div> -->
 </div>
 
 <p> </p>
