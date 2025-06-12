@@ -13,8 +13,8 @@ permalink: /people/
 </p>  
 
 <p style="text-align: justify;font-size:10pt;">
-  - Assistant Professor, Department of Mechanical and Aerospace Engineering, North carolina State University, NC <br>
-  - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC <br>
+  - <b>Assistant Professor</b>, Department of Mechanical and Aerospace Engineering, North carolina State University, NC <br>
+  - <b>Associate Faculty</b>, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC <br>
   - Postdoctoral Scholar, California Institute of Technology, CA <br>
   - Ph.D., The University of Texas at Austin, TX <br>
 <!--   - M.S., Seoul National University, South Korea <br> -->
