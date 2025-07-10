@@ -10,32 +10,32 @@ permalink: /class/
 <br>
 
 ## MAE 589 Fundamentals for Modern Robotics
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
  This class will be offered in Fall 2025. <br>
 </p>  
 
 ### Discription:
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 Robotic systems have increasingly integrated planning and control algorithms to operate effectively in the real world. Legged robots, such as quadrupedal robots and bipedal humanoid robots, are designed to navigate challenging terrains and perform a wide range of loco-manipulation tasks, including autonomous inspection, transportation, and more. This course covers the fundamental principles of planning and control for legged robots. Topics include kinematic and dynamic modeling, floating-base dynamics, contact dynamics, hierarchical control frameworks, whole-body control, locomotion control, and trajectory generation techniques. These concepts will be illustrated with practical examples from quadrupedal and bipedal robots. The course emphasizes practical and applied approaches to planning and control, focusing on quadrupedal and humanoid robots. <br>
 </p>  
 
 ### Format:
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 The course will include two weekly lectures, four homework assignments, and a final project. The lectures will cover fundamental concepts such as rigid-body dynamics, optimal control theory, and planning and control techniques for modern robotics, with a particular focus on methods applicable to legged robots, including humanoid and animaloid robots. The assignments will emphasize practical implementation, requiring students to do simulation of locomotion gaits and solve coding problems related to the covered topics. For the final project, students will define their own problem and develop at least one solution using simulation tools. <br>
 </p>  
 
 ### Prerequisites:
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 <b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br> 
 <b>Control Class, e.g., MAE 435: Principles of Automatic Control</b>  
 </p>  
 
 ### Lecture Slides and Videos:
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
 </p>  
 
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 Dr. Lee will be attending conferences—including the International Conference on Robot Learning 2025 and the International Conference on Humanoid Robots 2025—and giving invited talks. Please take the following schedule into consideration for this class.<br>
 - Sep 22, Sep 24, Sep 29: Virtual classes (lecture videos will be uploaded) <br>
 - Oct 1: No class — reserved for project work (in place of a midterm exam)
@@ -191,7 +191,7 @@ Dr. Lee will be attending conferences—including the International Conference o
 </table>
 
 ### Project requirements: 
-<p style="text-align: justify;font-size:10pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
+<p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
 <b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
 <b>Gezebo</b>:<a href="https://classic.gazebosim.org/">https://classic.gazebosim.org/</a>  <br>
 <b>Bullet</b>:<a href="https://pybullet.org/wordpress/">https://pybullet.org/wordpress/</a>  <br>
@@ -199,7 +199,7 @@ Dr. Lee will be attending conferences—including the International Conference o
 </p>  
 
 ### Grading and Course Policies:
-<p style="text-align: justify;font-size:10pt;"> 
+<p style="text-align: justify;font-size:11pt;"> 
 Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse.
 </p>  
 
