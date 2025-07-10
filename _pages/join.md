@@ -7,6 +7,8 @@ title: "Join"
 permalink: /join/
 ---
 
+<br>
+
 ## Google Form
 <p style="font-size:10pt;">
 If you are interested in joining our lab, <b>please submit the google form:  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header">Form</a> </b> 
