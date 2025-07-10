@@ -40,7 +40,7 @@ Academic Service <br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%;border-radius: 10px;" alt="JunYoung Kim" />
-    <p style="font-size:10pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
+    <p style="font-size:11pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>  
     </p>
   </div>
@@ -65,7 +65,7 @@ Academic Service <br>
   </div>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="David Alexander"/>
-    <p style="font-size:10pt;margin: 0;"> <b>David Alexander</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>David Alexander</b> <br>
        MAE ABM (Fall 2025)
     </p>
   </div>
@@ -85,25 +85,25 @@ Academic Service <br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;border-radius: 10px;" alt="Jakub Jon"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon</b> <br> 
+    <p style="font-size:11pt;margin: 0;"> <b>Jakub Jon</b> <br> 
     Visiting M.S.
     </p>
   </div>    
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Will.jpg" style="width: 100%;border-radius: 10px;" alt="Will Joseph"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Will Joseph</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Will Joseph</b> <br>
     MAE B.S.
     </p>
   </div>  
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/daniel_dong.jpg" style="width: 100%;border-radius: 10px;" alt="Daniel Dong"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Daniel Dong</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Daniel Dong</b> <br>
     CS B.S.
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
    <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;border-radius: 10px;" alt="Jaey Kim"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Jaey Kim</b> <br>
     MAE B.S.
     </p>
   </div>
@@ -112,20 +112,20 @@ Academic Service <br>
  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
    <div style="text-align: center; width: 170px;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%;border-radius: 10px;" alt="Hanbin Jang"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Hanbin Jang</b> <br>
     Visiting B.S. 
     </p>
   </div>  
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jack.jpg" style="width: 100%;border-radius: 10px;" alt="Jack Fetkovich"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jack Fetkovich</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Jack Fetkovich</b> <br>
       ECE B.S.
     </p>
   </div>
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
 Nicholas Sutton"/>
-    <p style="font-size:10pt;margin: 0;"> <b>
+    <p style="font-size:11pt;margin: 0;"> <b>
 Nicholas Sutton</b> <br>
      CS B.S.
     </p>
