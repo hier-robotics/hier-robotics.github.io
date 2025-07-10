@@ -35,20 +35,17 @@ Academic Service <br>
   - Reviewer, IEEE Transactions on Robotics (IEEE T-RO), IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA),  IEEE International Conference on Intelligent Robots and Systems (IROS), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Robotica, ASME Journal of Dynamic Systems, Measurement and Control, Autonomous Robots (AURO), IEEE Transaction on Industrial Electronics (TIE), IEEE Control Systems Letters (L-CSS)
 </p>
 
-## Graduate Students
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;border-radius: 10px; ">
-  <div style="text-align: center; width: 170px;">
+## Ph.D. Students
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%;" alt="JunYoung Kim"/>
     <p style="font-size:10pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>  
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br> 
-    Perception-based Safe Locomotion <br>  
-    </p>
-  </div>  
+
+    <!-- 2rd of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
 
     <!-- 3rd of 4 columns (empty) -->
   <div style="width: 170px;"></div>
@@ -70,18 +67,18 @@ Academic Service <br>
 
 <p> </p>
 
-## Accelerated B.S/M.S. (ABM) Students
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-  <div style="text-align: center; width: 170px;">
+## M.S and Accelerated B.S/M.S. (ABM) Students
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
     <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
-       Transformable Manipulation
+       MAE ABM (Spring 2025)
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
     <p style="font-size:10pt;margin: 0;"> <b>David Alexander (MAE)</b> <br>
-      Ankle Exoskeleton Robots
+       MAE ABM (Fall 2025)
     </p>
   </div>
       <!-- 3rd of 4 columns (empty) -->
@@ -89,22 +86,21 @@ Academic Service <br>
 
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
-<!--   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div> -->
 </div>
 
 <p> </p>
 
-## B.S. Students and Visiting Students
+## B.S. and Visiting Students
+
+
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
+    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br> 
+    Visiting M.S. <br>  
+    </p>
+  </div>    
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Will.jpg" style="width: 100%;" alt="Will Joseph"/>
     <p style="font-size:10pt;margin: 0;"> <b>Will Joseph (MAE)</b> <br>
@@ -123,15 +119,15 @@ Academic Service <br>
       Legged Robots for Jumping
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
+</div> 
+
+ <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
+   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%;" alt="Hanbin Jang"/>
     <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang (MAE)</b> <br>
       Reinforcement Learning of Quadruped Locomotion
     </p>
-  </div>
-</div> 
-
- <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
+  </div>  
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Jack.jpg" style="width: 100%;" alt="Jack Fetkovich"/>
     <p style="font-size:10pt;margin: 0;"> <b>Jack Fetkovich (ECE)</b> <br>
