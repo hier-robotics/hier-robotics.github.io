@@ -7,7 +7,7 @@ title: "Research"
 permalink: /research/
 ---
 
-<br><br>
+<br>
 
 ## Safety-critical Whole-body Planning and Control
 
