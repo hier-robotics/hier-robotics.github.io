@@ -20,6 +20,8 @@ permalink: /research/
 - topics: multi-layered architecture / safety-crtitical control/ whole-body control
 </p>
 
+<br>
+
 ## Sensor-based Versatile Loco-manipulation
 
 <img src="/assets/images/perception_based_locomotion.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 10px;"/>
@@ -30,6 +32,8 @@ permalink: /research/
 <p style="font-size:10pt;">
 - topics: locomotion control / robust control / learning-based control / perception in a loop
 </p>
+
+<br>
 
 ## Transformable Hardware
 
@@ -42,6 +46,7 @@ permalink: /research/
 - topics: transformable hardware / hybrid dynamics / multi-purpose limbs / novel mechanisms
 </p>
 
+<br>
 
 ## AI-based Task Scheduling
 
