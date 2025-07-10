@@ -34,10 +34,10 @@ Academic Service <br>
 </p>
 
 ## Graduate Students
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;border-radius: 10px; ">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%;" alt="JunYoung Kim"/>
-    <p style="font-size:10pt;margin: 0;"> <b>JunYoung Kim (MAE)</b> <br> 
+    <p style="font-size:10pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>  
     </p>
   </div>
