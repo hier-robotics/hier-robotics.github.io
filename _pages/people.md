@@ -25,8 +25,7 @@ permalink: /people/
 <p style="text-align: justify;font-size:10pt;">
 MAE Cources <br>
   - Undergraduate: MAE 435 Principles of Automatic Control (Spring) <br>
-  - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall) <br>
-              MAE 789 Advanced Planning and Control for Robots (2026 Fall)
+  - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall), MAE 789 Advanced Planning and Control for Robots (2026 Fall)
 </p>
 
 <p style="text-align: justify;font-size:10pt;">
@@ -82,55 +81,53 @@ Academic Service <br>
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-  <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;" alt="Jakub Jon"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon (ECE)</b> <br> 
-    Visiting M.S. <br>  
+    <p style="font-size:10pt;margin: 0;"> <b>Jakub Jon</b> <br> 
+    Visiting M.S.
     </p>
   </div>    
-    <div style="text-align: center; width: 170px;">
+    <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Will.jpg" style="width: 100%;" alt="Will Joseph"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Will Joseph (MAE)</b> <br>
-      Design for Actuator and Motion Controller
+    <p style="font-size:10pt;margin: 0;"> <b>Will Joseph</b> <br>
+    MAE B.S.
     </p>
   </div>  
-  <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/daniel_dong.jpg" style="width: 100%;" alt="Daniel Dong"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Daniel Dong (CS)</b> <br>
-      Connecting Robots to LLM
+    <p style="font-size:10pt;margin: 0;"> <b>Daniel Dong</b> <br>
+    CS B.S.
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
    <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;" alt="Jaey Kim"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim (MAE) </b> <br>
-      Legged Robots for Jumping
+    <p style="font-size:10pt;margin: 0;"> <b>Jaey Kim</b> <br>
+    MAE B.S.
     </p>
   </div>
 </div> 
 
  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
-   <div style="text-align: center; width: 170px;">
+   <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%;" alt="Hanbin Jang"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang (MAE)</b> <br>
-      Reinforcement Learning of Quadruped Locomotion
+    <p style="font-size:10pt;margin: 0;"> <b>Hanbin Jang</b> <br>
+    Visiting B.S. 
     </p>
   </div>  
-  <div style="text-align: center; width: 170px;">
+  <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Jack.jpg" style="width: 100%;" alt="Jack Fetkovich"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Jack Fetkovich (ECE)</b> <br>
-      Predictive Navigation and Control
+    <p style="font-size:10pt;margin: 0;"> <b>Jack Fetkovich</b> <br>
+      ECE B.S.
     </p>
   </div>
-    <div style="text-align: center; width: 170px;">
+    <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%;" alt="
 Nicholas Sutton"/>
     <p style="font-size:10pt;margin: 0;"> <b>
-Nicholas Sutton (CS)</b> <br>
-      Reasoning and Behavior Model of Humanoids
+Nicholas Sutton</b> <br>
+     CS B.S.
     </p>
   </div>
-    <!-- 3rd of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
 
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
