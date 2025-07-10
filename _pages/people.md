@@ -7,6 +7,8 @@ title: "People"
 permalink: /people/
 ---
 
+<br>
+
 ## Professor: Dr. Jaemin Lee
 
 <img src="/assets/images/Jaemin5.jpg" align="left" width="170px" style="margin-right: 20px;margin-top: 20px;border-radius: 10px;"/>
