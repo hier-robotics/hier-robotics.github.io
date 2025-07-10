@@ -44,25 +44,12 @@ Academic Service <br>
     </p>
   </div>
 
-    <!-- 2rd of 4 columns (empty) -->
   <div style="width: 170px;"></div>
 
-    <!-- 3rd of 4 columns (empty) -->
   <div style="width: 170px;"></div>
 
-  <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
   
-<!--   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div> -->
 </div>
 
 <p> </p>
@@ -71,13 +58,13 @@ Academic Service <br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center; width: 170px;border-radius: 10px;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%;" alt="Andrea Basuroski"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski (MAE)</b> <br>
+    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski</b> <br>
        MAE ABM (Spring 2025)
     </p>
   </div>
   <div style="text-align: center; width: 170px;border-radius: 10px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>David Alexander (MAE)</b> <br>
+    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="David Alexander"/>
+    <p style="font-size:10pt;margin: 0;"> <b>David Alexander</b> <br>
        MAE ABM (Fall 2025)
     </p>
   </div>
