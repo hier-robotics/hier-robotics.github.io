@@ -1,6 +1,8 @@
 ---
-layout: single
-classes: wide
+layout: splash
+classes:
+  - landing
+  - dark-theme
 title: "Videos"
 permalink: /videos/
 ---
