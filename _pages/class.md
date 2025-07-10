@@ -7,6 +7,8 @@ title: "Class"
 permalink: /class/
 ---
 
+<br>
+
 ## MAE 589 Fundamentals for Modern Robotics
 <p style="text-align: justify;font-size:10pt;">
  This class will be offered in Fall 2025. <br>
