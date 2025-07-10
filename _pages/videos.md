@@ -16,6 +16,8 @@ permalink: /videos/
   }
 </style>
 
+<br>
+
 ## Bipedal Locomotion 
 
 <p style="font-size:11pt">
