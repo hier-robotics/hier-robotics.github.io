@@ -24,7 +24,7 @@ permalink: /people/
 <!--   - M.S., Seoul National University, South Korea <br> -->
 </p>
 
-<p style="text-align: justify;font-size:11pt;">
+<!--  <p style="text-align: justify;font-size:11pt;">
 MAE Cources <br>
   - Undergraduate: MAE 435 Principles of Automatic Control (Spring) <br>
   - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall), MAE 789 Advanced Planning and Control for Robots (2026 Fall)
@@ -34,7 +34,7 @@ MAE Cources <br>
 Academic Service <br>
   - Associate Editor, IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA) <br>
   - Reviewer, IEEE Transactions on Robotics (IEEE T-RO), IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA),  IEEE International Conference on Intelligent Robots and Systems (IROS), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Robotica, ASME Journal of Dynamic Systems, Measurement and Control, Autonomous Robots (AURO), IEEE Transaction on Industrial Electronics (TIE), IEEE Control Systems Letters (L-CSS)
-</p>
+</p> -->
 
 ## Ph.D. Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
