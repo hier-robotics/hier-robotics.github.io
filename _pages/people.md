@@ -101,7 +101,7 @@ Academic Service <br>
 
 <p> </p>
 
-## B.S. Students
+## B.S. Students and Visiting Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Will.jpg" style="width: 100%;" alt="Will Joseph"/>
