@@ -24,7 +24,7 @@ permalink: /people/
 <!--   - M.S., Seoul National University, South Korea <br> -->
 </p>
 
-<p> </p>
+<br>
 
 
 <!--  <p style="text-align: justify;font-size:11pt;">
