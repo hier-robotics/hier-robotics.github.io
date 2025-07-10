@@ -12,11 +12,11 @@ permalink: /people/
 ## Professor: Dr. Jaemin Lee
 
 <img src="/assets/images/Jaemin5.jpg" align="left" width="170px" style="margin-right: 20px;margin-top: 20px;border-radius: 10px;"/>
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
   Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI.<br>
 </p>  
 
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
   - <b>Assistant Professor</b>, Department of Mechanical and Aerospace Engineering, North carolina State University, NC <br>
   - <b>Associate Faculty</b>, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC <br>
   - Postdoctoral Scholar, California Institute of Technology, CA <br>
@@ -24,13 +24,13 @@ permalink: /people/
 <!--   - M.S., Seoul National University, South Korea <br> -->
 </p>
 
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 MAE Cources <br>
   - Undergraduate: MAE 435 Principles of Automatic Control (Spring) <br>
   - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall), MAE 789 Advanced Planning and Control for Robots (2026 Fall)
 </p>
 
-<p style="text-align: justify;font-size:10pt;">
+<p style="text-align: justify;font-size:11pt;">
 Academic Service <br>
   - Associate Editor, IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA) <br>
   - Reviewer, IEEE Transactions on Robotics (IEEE T-RO), IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA),  IEEE International Conference on Intelligent Robots and Systems (IROS), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Robotica, ASME Journal of Dynamic Systems, Measurement and Control, Autonomous Robots (AURO), IEEE Transaction on Industrial Electronics (TIE), IEEE Control Systems Letters (L-CSS)
@@ -136,12 +136,12 @@ Nicholas Sutton</b> <br>
    
 <!--   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Future Student</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Future Student</b> <br>
     </p>
   </div> -->
 </div>
