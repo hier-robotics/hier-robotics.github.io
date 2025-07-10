@@ -7,6 +7,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<br>
+
 ## 2025
 
 <p style="font-size:10pt">
