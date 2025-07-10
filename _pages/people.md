@@ -59,7 +59,7 @@ Academic Service <br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%;border-radius: 10px;" alt="Andrea Basuroski"/>
-    <p style="font-size:10pt;margin: 0;"> <b>Andrea Basuroski</b> <br>
+    <p style="font-size:11pt;margin: 0;"> <b>Andrea Basuroski</b> <br>
        MAE ABM (Spring 2025)
     </p>
   </div>
