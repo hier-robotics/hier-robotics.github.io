@@ -7,6 +7,8 @@ title: "Research"
 permalink: /research/
 ---
 
+<br><br>
+
 ## Safety-critical Whole-body Planning and Control
 
 <img src="/assets/images/whole_body_control.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 10px;"/>
