@@ -19,6 +19,14 @@ permalink: /videos/
 <br>
 
 ## Bipedal Locomotion 
+<p style="font-size:11pt">
+<b>Our new humanoid robot, G1, has arrived—welcome to the HIER Lab!</b>
+</p>
+
+<div class="video-container">
+  <iframe src="https://youtu.be/_2RTI_KxG0g" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <p style="font-size:11pt">
 <b>Submitted to ICRA 2025</b>
@@ -31,6 +39,25 @@ permalink: /videos/
 <p> </p>
 
 ## Qudrupedal Locomotion
+
+<p style="font-size:11pt">
+<b>How can we enhance locomotion robustness on slippery terrains?</b>
+</p>
+
+<div class="video-container">
+  <iframe src="https://youtu.be/ONZOL6yQK5Q" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<p style="font-size:11pt">
+<b>Can we do something similar to what Agility Robotics did with their legged robot?</b>
+</p>
+
+<div class="video-container">
+  <iframe src="https://youtu.be/O39VSTeDTbY" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <p style="font-size:11pt">
 <b>New robots have arrived.</b>
 </p>
