@@ -24,7 +24,7 @@ permalink: /videos/
 </p>
 
 <div class="video-container">
-  <iframe src="https://youtu.be/_2RTI_KxG0g" 
+  <iframe src="https://www.youtube.com/watch?v=_2RTI_KxG0g" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -45,7 +45,7 @@ permalink: /videos/
 </p>
 
 <div class="video-container">
-  <iframe src="https://youtu.be/ONZOL6yQK5Q" 
+  <iframe src="https://www.youtube.com/watch?v=ONZOL6yQK5Q" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
@@ -54,7 +54,7 @@ permalink: /videos/
 </p>
 
 <div class="video-container">
-  <iframe src="https://youtu.be/O39VSTeDTbY" 
+  <iframe src="https://www.youtube.com/watch?v=O39VSTeDTbY" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
