@@ -41,11 +41,16 @@ permalink: /videos/
 ## Qudrupedal Locomotion
 
 <p style="font-size:11pt">
-<b>How can we enhance locomotion robustness on slippery terrains?</b>
+<b>How can we enhance locomotion robustness in challenging environments?</b>
 </p>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/ONZOL6yQK5Q?si=uLEyL_gsTY9h4SFh" 
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/6xFqi_seu1A?si=YGuz6E_aoT0Mmy_9" 
           allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
