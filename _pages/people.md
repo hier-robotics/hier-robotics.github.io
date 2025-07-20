@@ -152,6 +152,6 @@ Nicholas Sutton</b> <br>
 <br>
 ## Formal Students
 <p style="font-size:11pt;margin: 0;"> 
-Ali Mohamed-Ali (NCSU MAE 2025) <br>  
-  Keagan Donovan (NCSU MAE 2025) <br>
+Ali Mohamed-Ali (NCSU MAE B.S. 2025) <br>  
+  Keagan Donovan (NCSU MAE B.S. 2025) <br>
     </p>
