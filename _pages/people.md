@@ -149,6 +149,7 @@ Nicholas Sutton</b> <br>
   </div> -->
 </div>
 
+<br>
 ## Formal Students
 <p style="font-size:11pt;margin: 0;"> 
 Ali Mohamed-Ali (NCSU MAE 2025) <br>  
