@@ -18,7 +18,7 @@ If you are interested in joining our lab, <b>please submit the google form:  <a 
 <p style="font-size:11pt;">
 We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to <b>submit the google form </b> providing the following information:
 </p>
-- <p style="font-size:11pt;"> We have <b>Ph.D. positions</b> available for the 2026 academic year in the following research areas: 1) <b>Learning-Based Tele-Locomotion of Humanoid Robots</b>, 2) <b>Safe Autonomy for Heterogeneous Legged Robot Teams</b>.     
+- <p style="font-size:11pt;"> We have <b>Ph.D. positions</b> available for the 2026 academic year in the following research areas: 1) <b> Humanoid Robots</b>, 2) <b>Safe Autonomy for Heterogeneous Robot Teams</b>.     
 
 ## NC State University Undergraduate or M.S. Students
 <p style="font-size:11pt;">
