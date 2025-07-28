@@ -115,7 +115,8 @@ Academic Service <br>
     </p>
   </div>
 </div> 
- 
+
+ <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
 Nicholas Sutton"/>
@@ -148,8 +149,14 @@ Nicholas Sutton</b> <br>
 
 <br>
 ## Formal Students
-Hanbin Jang (B.S. Visiting, Spring,2025 - Summer,2025)
-Ali Mohamed-Ali (B.S. MAE, Fall,2024 - Spring,2025)
-Keagan Donovan (B.S. MAE, Fall,2024 - Spring,2025)
+
+<p style="text-align: justify;font-size:11pt;">
+  - Hanbin Jang (B.S. Visiting, Spring,2025 - Summer,2025) <br>
+  - Ali Mohamed-Ali (B.S. MAE, Fall,2024 - Spring,2025) <br>
+  - Keagan Donovan (B.S. MAE, Fall,2024 - Spring,2025)
+</p>
+
+
+
 
 
