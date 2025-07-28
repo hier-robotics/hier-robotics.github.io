@@ -123,12 +123,6 @@ Academic Service <br>
     Visiting B.S. 
     </p>
   </div>  
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Jack.jpg" style="width: 100%;border-radius: 10px;" alt="Jack Fetkovich"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Jack Fetkovich</b> <br>
-      ECE B.S.
-    </p>
-  </div>
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
 Nicholas Sutton"/>
