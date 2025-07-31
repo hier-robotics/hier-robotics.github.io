@@ -33,5 +33,5 @@ At present, our lab does not have available funding to support postdoctoral posi
 
 ## Visiting Scholars
 <p style="font-size:11pt;">
-If researchers holding fellowships have topics that could potentially be collaborative with our lab on short-term projects (less than a year), we welcome you to email the PI or <b>sumit the google form </b> to inquire about availability.
+If researchers holding fellowships have topics that could potentially be collaborative with our lab on short-term projects (less than a year), we welcome you to email the PI or <b>submit the google form </b> to inquire about availability.
 </p>
