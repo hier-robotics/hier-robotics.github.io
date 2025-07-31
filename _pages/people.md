@@ -73,7 +73,7 @@ Academic Service <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="David Alexander"/>
+    <img src="/assets/images/David.jpg" style="width: 100%;border-radius: 10px;" alt="David Alexander"/>
     <p style="font-size:11pt;margin: 0;"> <b>David Alexander</b> <br>
        MAE ABM (Fall 2025)
     </p>
