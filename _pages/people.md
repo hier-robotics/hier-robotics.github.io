@@ -135,20 +135,37 @@ Nicholas Sutton</b> <br>
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
    
-<!--   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;" alt="Person2"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Future Student</b> <br>
-    </p>
-  </div> -->
 </div>
 
-<br>
+<p> </p>
 
+## Robots
+ <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
+    <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/G1.jpg" style="width: 100%;border-radius: 10px;" alt="
+Humanoid G1"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Humanoid G1</b> <br>
+    (2025 Summer)
+    </p>
+  </div>
+
+   <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Go2.jpg" style="width: 100%;border-radius: 10px;" alt="
+Quadruped Go2"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Quadruped Go2</b> <br>
+     (2024 Fall)
+    </p>
+  </div>
+  
+        <!-- 3rd of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+
+  <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+   
+</div>
 
 
 
