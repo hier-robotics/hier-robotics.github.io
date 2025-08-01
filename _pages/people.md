@@ -148,13 +148,13 @@ Nicholas Sutton</b> <br>
 </div>
 
 <br>
-## Formal Students
+<!-- ## Formal Students
 
 <p style="text-align: justify;font-size:11pt;">
   - Hanbin Jang (B.S. Visiting, Spring,2025 - Summer,2025) <br>
   - Ali Mohamed-Ali (B.S. MAE, Fall,2024 - Spring,2025) <br>
   - Keagan Donovan (B.S. MAE, Fall,2024 - Spring,2025)
-</p>
+</p> -->
 
 
 
