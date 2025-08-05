@@ -190,14 +190,6 @@ Dr. Lee will be attending conferences—including the International Conference o
   </tbody>
 </table>
 
-### Project requirements: 
-<p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
-<b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
-<b>Gezebo</b>:<a href="https://classic.gazebosim.org/">https://classic.gazebosim.org/</a>  <br>
-<b>Bullet</b>:<a href="https://pybullet.org/wordpress/">https://pybullet.org/wordpress/</a>  <br>
-<b>Issac Lab</b>:<a href="https://github.com/isaac-sim/IsaacLab">https://github.com/isaac-sim/IsaacLab</a>
-</p>  
-
 ### Grading and Course Policies:
 <p style="text-align: justify;font-size:11pt;"> 
 Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse.
@@ -225,4 +217,18 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
     </tr>
   </tbody>
 </table>  
-    
+
+### Project requirements: 
+<p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
+<b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
+<b>Gezebo</b>:<a href="https://classic.gazebosim.org/">https://classic.gazebosim.org/</a>  <br>
+<b>Bullet</b>:<a href="https://pybullet.org/wordpress/">https://pybullet.org/wordpress/</a>  <br>
+<b>Issac Lab</b>:<a href="https://github.com/isaac-sim/IsaacLab">https://github.com/isaac-sim/IsaacLab</a>
+</p>  
+
+### Research-inspired Project Topics:
+<p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
+1. <b> Quadruped Robots (Unitree Go2) </b>: A project on quadruped robots could explore how four-legged robots move and maintain balance. Students might investigate how different gaits—such as walking, trotting, or bounding—affect stability and energy efficiency. The project could involve building simple simulation models or using an existing quadruped robot to test basic control strategies. This topic is ideal for learning about locomotion, sensor feedback, and how animals inspire robot movement. <br>
+2. <b> Manipulators (Franka Research 3)</b>: A manipulator project could focus on using a robot arm to perform everyday tasks like picking up, moving, or sorting objects. Students can learn about joint control, coordinate transformations, and path planning. A basic version might involve controlling a 7-DOF arm using joystick or computer commands, while more advanced options could include integrating cameras to detect object locations or implementing feedback control to improve precision.  <br>
+3. <b> Humanoid Robots (Unitree G1) </b>: Humanoid robot projects offer a chance to study human-like movement and interaction. A project could involve making a humanoid robot perform simple tasks such as waving, walking in place, or balancing while carrying an object. This topic introduces students to complex coordination between joints, balance control, and planning motions that resemble human behavior. Simulations can be used if real hardware isn’t available, making this topic accessible to a range of skill levels.  <br>
+</p>  
