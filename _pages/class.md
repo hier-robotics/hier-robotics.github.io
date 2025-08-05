@@ -44,7 +44,7 @@ Dr. Lee will be attending conferences—including the International Conference o
 
 ### Timeline:
 
-<table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
+<table border="0" style="border-collapse: collapse; width: 100%; font-size: 13px;">
   <thead>
     <tr>
       <th>Date</th>
