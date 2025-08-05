@@ -216,27 +216,28 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
       <td>20 % / 20%</td>
     </tr>
   </tbody>
-</table>  
+</table> 
+<br><br>
 
 ### Project requirements: 
 <p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
 <b>Mujoco</b>:<a href="https://github.com/google-deepmind/mujoco">https://github.com/google-deepmind/mujoco</a>  <br>
 <b>Gezebo</b>:<a href="https://classic.gazebosim.org/">https://classic.gazebosim.org/</a>  <br>
 <b>Bullet</b>:<a href="https://pybullet.org/wordpress/">https://pybullet.org/wordpress/</a>  <br>
-<b>Issac Lab</b>:<a href="https://github.com/isaac-sim/IsaacLab">https://github.com/isaac-sim/IsaacLab</a>
+<b>Issac Lab</b>:<a href="https://github.com/isaac-sim/IsaacLab">https://github.com/isaac-sim/IsaacLab</a> <br><br>
 </p>  
 
 ### Research-inspired Project Topics:
 <p style="text-align: justify;font-size:11pt;"> 
-1. <b> Quadruped Robots (Unitree Go2) </b>: A project on quadruped robots could explore how four-legged robots move and maintain balance. Students might investigate how different gaits—such as walking, trotting, or bounding—affect stability and energy efficiency. The project could involve building simple simulation models or using an existing quadruped robot to test basic control strategies. This topic is ideal for learning about locomotion, sensor feedback, and how animals inspire robot movement. <br> <br>
-2. <b> Manipulators (Franka Research 3)</b>: A manipulator project could focus on using a robot arm to perform everyday tasks like picking up, moving, or sorting objects. Students can learn about joint control, coordinate transformations, and path planning. A basic version might involve controlling a 7-DOF arm using joystick or computer commands, while more advanced options could include integrating cameras to detect object locations or implementing feedback control to improve precision.  <br> <br>
+1. <b> Quadruped Robots (Unitree Go2) </b>: A project on quadruped robots could explore how four-legged robots move and maintain balance. Students might investigate how different gaits—such as walking, trotting, or bounding—affect stability and energy efficiency. The project could involve building simple simulation models or using an existing quadruped robot to test basic control strategies. This topic is ideal for learning about locomotion, sensor feedback, and how animals inspire robot movement. <br>
+2. <b> Manipulators (Franka Research 3)</b>: A manipulator project could focus on using a robot arm to perform everyday tasks like picking up, moving, or sorting objects. Students can learn about joint control, coordinate transformations, and path planning. A basic version might involve controlling a 7-DOF arm using joystick or computer commands, while more advanced options could include integrating cameras to detect object locations or implementing feedback control to improve precision.  <br>
 3. <b> Humanoid Robots (Unitree G1) </b>: Humanoid robot projects offer a chance to study human-like movement and interaction. A project could involve making a humanoid robot perform simple tasks such as waving, walking in place, or balancing while carrying an object. This topic introduces students to complex coordination between joints, balance control, and planning motions that resemble human behavior. Simulations can be used if real hardware isn’t available, making this topic accessible to a range of skill levels.  <br> <br>
 </p>  
 
 ### Details for Project 
 <p style="text-align: justify;font-size:11pt;">  
-1. <b> Group Creation </b>: Students are encouraged to define their own project in consultation with the instructor. Project groups should consist of no more than three members, based on the chosen topic and its level of difficulty. <br><br>
-2. <b> Project Survey </b>: Students will choose a topic from the list above and decide whether to work individually or as part of a group. <br><br>
-3. <b> Project Proposal </b>: Students will define their own research problems. To demonstrate the significance and challenges of the proposed project, <b>at least 5 relevant academic papers</b> must be cited.   <b>(3 pages PPT)</b> <br><br>
-4. <b> Project Milestone </b>: Students will present the progress of their projects, including both theoretical development and practical demonstrations. The presentation must clearly indicate the overall completeness of the project and outline any challenges that may prevent full completion. <b>(3 pages PPT)</b> <br><br>
+1. <b> Group Creation </b>: Students are encouraged to define their own project in consultation with the instructor. Project groups should consist of no more than three members, based on the chosen topic and its level of difficulty. <br>
+2. <b> Project Survey </b>: Students will choose a topic from the list above and decide whether to work individually or as part of a group. <br>
+3. <b> Project Proposal </b>: Students will define their own research problems. To demonstrate the significance and challenges of the proposed project, <b>at least 5 relevant academic papers</b> must be cited.   <b>(3 pages PPT)</b> <br>
+4. <b> Project Milestone </b>: Students will present the progress of their projects, including both theoretical development and practical demonstrations. The presentation must clearly indicate the overall completeness of the project and outline any challenges that may prevent full completion. <b>(3 pages PPT)</b> <br>
 5. <b> Project Presentation/Report </b>: Students will deliver a final presentation covering the entire project—from problem definition to validation <b>(10 pages PPT)</b>. They must submit a final report formatted according to the <b>IEEE conference template</b>, with <b>5 pages for content and 1 additional page for references (more than 15 papers)</b> 
