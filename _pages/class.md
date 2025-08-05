@@ -217,7 +217,7 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
     </tr>
   </tbody>
 </table> 
-<br><br>
+
 
 ### Project requirements: 
 <p style="text-align: justify;font-size:11pt;"> You need to choose a proper high-fidelity simulation platform such as one of the following platforms: <br> 
