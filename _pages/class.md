@@ -227,14 +227,14 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
 </p>  
 
 ### Research-inspired Project Topics:
-<p style="text-align: justify;font-size:11pt;">  <br> 
+<p style="text-align: justify;font-size:11pt;"> 
 1. <b> Quadruped Robots (Unitree Go2) </b>: A project on quadruped robots could explore how four-legged robots move and maintain balance. Students might investigate how different gaits—such as walking, trotting, or bounding—affect stability and energy efficiency. The project could involve building simple simulation models or using an existing quadruped robot to test basic control strategies. This topic is ideal for learning about locomotion, sensor feedback, and how animals inspire robot movement. <br> <br>
 2. <b> Manipulators (Franka Research 3)</b>: A manipulator project could focus on using a robot arm to perform everyday tasks like picking up, moving, or sorting objects. Students can learn about joint control, coordinate transformations, and path planning. A basic version might involve controlling a 7-DOF arm using joystick or computer commands, while more advanced options could include integrating cameras to detect object locations or implementing feedback control to improve precision.  <br> <br>
 3. <b> Humanoid Robots (Unitree G1) </b>: Humanoid robot projects offer a chance to study human-like movement and interaction. A project could involve making a humanoid robot perform simple tasks such as waving, walking in place, or balancing while carrying an object. This topic introduces students to complex coordination between joints, balance control, and planning motions that resemble human behavior. Simulations can be used if real hardware isn’t available, making this topic accessible to a range of skill levels.  <br> <br>
 </p>  
 
 ### Details for Project 
-<p style="text-align: justify;font-size:11pt;">  <br> 
+<p style="text-align: justify;font-size:11pt;">  
 1. <b> Group Creation </b>: Students are encouraged to define their own project in consultation with the instructor. Project groups should consist of no more than three members, based on the chosen topic and its level of difficulty. <br><br>
 2. <b> Project Survey </b>: Students will choose a topic from the list above and decide whether to work individually or as part of a group. <br><br>
 3. <b> Project Proposal </b>: Students will define their own research problems. To demonstrate the significance and challenges of the proposed project, <b>at least 5 relevant academic papers</b> must be cited.   <b>(3 pages PPT)</b> <br><br>
