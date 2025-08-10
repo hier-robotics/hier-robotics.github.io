@@ -208,8 +208,8 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
   </thead>
   <tbody>
     <tr>
-      <td>5 %</td>
-      <td>30 %</td>
+      <td>10 %</td>
+      <td>25 %</td>
       <td>5 %</td>
       <td>10 %</td>
       <td>10 %</td>
