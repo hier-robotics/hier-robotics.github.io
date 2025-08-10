@@ -192,7 +192,7 @@ Dr. Lee will be attending conferences—including the International Conference o
 
 ### Grading and Course Policies:
 <p style="text-align: justify;font-size:11pt;"> 
-Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse.
+Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse. We will have <b>four</b> in-class quizzes, all based on homework assignments and class materials. Therefore, it is essential to complete and thoroughly understand all homework and review the provided materials. 
 </p>  
 
 <table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
