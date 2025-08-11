@@ -97,15 +97,11 @@ Academic Service <br>
     </p>
   </div>    
     <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Will.jpg" style="width: 100%;border-radius: 10px;" alt="Will Joseph"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Will Joseph</b> <br>
-    MAE B.S.
-    </p>
-  </div>  
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/daniel_dong.jpg" style="width: 100%;border-radius: 10px;" alt="Daniel Dong"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Daniel Dong</b> <br>
-    CS B.S.
+    <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
+Nicholas Sutton"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Nicholas Sutton</b> <br>
+     CS B.S.
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
@@ -114,28 +110,9 @@ Academic Service <br>
     MAE B.S.
     </p>
   </div>
+   <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div> 
 </div> 
-
- <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
-Nicholas Sutton"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
-Nicholas Sutton</b> <br>
-     CS B.S.
-    </p>
-  </div>
-
-        <!-- 2nd of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
-  
-        <!-- 3rd of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
-
-  <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
-   
-</div>
 
 <p> </p>
 
