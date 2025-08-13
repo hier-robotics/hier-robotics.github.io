@@ -140,13 +140,9 @@ Dr. Lee will be attending conferences—including the International Conference o
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td>Reduced-order Models</td>
+      <td>No class (presentation)</td>
       <td> <b>Project milestone</b></td>
       <td> 
-          <ul>
-          <li> Double Integrator, Unicycle, Single Rigid Body Models</li>
-          <li> Linear Inverted Pendulum (LIP), Hybird LIP (HIP), Angular-momentum-based LIP (ALIP) </li>
-        </ul>  
       </td>
     </tr> 
     <tr>
