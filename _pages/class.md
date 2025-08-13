@@ -140,7 +140,7 @@ Dr. Lee will be attending conferences—including the International Conference o
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td>No class (Presentation)</td>
+      <td>Presentation/Discussion</td>
       <td> <b>Project milestone</b></td>
       <td> 
       </td>
@@ -179,7 +179,7 @@ Dr. Lee will be attending conferences—including the International Conference o
     </tr> 
     <tr>
       <td>Week 13</td>
-      <td>No class (Presentation) </td>
+      <td>Presentation/Discussion</td>
       <td> <b> Final project presentation/report</b></td>
       <td> </td>
     </tr>     
