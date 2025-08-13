@@ -140,7 +140,7 @@ Dr. Lee will be attending conferences—including the International Conference o
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td>No class (presentation)</td>
+      <td>No class (Presentation)</td>
       <td> <b>Project milestone</b></td>
       <td> 
       </td>
