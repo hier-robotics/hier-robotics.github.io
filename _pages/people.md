@@ -106,7 +106,7 @@ Nicholas Sutton</b> <br>
   </div>
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
-    </div>
+    
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
 </div> 
