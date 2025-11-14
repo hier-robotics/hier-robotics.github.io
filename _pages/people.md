@@ -89,13 +89,7 @@ Academic Service <br>
 
 
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Jakub_jon.jpg" style="width: 100%;border-radius: 10px;" alt="Jakub Jon"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Jakub Jon</b> <br> 
-    Visiting M.S.
-    </p>
-  </div>    
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
 Nicholas Sutton"/>
@@ -110,6 +104,9 @@ Nicholas Sutton</b> <br>
     MAE B.S.
     </p>
   </div>
+   <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div> 
+    </div>
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
 </div> 
