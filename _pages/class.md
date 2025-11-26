@@ -21,7 +21,7 @@ As robotics is being actively utilized and applied across numerous applications,
 
 ### Format:
 <p style="text-align: justify;font-size:11pt;">
-<br>
+This course will be structured around two weekly lectures that will cover advanced concepts and theory, including optimal control theory, planning and control techniques, and data-driven learning methods, with a particular focus on methodologies applicable to legged robots (including humanoid and animaloid robots) or manipulators. Students will be required to complete two homework assignments emphasizing theoretic foundations. The course assessment will also include two midterm exams to evaluate theoretical understanding, and a final project where students will select one of three given problems and solve it using simulation tools.<br>
 </p>  
 
 ### Prerequisites:
