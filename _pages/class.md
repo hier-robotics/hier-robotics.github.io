@@ -86,42 +86,29 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>Optimization-based Control</td>
+      <td>Optimal Control 1</td>
       <td> </td>
-      <td>
-        <ul>
-           <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a>, Adrien et al.(2014)</li>
-        </ul>           
+      <td>          
       </td>
     </tr>
     <tr>
       <td>Week 7</td>
-      <td>Hierarchical Task-space Control</td>
-      <td> <b>Homework 2</b> </td>
-      <td>
-        <ul>
-          <li><a href="https://ieeexplore.ieee.org/abstract/document/8630545">Continuous task transition approach for robot controller based on hierarchical quadratic programming</a>, Kim et al. (2019)</li>
-          <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
-        </ul>   
+      <td>Optimal Control 2</td>
+      <td></td>
+      <td> 
       </td>
     </tr>   
     <tr>
       <td>Week 8</td>
-      <td>Whole-body Control</td>
+      <td>Model Predictive Control</td>
       <td> </td>
-      <td> 
-        <ul>
-          <li><a href="https://ai.stanford.edu/~park73/papers/Jaeheung-IJHR2004.pdf">Whole-body dynamic behavior and control of human-like robots</a>, Khatib et al.(2004)</li>
-          <li><a href="https://ai.stanford.edu/~lsentis/files/ijhr-05.pdf">Synthesis of whole-body behaviors through hierarchical control of behavioral primitives</a>, Sentis et al.(2005)</li>
-          <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364920918014">Dynamic locomotion for passive-ankle biped robots and humanoids using whole-body locomotion control</a>, Kim et al.(2020)</li>
-          <li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.788902/full">Online gain adaptation of whole-body control for legged robots with unknown disturbances</a>, Lee et al.(2022)</li>
-        </ul>          
+      <td>         
       </td>
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td>Presentation/Discussion</td>
-      <td> <b>Project milestone</b></td>
+      <td></td>
+      <td>Stocastic Control Systems</td>
       <td> 
       </td>
     </tr> 
