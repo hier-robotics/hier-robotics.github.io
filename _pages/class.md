@@ -162,13 +162,20 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Reinforcement Learning 1</td>
       <td>  </td>
       <td> 
+        <ul>
+          <li> Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto</li>
+        </ul>          
       </td>
     </tr> 
     <tr>
       <td>Week 13</td>
       <td>Reinforcement Learning 2</td>
       <td> </td>
-      <td> </td>
+      <td>
+        <ul>
+          <li> Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto</li>
+        </ul>  
+      </td>
     </tr>     
   </tbody>
 </table>
