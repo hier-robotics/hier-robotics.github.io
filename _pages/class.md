@@ -114,7 +114,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 7</td>
-      <td>Optimal Control 3</td>
+      <td>Moder Predictive Control</td>
       <td></td>
       <td>
         <ul>
