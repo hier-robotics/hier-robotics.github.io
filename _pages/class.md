@@ -68,9 +68,12 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>LQR and LQR Tree</td>
+      <td>LQR and LQR Trees</td>
       <td> </td>
       <td>
+        <ul>
+          <li><a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dspace.mit.edu/bitstream/handle/1721.1/64643/Tedrake_LQR-trees.pdf">LQR-Trees: Feedback Motion Planning on Sparse Randomized Trees</a>, Russ Tedrake (2009) </li>
+        </ul>   
       </td>
     </tr>
     <tr>
