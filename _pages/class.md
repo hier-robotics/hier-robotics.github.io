@@ -74,16 +74,6 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>LQR and LQR Trees</td>
-      <td> </td>
-      <td>
-        <ul>
-          <li><a href="https://dspace.mit.edu/handle/1721.1/64643">LQR-Trees: Feedback Motion Planning on Sparse Randomized Trees</a>, Russ Tedrake (2009) </li>
-        </ul>   
-      </td>
-    </tr>
-    <tr>
-      <td>Week 4</td>
       <td>Calculus of Variations 1</td>
       <td></td>
       <td>
@@ -93,8 +83,18 @@ Lecture slides will be posted on the course website one hour before each lecture
       </td>
     </tr>
     <tr>
+      <td>Week 4</td>
+      <td>Calculus of Variations 2</td>
+      <td></td>
+      <td>
+          <ul>
+          <li>  Calculus of Variations and Optimal Control Theory, Daniel Liberzon </li>
+        </ul>  
+      </td>
+    </tr>
+    <tr>
       <td>Week 5</td>
-      <td>Calculus of Variations 2 </td>
+      <td>Optimal Control 1</td>
       <td><b> Homework 1 </b></td>
       <td>
           <ul>
@@ -104,7 +104,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>Optimal Control 1</td>
+      <td>Optimal Control 2</td>
       <td> </td>
       <td>
           <ul>
@@ -114,7 +114,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 7</td>
-      <td>Optimal Control 2</td>
+      <td>Optimal Control 3</td>
       <td></td>
       <td>
         <ul>
