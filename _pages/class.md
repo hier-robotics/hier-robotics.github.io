@@ -61,6 +61,9 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Review of Linear Algebra and Linear Systems</td>
       <td> </td>
       <td> 
+          <ul>
+          <li> Any books for linear algebra and linear systems</li>
+        </ul>  
       </td>
     </tr>
     <tr>
