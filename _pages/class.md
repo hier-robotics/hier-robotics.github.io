@@ -107,30 +107,23 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td></td>
+      <td>Markov Decision Process (MDP)</td>
       <td></td>
       <td> 
       </td>
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td></td>
+      <td>Partially observable MDP</td>
       <td> </td>
-      <td> 
-        <ul>
-          <li> Quadrupal locomotion: Trot gait</li>
-          <li> Bipedal locomotion: Dynamic walking </li>
-        </ul>        
+      <td>    
       </td>
     </tr> 
     <tr>
       <td>Week 11</td>
-      <td>Model-free Path Planning</td>
+      <td>Supervised Learning</td>
       <td> </td>
       <td>
-        <ul>
-          <li> Rapidly-exploring ramdom tree (RRT), RRT* </li>
-        </ul>  
       </td>
     </tr>
     <tr>
