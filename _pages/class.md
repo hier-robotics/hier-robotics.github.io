@@ -38,6 +38,146 @@ Basic Robotics Class, e.g., MAE 589: Modern Robotics
 Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
 </p>  
 
+### Timeline:
+
+<table border="0" style="border-collapse: collapse; width: 100%; font-size: 13px;">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Deadlines</th>
+      <th>References</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1</td>
+      <td>Course introduction</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>Review of Linear Algebra and Linear Systems</td>
+      <td> </td>
+      <td> 
+      </td>
+    </tr>
+    <tr>
+      <td>Week 3</td>
+      <td>Kinematic Control</td>
+      <td> <b>Project Survey</b></td>
+      <td>
+        <ul>
+          <li> Modern robotics, Lynch et al.(2017)</li>
+          <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
+        </ul>   
+      </td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>Dynamic Control</td>
+      <td> <b>Homework 1</b></td>
+      <td>
+        <ul>
+          <li> Modern robotics, Lynch et al.(2017)</li>
+          <li> Rigid body dynamics algorithm, Featherstone (2008)</li>
+        </ul>        
+      </td>
+    </tr>
+    <tr>
+      <td>Week 5</td>
+      <td>Floating-base and Contact Dynamics</td>
+      <td> <b>Project Proposal</b></td>
+      <td>
+        <ul>
+           <li><a href="https://link.springer.com/article/10.1007/s10514-013-9341-4">Centroidal dynamics of a humanoid robot</a>, Orin et al.(2013)</li>
+            <li><a href="https://www.cambridge.org/core/journals/robotica/article/robot-multiple-contact-control/5F8067E1F22E9BD2A3E77D31465C7D6C">Robot multiple contact control</a>, Park et al.(2008)</li>
+        </ul> 
+      </td>
+    </tr>
+    <tr>
+      <td>Week 6</td>
+      <td>Optimization-based Control</td>
+      <td> </td>
+      <td>
+        <ul>
+           <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a>, Adrien et al.(2014)</li>
+        </ul>           
+      </td>
+    </tr>
+    <tr>
+      <td>Week 7</td>
+      <td>Hierarchical Task-space Control</td>
+      <td> <b>Homework 2</b> </td>
+      <td>
+        <ul>
+          <li><a href="https://ieeexplore.ieee.org/abstract/document/8630545">Continuous task transition approach for robot controller based on hierarchical quadratic programming</a>, Kim et al. (2019)</li>
+          <li><a href="https://arxiv.org/abs/2404.10938">Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control</a>, Lee et al.(2012)</li>
+        </ul>   
+      </td>
+    </tr>   
+    <tr>
+      <td>Week 8</td>
+      <td>Whole-body Control</td>
+      <td> </td>
+      <td> 
+        <ul>
+          <li><a href="https://ai.stanford.edu/~park73/papers/Jaeheung-IJHR2004.pdf">Whole-body dynamic behavior and control of human-like robots</a>, Khatib et al.(2004)</li>
+          <li><a href="https://ai.stanford.edu/~lsentis/files/ijhr-05.pdf">Synthesis of whole-body behaviors through hierarchical control of behavioral primitives</a>, Sentis et al.(2005)</li>
+          <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364920918014">Dynamic locomotion for passive-ankle biped robots and humanoids using whole-body locomotion control</a>, Kim et al.(2020)</li>
+          <li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.788902/full">Online gain adaptation of whole-body control for legged robots with unknown disturbances</a>, Lee et al.(2022)</li>
+        </ul>          
+      </td>
+    </tr>   
+    <tr>
+      <td>Week 9</td>
+      <td>Presentation/Discussion</td>
+      <td> <b>Project milestone</b></td>
+      <td> 
+      </td>
+    </tr> 
+    <tr>
+      <td>Week 10</td>
+      <td>Locomotion Gaits</td>
+      <td> <b>Homework 3</b> </td>
+      <td> 
+        <ul>
+          <li> Quadrupal locomotion: Trot gait</li>
+          <li> Bipedal locomotion: Dynamic walking </li>
+        </ul>        
+      </td>
+    </tr> 
+    <tr>
+      <td>Week 11</td>
+      <td>Model-free Path Planning</td>
+      <td> </td>
+      <td>
+        <ul>
+          <li> Rapidly-exploring ramdom tree (RRT), RRT* </li>
+        </ul>  
+      </td>
+    </tr>
+    <tr>
+      <td>Week 12</td>
+      <td>Data-driven Planning</td>
+      <td> <b>Homework 4</b>  </td>
+      <td> 
+        <ul>
+          <li> Monte-Carlo method </li>
+          <li> Simple Examples of Neural Network </li>
+        </ul>  
+      </td>
+    </tr> 
+    <tr>
+      <td>Week 13</td>
+      <td>Presentation/Discussion</td>
+      <td> <b> Final project presentation/report</b></td>
+      <td> </td>
+    </tr>     
+  </tbody>
+</table>
+
 
 
 ## MAE 589 Modern Robotics
