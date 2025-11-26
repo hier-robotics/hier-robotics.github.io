@@ -9,7 +9,7 @@ permalink: /class/
 
 <br>
 
-# Classes
+## Classes
 
 - [MAE 589 Advanced Robotics (Spring)](#mae-589-advanced-robotics-spring)
 - [MAE 589  Modern Robotics (Fall)](#mae-589-modern-robotics-fall)
