@@ -14,6 +14,30 @@ permalink: /class/
  This class will be offered in Spring semesters <br>
 </p>  
 
+### Discription:
+<p style="text-align: justify;font-size:11pt;">
+  <br>
+</p>  
+
+### Format:
+<p style="text-align: justify;font-size:11pt;">
+<br>
+</p>  
+
+### Prerequisites:
+<p style="text-align: justify;font-size:11pt;">
+<b>Linear Algebra, Linear Systems, or Similar mathematics topics</b> <br>
+<b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br> 
+<b>Control Class, e.g., MAE 435: Principles of Automatic Control</b>  
+</p>  
+
+### Lecture Slides and Videos:
+<p style="text-align: justify;font-size:11pt;">
+Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
+</p>  
+
+
+
 ## MAE 589 Modern Robotics
 <p style="text-align: justify;font-size:11pt;">
  This class will be offered in Fall semesters <br>
