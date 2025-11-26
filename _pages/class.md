@@ -80,7 +80,10 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 4</td>
       <td>Caclus of Variations 1</td>
       <td></td>
-      <td>   
+      <td>
+          <ul>
+          <li>  Calculus of Variations and Optimal Control Theory, Daniel Liberzon </li>
+        </ul>  
       </td>
     </tr>
     <tr>
@@ -88,13 +91,19 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Calcus of Variations 2 </td>
       <td><b> Homework 1 </b></td>
       <td>
+          <ul>
+          <li>  Calculus of Variations and Optimal Control Theory, Daniel Liberzon </li>
+        </ul>          
       </td>
     </tr>
     <tr>
       <td>Week 6</td>
       <td>Optimal Control 1</td>
       <td> </td>
-      <td>          
+      <td>
+          <ul>
+          <li>  Calculus of Variations and Optimal Control Theory, Daniel Liberzon </li>
+        </ul>          
       </td>
     </tr>
     <tr>
