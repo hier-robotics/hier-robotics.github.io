@@ -110,14 +110,21 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Week 7</td>
       <td>Optimal Control 2</td>
       <td></td>
-      <td> 
+      <td>
+        <ul>
+          <li>  Model Predictive Control, David Mayne and James B. Rawlingsaa </li>
+        </ul>     
       </td>
     </tr>   
     <tr>
       <td>Week 8</td>
       <td>Safety-critical Control</td>
       <td> </td>
-      <td>         
+      <td>  
+         <ul>
+          <li><a href="https://ieeexplore.ieee.org/abstract/document/7782377">Control Barrier Function Based Quadratic Programs for Safety Critical Systems</a>, Aaron D. Ames et al.(2017)</li>
+           <li><a href="https://ieeexplore.ieee.org/abstract/document/10342094">Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</a>, Jaemin Lee, et al. </li>
+        </ul>          
       </td>
     </tr>   
     <tr>
