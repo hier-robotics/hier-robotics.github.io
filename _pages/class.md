@@ -9,7 +9,9 @@ permalink: /class/
 
 <br>
 
-## MAE 589 Fundamentals for Modern Robotics
+## MAE 589 Advanced Robotics
+
+## MAE 589 Modern Robotics
 <p style="text-align: justify;font-size:11pt;">
  This class will be offered in Fall 2025. <br>
 </p>  
