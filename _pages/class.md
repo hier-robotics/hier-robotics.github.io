@@ -152,6 +152,9 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Supervised Learning</td>
       <td> </td>
       <td>
+        <ul>
+          <li> Introduction to Machine Learning, Ethem Alpaydın</li>
+        </ul>          
       </td>
     </tr>
     <tr>
