@@ -10,10 +10,13 @@ permalink: /class/
 <br>
 
 ## MAE 589 Advanced Robotics
+<p style="text-align: justify;font-size:11pt;">
+ This class will be offered in Fall semesters <br>
+</p>  
 
 ## MAE 589 Modern Robotics
 <p style="text-align: justify;font-size:11pt;">
- This class will be offered in Fall 2025. <br>
+ This class will be offered in Fall semesters <br>
 </p>  
 
 ### Discription:
