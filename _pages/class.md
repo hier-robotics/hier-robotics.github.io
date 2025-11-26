@@ -14,7 +14,6 @@ permalink: /class/
 - [MAE 589 Advanced Robotics (Spring: advanced course)](#mae-589-advanced-robotics-spring)
 - [MAE 589  Modern Robotics (Fall: basic course)](#mae-589-modern-robotics-fall)
 
-<br>
 
 ## MAE 589 Advanced Robotics (Spring)
 <p style="text-align: justify;font-size:11pt;">
