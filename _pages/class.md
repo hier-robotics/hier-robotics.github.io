@@ -87,7 +87,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 6</td>
       <td>Optimal Control 1</td>
-      <td> </td>
+      <td> <b> Homework 1 </b></td>
       <td>          
       </td>
     </tr>
@@ -115,7 +115,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 10</td>
       <td>Partially Observable MDP (POMDP)</td>
-      <td> </td>
+      <td> <b> Homework 2 </b> </td>
       <td>    
       </td>
     </tr> 
