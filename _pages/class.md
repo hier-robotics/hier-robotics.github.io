@@ -114,7 +114,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Partially observable MDP</td>
+      <td>Partially Observable MDP (POMDP)</td>
       <td> </td>
       <td>    
       </td>
@@ -128,19 +128,15 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 12</td>
-      <td>Data-driven Planning</td>
-      <td> <b>Homework 4</b>  </td>
+      <td>Reinforcement Learning 1</td>
+      <td>  </td>
       <td> 
-        <ul>
-          <li> Monte-Carlo method </li>
-          <li> Simple Examples of Neural Network </li>
-        </ul>  
       </td>
     </tr> 
     <tr>
       <td>Week 13</td>
-      <td>Presentation/Discussion</td>
-      <td> <b> Final project presentation/report</b></td>
+      <td>Reinforcement Learning 2</td>
+      <td> </td>
       <td> </td>
     </tr>     
   </tbody>
