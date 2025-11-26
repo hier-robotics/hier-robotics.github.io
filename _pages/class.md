@@ -114,17 +114,18 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 7</td>
-      <td>Moder Predictive Control</td>
-      <td></td>
-      <td>
-        <ul>
-          <li>  Model Predictive Control, David Mayne and James B. Rawlingsaa </li>
-        </ul>     
+      <td>Safety-critical Control 1</td>
+      <td> </td>
+      <td>  
+         <ul>
+          <li><a href="https://ieeexplore.ieee.org/abstract/document/7782377">Control Barrier Function Based Quadratic Programs for Safety Critical Systems</a>, Aaron D. Ames et al.(2017)</li>
+           <li><a href="https://ieeexplore.ieee.org/abstract/document/10342094">Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</a>, Jaemin Lee, et al.(2023) </li>
+        </ul>          
       </td>
     </tr>   
     <tr>
       <td>Week 8</td>
-      <td>Safety-critical Control</td>
+      <td>Safety-critical Control 2</td>
       <td> </td>
       <td>  
          <ul>
@@ -145,27 +146,27 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Partially Observable MDP (POMDP)</td>
-      <td> <b> Homework 2 </b> </td>
-      <td> 
-        <ul>
-          <li> Markov Decision Processes in Artificial Intelligence, Olivier Sigaud and Olivier Buffet</li>
-        </ul>  
-      </td>
-    </tr> 
-    <tr>
-      <td>Week 11</td>
       <td>Supervised Learning</td>
-      <td> </td>
+      <td> <b>Homework 2 </b> </td>
       <td>
         <ul>
           <li> Introduction to Machine Learning, Ethem Alpaydın</li>
         </ul>          
       </td>
+    </tr> 
+    <tr>
+      <td>Week 11</td>
+      <td>Reinforcement Learning 1</td>
+      <td>  </td>
+      <td> 
+        <ul>
+          <li> Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto</li>
+        </ul>          
+      </td>
     </tr>
     <tr>
       <td>Week 12</td>
-      <td>Reinforcement Learning 1</td>
+      <td>Reinforcement Learning 2</td>
       <td>  </td>
       <td> 
         <ul>
@@ -175,7 +176,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 13</td>
-      <td>Reinforcement Learning 2</td>
+      <td>Reinforcement Learning 3</td>
       <td> </td>
       <td>
         <ul>
