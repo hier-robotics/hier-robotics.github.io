@@ -11,7 +11,7 @@ permalink: /class/
 
 # Classes
 
-- [MAE 589 Advanced Robotics](#MAE-589-Advanced-Robotics-(Spring))
+- [MAE 589 Advanced Robotics (Spring)](#mae-589-advanced-robotics-spring)
 
 <br>
 
