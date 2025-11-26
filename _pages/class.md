@@ -132,13 +132,19 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>Markov Decision Process (MDP)</td>
       <td></td>
       <td> 
+        <ul>
+          <li> Markov Decision Processes in Artificial Intelligence, Olivier Sigaud and Olivier Buffet</li>
+        </ul>
       </td>
     </tr> 
     <tr>
       <td>Week 10</td>
       <td>Partially Observable MDP (POMDP)</td>
       <td> <b> Homework 2 </b> </td>
-      <td>    
+      <td> 
+        <ul>
+          <li> Markov Decision Processes in Artificial Intelligence, Olivier Sigaud and Olivier Buffet</li>
+        </ul>  
       </td>
     </tr> 
     <tr>
