@@ -100,21 +100,21 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>   
     <tr>
       <td>Week 8</td>
-      <td>Model Predictive Control</td>
+      <td>Safety-critical Control</td>
       <td> </td>
       <td>         
       </td>
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td>Stocastic Control Systems</td>
+      <td></td>
       <td></td>
       <td> 
       </td>
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Safety-critical Control</td>
+      <td></td>
       <td> </td>
       <td> 
         <ul>
