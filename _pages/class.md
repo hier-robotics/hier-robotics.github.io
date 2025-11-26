@@ -206,6 +206,12 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
   </tbody>
 </table> 
 
+### Project requirements:
+<p style="text-align: justify;font-size:11pt;">
+A detailed description of the projects will be posted and announced once the semester begins and the course is underway. <br>
+</p>  
+
+
 <br>
 
 
