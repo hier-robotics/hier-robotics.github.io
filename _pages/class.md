@@ -64,13 +64,6 @@ The course will include two weekly lectures, four homework assignments, and a fi
 Lecture slides will be posted on the course website one hour before each lecture. For students enrolled in the course, recorded lecture videos will be posted after each lecture. <br>
 </p>  
 
-<p style="text-align: justify;font-size:11pt;">
-Dr. Lee will be attending conferences—including the International Conference on Robot Learning 2025 and the International Conference on Humanoid Robots 2025—and giving invited talks. Please take the following schedule into consideration for this class.<br>
-- Sep 22, Sep 24, Sep 29: Virtual classes (lecture videos will be uploaded) <br>
-- Oct 1: No class — reserved for project work (in place of a midterm exam)
-</p>  
-
-
 ### Timeline:
 
 <table border="0" style="border-collapse: collapse; width: 100%; font-size: 13px;">
