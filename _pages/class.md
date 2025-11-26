@@ -26,7 +26,7 @@ permalink: /class/
 
 ### Prerequisites:
 <p style="text-align: justify;font-size:11pt;">
-<b>These are not mondatory but encouraged</b><br>
+<b>These classes are not mandatory but encouraged.</b><br>
 <b>Linear Algebra, Linear Systems, or Similar Math Topics</b> <br>
 <b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br> 
 <b>Control Class, e.g., MAE 435: Principles of Automatic Control</b> <br>
