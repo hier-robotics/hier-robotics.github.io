@@ -123,7 +123,7 @@ Lecture slides will be posted on the course website one hour before each lecture
       <td>  
          <ul>
           <li><a href="https://ieeexplore.ieee.org/abstract/document/7782377">Control Barrier Function Based Quadratic Programs for Safety Critical Systems</a>, Aaron D. Ames et al.(2017)</li>
-           <li><a href="https://ieeexplore.ieee.org/abstract/document/10342094">Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</a>, Jaemin Lee, et al. </li>
+           <li><a href="https://ieeexplore.ieee.org/abstract/document/10342094">Hierarchical Relaxation of Safety-critical Controllers: Mitigating Contradictory Safety Conditions with Application to Quadruped Robots</a>, Jaemin Lee, et al.(2023) </li>
         </ul>          
       </td>
     </tr>   
