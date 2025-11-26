@@ -26,7 +26,7 @@ permalink: /class/
 
 ### Prerequisites:
 <p style="text-align: justify;font-size:11pt;">
-<b>Linear Algebra, Linear Systems, or Similar mathematics topics</b> <br>
+<b>Linear Algebra, Linear Systems, or Similar Math Topics</b> <br>
 <b>Dynamics Class, e.g., MAE 208: Engineering Dynamics</b> <br> 
 <b>Control Class, e.g., MAE 435: Principles of Automatic Control</b>  
 </p>  
