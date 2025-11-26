@@ -180,6 +180,34 @@ Lecture slides will be posted on the course website one hour before each lecture
   </tbody>
 </table>
 
+### Grading and Course Policies:
+<p style="text-align: justify;font-size:11pt;"> 
+Attendance is strongly encouraged. However, if you need to miss class due to reasons such as attending conferences or research-related events, please email Dr. Lee in advance with your excuse. We will have <b>two</b> in-class quizzes, all based on class materials. Therefore, it is essential to complete and thoroughly review the provided materials and contents. 
+</p>  
+
+<table border="0" style="border-collapse: collapse; width: 100%; font-size: 12px;">
+  <thead>
+    <tr>
+      <th>Attendence(Quiz)</th> 
+      <th>Homework</th>
+      <th>Midterm Exam 1</th>
+      <th>Midterm Exam 2</th>
+      <th>Final Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>5 %</td>
+      <td>10 %</td>
+      <td>25 %</td>
+      <td>30 %</td>
+      <td>30 %</td>
+    </tr>
+  </tbody>
+</table> 
+
+<br>
+
 
 
 ## MAE 589 Modern Robotics
