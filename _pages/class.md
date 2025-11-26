@@ -16,7 +16,7 @@ permalink: /class/
 
 ### Discription:
 <p style="text-align: justify;font-size:11pt;">
-  <br>
+As robotics is being actively utilized and applied across numerous applications, Model-Based and Data-Driven methodologies have become widespread. Many robotic systems, including humanoid robots, quadruped robots, manipulators, mobile robots, and drones, execute their missions by employing specialized planning and control techniques or by learning policies based on their distinct characteristics. This course introduces fundamental principles such as Model-Based Optimal Control, Model Predictive Control (MPC), Safety-Critical Control, and Covariance Control, alongside data-driven approaches including the Markov Decision Process (MDP), Partially Observable Markov Decision Process (POMDP), Supervised Learning, and Proximal Policy Optimization (PPO). Our specific objective is to interpret and apply these core control and learning methods effectively within the context of robotics.  <br>
 </p>  
 
 ### Format:
