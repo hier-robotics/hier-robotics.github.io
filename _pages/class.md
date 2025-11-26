@@ -107,15 +107,15 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>   
     <tr>
       <td>Week 9</td>
-      <td></td>
       <td>Stocastic Control Systems</td>
+      <td></td>
       <td> 
       </td>
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Locomotion Gaits</td>
-      <td> <b>Homework 3</b> </td>
+      <td>Safety-critical Control</td>
+      <td> </td>
       <td> 
         <ul>
           <li> Quadrupal locomotion: Trot gait</li>
