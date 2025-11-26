@@ -80,14 +80,14 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 5</td>
       <td>Calcus of Variations 2 </td>
-      <td></td>
+      <td><b> Homework 1 </b></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>Week 6</td>
       <td>Optimal Control 1</td>
-      <td> <b> Homework 1 </b></td>
+      <td> </td>
       <td>          
       </td>
     </tr>
