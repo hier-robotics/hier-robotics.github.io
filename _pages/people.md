@@ -134,8 +134,14 @@ Quadruped Go2</b> <br>
     </p>
   </div>
   
-        <!-- 3rd of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
+   <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/furanka_arm.jpg" style="width: 100%;border-radius: 10px;" alt="
+Furanka Arms"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Furanka Arms</b> <br>
+     (2025 Fall)
+    </p>
+  </div>
 
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
