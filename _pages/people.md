@@ -99,14 +99,11 @@ Nicholas Sutton</b> <br>
      CS B.S.
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-   <img src="/assets/images/Jaey_Kim.jpg" style="width: 100%;border-radius: 10px;" alt="Jaey Kim"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Jaey Kim</b> <br>
-    MAE B.S.
-    </p>
-  </div>
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
+
+     <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
     
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
