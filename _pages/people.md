@@ -108,7 +108,6 @@ Prajjwal Singh</b> <br>
      MAE B.S.
     </p>
   </div>
-
      <!-- 4th of 4 columns (empty) -->
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Wonho.jpg" style="width: 100%;border-radius: 10px;" alt="
