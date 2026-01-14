@@ -100,10 +100,24 @@ Nicholas Sutton</b> <br>
     </p>
   </div>
    <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div> 
+    <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Prajjwal.jpg" style="width: 100%;border-radius: 10px;" alt="
+Prajjwal Singh"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Prajjwal Singh</b> <br>
+     MAE B.S.
+    </p>
+  </div>
 
      <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
+    <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/Wonho.jpg" style="width: 100%;border-radius: 10px;" alt="
+Wonho Jung"/>
+    <p style="font-size:11pt;margin: 0;"> <b>
+Wonho Jung</b> <br>
+    Visiting Student from SNU
+    </p>
+  </div>
     
    <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div> 
