@@ -114,7 +114,7 @@ Prajjwal Singh</b> <br>
 Wonho Jung"/>
     <p style="font-size:11pt;margin: 0;"> <b>
 Wonho Jung</b> <br>
-    Visiting Student from SNU
+    Visiting Student from Seoul National University
     </p>
   </div>
     
