@@ -68,18 +68,14 @@ Academic Service <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Jack.jpg" style="width: 100%;border-radius: 10px;" alt="Jack Fetkovich"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Jack Fetkovich</b> <br>
-      ECE ABM (Spring 2025)
-    </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
     <img src="/assets/images/David.jpg" style="width: 100%;border-radius: 10px;" alt="David Alexander"/>
     <p style="font-size:11pt;margin: 0;"> <b>David Alexander</b> <br>
        MAE ABM (Fall 2025)
     </p>
   </div>
-
+  <!-- 4th of 4 columns (empty) -->
+  <div style="width: 170px;"></div>
+  
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
 </div>
