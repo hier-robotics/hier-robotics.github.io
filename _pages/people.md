@@ -74,7 +74,12 @@ Academic Service <br>
     </p>
   </div>
   <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Sebastian King"/>
+    <p style="font-size:11pt;margin: 0;"> <b>Sebastian King</b> <br>
+       MAE M.S. (Spring 2026)
+    </p>
+  </div>
   
   <!-- 4th of 4 columns (empty) -->
   <div style="width: 170px;"></div>
@@ -114,9 +119,12 @@ Wonho Jung</b> <br>
     </p>
   </div>
     
-   <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div> 
-</div> 
+  <div style="text-align: center; width: 170px;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
+    <p style="font-size:11pt;margin: 0;"> <b>Noah Bowman</b> <br>
+       MAE B.S.
+    </p>
+  </div>
 
 <p> </p>
 
