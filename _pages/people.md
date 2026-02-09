@@ -100,7 +100,6 @@ Nicholas Sutton</b> <br>
      CS B.S.
     </p>
   </div>
-   <!-- 4th of 4 columns (empty) -->
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Prajjwal.jpg" style="width: 100%;border-radius: 10px;" alt="
 Prajjwal Singh"/>
@@ -109,7 +108,6 @@ Prajjwal Singh</b> <br>
      MAE B.S.
     </p>
   </div>
-     <!-- 4th of 4 columns (empty) -->
     <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Wonho.jpg" style="width: 100%;border-radius: 10px;" alt="
 Wonho Jung"/>
@@ -118,14 +116,13 @@ Wonho Jung</b> <br>
     Visiting Student from Seoul National University
     </p>
   </div>
-    
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
     <p style="font-size:11pt;margin: 0;"> <b>Noah Bowman</b> <br>
        MAE B.S.
     </p>
   </div>
-
+</div>
 <p> </p>
 
 ## Robots
