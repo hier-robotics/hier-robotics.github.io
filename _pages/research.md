@@ -7,132 +7,107 @@ title: "Research"
 permalink: /research/
 ---
 
-## Research Vision
-
-Our research aims to develop **intelligent robotic systems capable of operating safely and autonomously in complex environments**.  
-We combine **robot dynamics, whole-body control, hardware innovation, and AI-driven planning** to create robots that can interact with the physical world in a robust and adaptable manner.
-
-Our work spans multiple layers of robotic intelligence:
-
-- **Robot dynamics and whole-body control**
-- **Perception-driven loco-manipulation**
-- **Bio-inspired robotic hardware**
-- **AI-guided decision-making and autonomy**
+Our research focuses on **intelligent robotic systems capable of operating in complex and unstructured environments**.  
+We integrate **robot dynamics, control, hardware design, and AI-driven planning** to build robots that can safely interact with the real world.
 
 ---
 
-# Research Areas
+## Safety-Critical Whole-Body Planning and Control
 
-<div class="research-grid">
+<div style="display:flex; gap:25px; align-items:flex-start; margin-bottom:20px;">
 
-<div class="research-card">
+<img src="/assets/images/whole_body_control.jpg" width="240"/>
 
-<img src="/assets/images/whole_body_control.jpg">
+<div>
 
-### Safety-Critical Whole-body Control
+Whole-body planning and control aims to enable **safe and efficient operation of complex robotic systems** with multiple contacts, floating bases, and physical constraints.
 
-Developing **whole-body planning and control frameworks** for complex robotic systems with multiple contacts, floating bases, and nonlinear dynamics.
+Our research develops **hierarchical control architectures** that bridge reduced-order models and full-body dynamics. By combining reachability-based motion planning with safety-critical control techniques, we generate dynamically consistent whole-body behaviors while maintaining stability and safety.
 
-- whole-body control  
-- safety-critical control  
-- reachability-based planning  
-- hierarchical control architecture
+**Key Topics**
 
-</div>
-
-<div class="research-card">
-
-<img src="/assets/images/perception_based_locomotion.jpg">
-
-### Sensor-based Loco-manipulation
-
-Integrating **perception, locomotion, and manipulation** to enable robots to operate robustly in unstructured environments.
-
-- locomotion control  
-- perception-in-the-loop  
-- robust motion planning  
-- learning-based control
+- Whole-body control  
+- Safety-critical control  
+- Multi-layered control architecture  
+- Reachability-based motion planning
 
 </div>
-
-<div class="research-card">
-
-<img src="/assets/images/transformerable_hardware.jpg">
-
-### Transformable Robotic Hardware
-
-Designing **bio-inspired robotic hardware** capable of adapting morphology to different locomotion and manipulation tasks.
-
-- transformable limbs  
-- hybrid actuation systems  
-- multi-purpose robotic limbs  
-- bio-inspired mechanisms
-
 </div>
 
-<div class="research-card">
+---
 
-<img src="/assets/images/AI_based.jpg">
+## Sensor-Based Versatile Loco-Manipulation
 
-### AI-driven Robot Autonomy
+<div style="display:flex; gap:25px; align-items:flex-start; margin-bottom:20px;">
 
-Leveraging **generative AI and learning-based methods** to guide robot task planning and long-horizon decision making.
+<img src="/assets/images/perception_based_locomotion.jpg" width="240"/>
+
+<div>
+
+**Loco-manipulation** combines locomotion and manipulation to perform complex tasks in unstructured environments.
+
+We develop sensor-driven control frameworks that integrate **perception, planning, and control** in real time. Our work focuses on optimizing locomotion strategies while handling uncertain sensor measurements and physical interactions with the environment.
+
+This research combines **model-based control with learning-based adaptation** to improve agility, robustness, and accuracy in long-term missions.
+
+**Key Topics**
+
+- Locomotion control  
+- Robust control  
+- Learning-based control  
+- Perception-in-the-loop planning
+
+</div>
+</div>
+
+---
+
+## Transformable Robotic Hardware
+
+<div style="display:flex; gap:25px; align-items:flex-start; margin-bottom:20px;">
+
+<img src="/assets/images/transformerable_hardware.jpg" width="240"/>
+
+<div>
+
+Different locomotion modes provide different advantages. For example, quadrupeds offer stability, while bipeds provide flexibility for manipulation.
+
+Our research explores **transformable robotic hardware** that can dynamically adapt its morphology to different tasks and environments. Inspired by biological systems, we design **multi-purpose limbs capable of acting as both arms and legs**.
+
+We also investigate hybrid actuation systems combining **hydraulic and electric actuation** to achieve high power, robustness, and energy efficiency for extreme locomotion scenarios.
+
+**Key Topics**
+
+- Transformable hardware  
+- Hybrid dynamical systems  
+- Multi-purpose limbs  
+- Bio-inspired robotic mechanisms
+
+</div>
+</div>
+
+---
+
+## AI-Driven Task Planning and Scheduling
+
+<div style="display:flex; gap:25px; align-items:flex-start; margin-bottom:20px;">
+
+<img src="/assets/images/AI_based.jpg" width="240"/>
+
+<div>
+
+Recent advances in **generative AI and data-driven learning** enable new possibilities for high-level decision making in robotic systems.
+
+We develop layered architectures that integrate **AI-based task planning, motion generation, and low-level control** in a closed loop. Generative AI is used to evaluate risk, design behavioral policies, and adapt robot strategies during long-term missions.
+
+A key aspect of our work is ensuring **dynamic consistency between AI-generated decisions and the physical constraints of real robotic systems**.
+
+**Key Topics**
 
 - AI-guided task scheduling  
-- learning-based adaptation  
-- risk-aware planning  
-- long-term autonomy
+- Learning-based mode adaptation  
+- Risk-aware mission planning  
+- Long-horizon autonomy
 
 </div>
-
 </div>
-
----
-
-# Detailed Research Directions
-
-## Safety-Critical Whole-body Planning and Control
-
-<img src="/assets/images/whole_body_control.jpg" width="250" align="left" style="margin-right:25px;">
-
-Whole-body planning and control is essential for enabling robots to interact safely with complex environments. Our research focuses on building hierarchical control frameworks that integrate reduced-order planning models with full-body dynamic controllers.
-
-We develop **reachability-based motion planning algorithms**, safety-critical controllers, and optimization-based control architectures to ensure stability, safety, and performance in multi-contact robotic systems.
-
-<br clear="left"/>
-
----
-
-## Sensor-based Versatile Loco-manipulation
-
-<img src="/assets/images/perception_based_locomotion.jpg" width="250" align="left" style="margin-right:25px;">
-
-Loco-manipulation integrates locomotion and manipulation to perform complex tasks in dynamic environments. Our work explores sensor-driven control architectures that combine perception, planning, and control.
-
-We develop optimization frameworks that dynamically determine locomotion strategies while accounting for uncertain sensor measurements and physical interactions.
-
-<br clear="left"/>
-
----
-
-## Transformable Hardware
-
-<img src="/assets/images/transformerable_hardware.jpg" width="250" align="left" style="margin-right:25px;">
-
-Inspired by biological systems, we design robotic hardware capable of **morphological adaptation**. Our research investigates limbs that can function as both arms and legs, enabling robots to perform a wide range of locomotion and manipulation tasks.
-
-We also explore **hybrid actuation systems combining hydraulic and electric actuators** to provide high power and natural damping properties.
-
-<br clear="left"/>
-
----
-
-## AI-based Task Planning and Scheduling
-
-<img src="/assets/images/AI_based.jpg" width="250" align="left" style="margin-right:25px;">
-
-Generative AI enables new capabilities for high-level decision-making in robotics. We develop architectures that integrate **AI-driven task planning, motion generation, and hardware control** in a closed-loop framework.
-
-Our research focuses on ensuring dynamic consistency between AI-generated strategies and the physical capabilities of robotic systems.
-
-<br clear="left"/>
