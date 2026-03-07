@@ -16,6 +16,15 @@ We integrate **robot dynamics, perception-driven loco-manipulation, bio-inspired
 
 ---
 
+## Research Diagram
+
+<div style="text-align:center; margin-top:30px; margin-bottom:50px;">
+<img src="/assets/images/research_diagram.png" alt="Research Diagram" width="600"/>
+<p style="opacity:0.8; margin-top:10px;">Research areas and their interactions</p>
+</div>
+
+---
+
 # Research Areas
 
 <div class="research-grid">
@@ -24,9 +33,9 @@ We integrate **robot dynamics, perception-driven loco-manipulation, bio-inspired
 
 <img src="/assets/images/whole_body_control.jpg">
 
-<h3>Safety-Critical Whole-body Control</h3>
+<h3>🤖 Safety-Critical Whole-body Control</h3>
 
-Developing **whole-body planning and control frameworks** for complex robots with multiple contacts, floating bases, and nonlinear dynamics.
+Developing **whole-body planning and control frameworks** for robots with multiple contacts, floating bases, and nonlinear dynamics.
 
 <p class="research-topics">
 whole-body control · safety-critical control · reachability planning
@@ -38,12 +47,12 @@ whole-body control · safety-critical control · reachability planning
 
 <img src="/assets/images/perception_based_locomotion.jpg">
 
-<h3>Sensor-based Loco-Manipulation</h3>
+<h3>🦿 Sensor-based Loco-Manipulation</h3>
 
-Integrating **locomotion, manipulation, and perception** for robots to operate robustly in unstructured environments.
+Integrating **locomotion, manipulation, and perception** for robust operation in unstructured environments.
 
 <p class="research-topics">
-locomotion control · perception in the loop · robust motion planning
+locomotion control · perception-in-the-loop · robust motion planning
 </p>
 
 </div>
@@ -52,9 +61,9 @@ locomotion control · perception in the loop · robust motion planning
 
 <img src="/assets/images/transformerable_hardware.jpg">
 
-<h3>Transformable Robotic Hardware</h3>
+<h3>🦾 Transformable Robotic Hardware</h3>
 
-Designing **bio-inspired robotic mechanisms** capable of adapting morphology for different locomotion and manipulation tasks.
+Designing **bio-inspired robotic mechanisms** capable of adapting morphology for diverse locomotion and manipulation tasks.
 
 <p class="research-topics">
 transformable limbs · hybrid actuation · novel mechanisms
@@ -66,7 +75,7 @@ transformable limbs · hybrid actuation · novel mechanisms
 
 <img src="/assets/images/AI_based.jpg">
 
-<h3>AI-driven Robot Autonomy</h3>
+<h3>🧠 AI-driven Robot Autonomy</h3>
 
 Leveraging **generative AI and learning-based methods** to guide long-horizon task planning and robot decision making.
 
@@ -86,10 +95,8 @@ task scheduling · risk-aware planning · AI robotics
 
 <img src="/assets/images/whole_body_control.jpg" width="260" align="left" style="margin-right:25px; margin-top:5px;">
 
-We develop **hierarchical control frameworks** that connect reduced-order models to full-body dynamics.  
-This allows robots to generate dynamically consistent motions while maintaining safety and performance in multi-contact tasks.
-
-Our research includes **reachability-based planning, optimization-based control, and safety-critical strategies**.
+Hierarchical control frameworks connect **reduced-order models to full-body dynamics**, enabling dynamically consistent motions for multi-contact tasks.  
+We investigate **reachability-based planning, optimization-based control, and safety-critical strategies** to maintain stability and safety.
 
 <br clear="left"/>
 
@@ -99,10 +106,8 @@ Our research includes **reachability-based planning, optimization-based control,
 
 <img src="/assets/images/perception_based_locomotion.jpg" width="260" align="left" style="margin-right:25px; margin-top:5px;">
 
-Loco-manipulation combines **mobility and manipulation** for complex tasks in dynamic, unstructured environments.
-
-We design **sensor-driven control architectures** that integrate perception, planning, and reactive control.  
-Learning-based models and optimization allow adaptive strategies for long-horizon missions.
+Integrates **mobility and manipulation** for complex tasks in unstructured environments.  
+Sensor-driven architectures combine **perception, planning, and reactive control**, leveraging learning-based adaptation for long-horizon missions.
 
 <br clear="left"/>
 
@@ -112,10 +117,8 @@ Learning-based models and optimization allow adaptive strategies for long-horizo
 
 <img src="/assets/images/transformerable_hardware.jpg" width="260" align="left" style="margin-right:25px; margin-top:5px;">
 
-We develop **morphologically adaptive robotic hardware** inspired by biological systems.  
-Multi-purpose limbs can act as both arms and legs, enabling robots to navigate diverse terrains and manipulation tasks.
-
-Hybrid actuation combines hydraulic and electric mechanisms for **high power, robustness, and natural damping**.
+Developing **morphologically adaptive hardware** inspired by biological systems.  
+Multi-purpose limbs can function as **both arms and legs**, hybrid actuation provides **power and natural damping**.
 
 <br clear="left"/>
 
@@ -125,8 +128,7 @@ Hybrid actuation combines hydraulic and electric mechanisms for **high power, ro
 
 <img src="/assets/images/AI_based.jpg" width="260" align="left" style="margin-right:25px; margin-top:5px;">
 
-Generative AI and data-driven methods guide **task scheduling, risk-aware planning, and adaptive robot behavior**.  
-
-We ensure **dynamic consistency** between AI-generated plans and the real-world physical constraints of robots, enabling long-term autonomous operations.
+Generative AI guides **task scheduling, risk-aware planning, and adaptive robot behavior**.  
+Dynamic consistency is ensured between AI plans and the **physical constraints of real robots**.
 
 <br clear="left"/>
