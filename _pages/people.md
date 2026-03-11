@@ -125,7 +125,7 @@ Wonho Jung</b> <br>
     </p>
   </div>
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
+    <img src="/assets/images/noah.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
     <p style="font-size:11pt;margin: 0;"> <b>Noah Bowman</b> <br>
        MAE B.S.
     </p>
