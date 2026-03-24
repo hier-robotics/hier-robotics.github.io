@@ -11,6 +11,7 @@ permalink: /people/
 
 ## Professor: Dr. Jaemin Lee
 <img src="/assets/images/Jaemin5.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 20px;border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;"/>
+<p style="text-align: justify;font-size:11pt;">
   Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI.<br>
 </p>  
 
