@@ -46,7 +46,8 @@ Academic Service <br>
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>
-    M.S. and B.S. Hanyang University
+    M.S. and B.S. Hanyang University <br>
+    Locomanipulation of humanoids
     </p>
   </div>
 
@@ -79,21 +80,24 @@ Academic Service <br>
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
-       MAE ABM (Spring 2025)
+       MAE ABM (Spring 2025) <br>
+      Transformable robots
     </p>
   </div>
 
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
-       MAE ABM (Fall 2025)
+       MAE ABM (Fall 2025) <br>
+       Hybrid control for manipulators
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Sebastian King</b> <br>
-       MAE M.S. (Spring 2026)
+       MAE M.S. (Spring 2026) <br>
+      Robot design
     </p>
   </div>
 
@@ -107,7 +111,8 @@ Academic Service <br>
     <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Nicholas Sutton</b> <br>
-     CS B.S.
+     CS B.S. <br>
+     Motion planning, Tele-locomotion 
     </p>
   </div>
 
@@ -115,14 +120,16 @@ Nicholas Sutton</b> <br>
     <img src="/assets/images/Wonho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Wonho Jung"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Wonho Jung</b> <br>
-    Visiting Student from Seoul National University
+    Visiting Student from Seoul National University <br>
+      Safety-critical navigation
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
-       MAE B.S.
+       MAE B.S. <br>
+      Perception-guided planning and control
     </p>
   </div>
 
