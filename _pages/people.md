@@ -48,9 +48,8 @@ Academic Service <br>
     M.S. and B.S. Hanyang University <br>
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width:100px; height:100px; border-radius:50%; border:3px solid #ccc;">    
-    <!-- <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/> -->
+  <div style="text-align: center; width: 170px;">  
+    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 50%;" alt="Noah Bowman"/>
     <p style="font-size:11pt;margin: 0;"> <b>incomming Ph.D. Students (2026 Fall)</b> <br>
     </p>
   </div>
