@@ -16,11 +16,11 @@ permalink: /people/
 </p>  
 
 <p style="text-align: justify;font-size:11pt;">
-  - Assistant Professor, Department of Mechanical and Aerospace Engineering, North carolina State University, NC <br>
-  - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC <br>
-  - Postdoctoral Scholar, California Institute of Technology, CA <br>
-  - Ph.D., The University of Texas at Austin, TX <br>
-  - Research Scientist, Korea Institute of Science and Technology <br>
+  - Assistant Professor, Department of Mechanical and Aerospace Engineering, North carolina State University, NC (2024~) <br>
+  - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC (2025~) <br>
+  - Postdoctoral Scholar, California Institute of Technology, CA (2022-2024) <br>
+  - Ph.D., The University of Texas at Austin, TX (2016-2022) <br>
+  - Research Scientist, Korea Institute of Science and Technology (2013-2016) <br>
 </p>
 
 <br>
