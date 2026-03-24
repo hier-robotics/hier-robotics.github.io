@@ -99,33 +99,6 @@ Academic Service <br>
 
 </div>
 
-
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Andrea.jpg" style="width: 100%;border-radius: 10px;" alt="Andrea Basuroski"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Andrea Basuroski</b> <br>
-       MAE ABM (Spring 2025)
-    </p>
-  </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/David.jpg" style="width: 100%;border-radius: 10px;" alt="David Alexander"/>
-    <p style="font-size:11pt;margin: 0;"> <b>David Alexander</b> <br>
-       MAE ABM (Fall 2025)
-    </p>
-  </div>
-  <!-- 4th of 4 columns (empty) -->
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Sebastian King"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Sebastian King</b> <br>
-       MAE M.S. (Spring 2026)
-    </p>
-  </div>
-  
-  <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
-</div>
-
 <p> </p>
 
 ## B.S. and Visiting Students
