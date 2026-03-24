@@ -42,7 +42,7 @@ Academic Service <br>
 ## Ph.D. Students
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Junyoung.jpg" style="width: 100%;border-radius: 10px;" alt="JunYoung Kim" />
+    <img src="/assets/images/Junyoung.jpg" style="width: 100%;border-radius: 50%;" alt="JunYoung Kim" />
     <p style="font-size:11pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>
     M.S. and B.S. Hanyang University <br>
