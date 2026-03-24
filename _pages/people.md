@@ -12,7 +12,6 @@ permalink: /people/
 ## Professor: Dr. Jaemin Lee
 
 <img src="/assets/images/Jaemin5.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jaemin Lee" />
-
 <p style="text-align: justify;font-size:11pt;">
   Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI.<br>
 </p>  
@@ -102,7 +101,38 @@ Academic Service <br>
 <p> </p>
 
 ## B.S. and Visiting Students
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+  <div style="text-align: center;">
+    <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
+Nicholas Sutton</b> <br>
+     CS B.S.
+    </p>
+  </div>
 
+  <div style="text-align: center;">  
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
+    </p>
+  </div>
+</div>
+
+<p> </p>
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
