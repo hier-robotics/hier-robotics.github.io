@@ -135,38 +135,33 @@ Prajjwal Singh</b> <br>
 <p> </p>
 
 ## Robots
- <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; ">
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/G1.jpg" style="width: 100%;border-radius: 10px;" alt="
-Humanoid G1"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+  <div style="text-align: center;">
+    <img src="/assets/images/G1.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="G1" />
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Humanoid G1</b> <br>
     (2025 Summer)
     </p>
   </div>
 
-   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Go2.jpg" style="width: 100%;border-radius: 10px;" alt="
-Quadruped Go2"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
+  <div style="text-align: center;">  
+    <img src="/assets/images/Go2.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Go2"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;">  <b>
 Quadruped Go2</b> <br>
      (2024 Fall)
     </p>
   </div>
-  
-   <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/furanka_arm.jpg" style="width: 100%;border-radius: 10px;" alt="
-Furanka Arms"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/furanka_arm.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Furanka Arms</b> <br>
      (2025 Fall)
     </p>
   </div>
 
-  <!-- 4th of 4 columns (empty) -->
-  <div style="width: 170px;"></div>
-   
 </div>
+
 
 
 
