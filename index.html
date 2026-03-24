@@ -83,7 +83,10 @@ padding:24px;
 border-radius:14px;
 box-shadow:0 5px 18px rgba(0,0,0,0.1);
 transition:all .25s;
-align-items: center;  
+display: flex;
+flex-direction: column; /* 요소를 수직(위->아래)으로 쌓음 */
+align-items: center;    /* 요소를 수평(좌우)으로 가운데 정렬 */
+text-align: center;     /* 텍스트도 가운데 정렬 */ 
 }
 
 .research-card:hover{
