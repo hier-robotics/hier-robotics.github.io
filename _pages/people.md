@@ -10,7 +10,7 @@ permalink: /people/
 <br>
 
 ## Professor: Dr. Jaemin Lee
-<img src="/assets/images/Jaemin4.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 20px;border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;"/>
+<img src="/assets/images/Jaemin4.jpg" align="left" width="250px" style="margin-right: 20px;margin-top: 20px;border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;"/>
 <p style="text-align: justify;font-size:11pt;">
   Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI.<br>
 </p>  
@@ -41,7 +41,7 @@ Academic Service <br>
 ## Ph.D. Students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
-    <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
+    <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>
     M.S. and B.S. Hanyang University
@@ -49,21 +49,21 @@ Academic Service <br>
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
     (2026 Fall)
     </p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
     (2026 Fall)
     </p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
     (2026 Fall)
     </p>
@@ -75,21 +75,21 @@ Academic Service <br>
 ## M.S and Accelerated B.S/M.S. (ABM) Students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
-    <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
+    <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
        MAE ABM (Spring 2025)
     </p>
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/David.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
+    <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
        MAE ABM (Fall 2025)
     </p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Sebastian King</b> <br>
        MAE M.S. (Spring 2026)
     </p>
@@ -102,7 +102,7 @@ Academic Service <br>
 ## B.S. and Visiting Students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
-    <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
+    <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Nicholas Sutton</b> <br>
      CS B.S.
@@ -110,7 +110,7 @@ Nicholas Sutton</b> <br>
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/Wonho.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Wonho Jung"/>
+    <img src="/assets/images/Wonho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Wonho Jung"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Wonho Jung</b> <br>
     Visiting Student from Seoul National University
@@ -118,14 +118,14 @@ Wonho Jung</b> <br>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/noah.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
        MAE B.S.
     </p>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/Prajjwal.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Prajjwal Singh"/>
+    <img src="/assets/images/Prajjwal.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Prajjwal Singh"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Prajjwal Singh</b> <br>
      MAE B.S.
@@ -138,7 +138,7 @@ Prajjwal Singh</b> <br>
 ## Robots
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
-    <img src="/assets/images/G1.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="G1" />
+    <img src="/assets/images/G1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="G1" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Humanoid G1</b> <br>
     (2025 Summer)
@@ -146,7 +146,7 @@ Humanoid G1</b> <br>
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/Go2.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Go2"/>
+    <img src="/assets/images/Go2.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Go2"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;">  <b>
 Quadruped Go2</b> <br>
      (2024 Fall)
@@ -154,7 +154,7 @@ Quadruped Go2</b> <br>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/furanka_arm.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
+    <img src="/assets/images/furanka_arm.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Furanka Arms</b> <br>
      (2025 Fall)
