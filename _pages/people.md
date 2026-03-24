@@ -20,7 +20,7 @@ permalink: /people/
   - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC (2025~) <br>
   - Postdoctoral Scholar, California Institute of Technology, CA (2022-2024) <br>
   - Ph.D., The University of Texas at Austin, TX (2016-2022) <br>
-  - Research Scientist, Korea Institute of Science and Technology (2013-2016) <br>
+  - Research Scientist, Korea Institute of Science and Technology, South Korea (2013-2016) <br>
 </p>
 
 <br>
