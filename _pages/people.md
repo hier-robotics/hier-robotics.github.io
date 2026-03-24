@@ -40,27 +40,33 @@ Academic Service <br>
 </p> -->
 
 ## Ph.D. Students
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Junyoung.jpg" style="width: 100%;border-radius: 50%;" alt="JunYoung Kim" />
-    <p style="font-size:11pt;margin: 0;"> <b>JunYoung Kim</b> <br> 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+  <div style="text-align: center;">
+    <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 170px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D (2025 Fall) <br>
-    M.S. and B.S. Hanyang University <br>
+    M.S. and B.S. Hanyang University
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">  
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 50%;" alt="Noah Bowman"/>
-    <p style="font-size:11pt;margin: 0;"> <b>incomming Ph.D. Students (2026 Fall)</b> <br>
+
+  <div style="text-align: center;">  
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 170px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
-    <p style="font-size:11pt;margin: 0;"> <b>incomming Ph.D. Students (2026 Fall)</b> <br>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 170px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
-    <p style="font-size:11pt;margin: 0;"> <b>incomming Ph.D. Students (2026 Fall)</b> <br>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 170px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    (2026 Fall)
     </p>
   </div>
 </div>
