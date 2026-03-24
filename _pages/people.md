@@ -74,6 +74,32 @@ Academic Service <br>
 <p> </p>
 
 ## M.S and Accelerated B.S/M.S. (ABM) Students
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+  <div style="text-align: center;">
+    <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
+       MAE ABM (Spring 2025)
+    </p>
+  </div>
+
+  <div style="text-align: center;">  
+    <img src="/assets/images/David.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
+       MAE ABM (Fall 2025)
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Sebastian King</b> <br>
+       MAE M.S. (Spring 2026)
+    </p>
+  </div>
+
+</div>
+
+
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <div style="text-align: center; width: 170px;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%;border-radius: 10px;" alt="Andrea Basuroski"/>
