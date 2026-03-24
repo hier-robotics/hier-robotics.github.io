@@ -111,62 +111,29 @@ Nicholas Sutton</b> <br>
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
-    </p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
-    </p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
-    </p>
-  </div>
-</div>
-
-<p> </p>
-
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; "> 
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/nwsutton.jpg" style="width: 100%;border-radius: 10px;" alt="
-Nicholas Sutton"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
-Nicholas Sutton</b> <br>
-     CS B.S.
-    </p>
-  </div>
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Prajjwal.jpg" style="width: 100%;border-radius: 10px;" alt="
-Prajjwal Singh"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
-Prajjwal Singh</b> <br>
-     MAE B.S.
-    </p>
-  </div>
-    <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/Wonho.jpg" style="width: 100%;border-radius: 10px;" alt="
-Wonho Jung"/>
-    <p style="font-size:11pt;margin: 0;"> <b>
+    <img src="/assets/images/Wonho.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Wonho Jung"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Wonho Jung</b> <br>
     Visiting Student from Seoul National University
     </p>
   </div>
-  <div style="text-align: center; width: 170px;">
-    <img src="/assets/images/noah.png" style="width: 100%;border-radius: 10px;" alt="Noah Bowman"/>
-    <p style="font-size:11pt;margin: 0;"> <b>Noah Bowman</b> <br>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/noah.png" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
        MAE B.S.
     </p>
   </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/Prajjwal.jpg" style="width: 100%; max-width: 200px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Prajjwal Singh"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
+Prajjwal Singh</b> <br>
+     MAE B.S.
+    </p>
+  </div>
 </div>
+
 <p> </p>
 
 ## Robots
