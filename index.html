@@ -56,16 +56,32 @@ font-size:18px;
 
 /* IMAGE SECTION */
 
-.hero-images{
-display:flex;
-gap:2%;
-margin-top:50px;
+.hero-images {
+  display: flex;         /* 이미지들을 가로로 나열 */
+  gap: 20px;            /* 이미지 사이의 간격 */
+  justify-content: center; /* 가운데 정렬 */
+  align-items: center;   /* 세로 높이 맞춤 */
+  margin: 40px 0;       /* 위아래 여백 */
+  width: 100%;
 }
 
-.hero-images img{
-width:49%;
-border-radius:10px;
-box-shadow:0 8px 30px rgba(0,0,0,0.2);
+.hero-images img {
+  width: calc(50% - 10px); /* 두 장이 반씩 차지 (간격 제외) */
+  max-width: 600px;        /* 너무 커지지 않게 제한 */
+  height: auto;            /* 비율 유지 */
+  border-radius: 15px;     /* 모서리를 둥글게 해서 부드러운 느낌 */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1); /* 은은한 입체감 */
+  object-fit: cover;       /* 사진 비율이 달라도 꽉 차게 조절 */
+}
+
+/* 모바일 화면에서는 이미지가 아래로 쌓이게 설정 */
+@media (max-width: 768px) {
+  .hero-images {
+    flex-direction: column;
+  }
+  .hero-images img {
+    width: 100%;
+  }
 }
 
 /* RESEARCH GRID */
