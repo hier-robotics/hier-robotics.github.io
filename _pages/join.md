@@ -46,8 +46,8 @@ permalink: /join/
 .notice {
   border-left: 3px solid rgba(255,255,255,0.2);
   border-radius: 0 8px 8px 0;
-  padding: 0.7rem 1rem;
-  margin-bottom: 0.5rem;
+  padding: 0.3rem 0.5rem;
+  margin-bottom: 0.2rem;
   font-size: 11pt;
   background: rgba(255,255,255,0.04);
 }
@@ -102,7 +102,7 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 </p>
 
 <div class="notice notice-closed">
-  <span class="badge badge-closed">2026 — Closed</span> The 2026 admission cycle is finished.
+  <span class="badge badge-closed">2026 — Closed</span> <strong>The 2026 admission cycle is finished.</strong>
 </div>
 
 <div class="notice notice-open">
