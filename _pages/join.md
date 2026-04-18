@@ -31,7 +31,7 @@ permalink: /join/
 }
 .badge {
   display: inline-block;
-  font-size: 0.72rem;
+  font-size: 11pt;
   font-weight: 600;
   padding: 2px 9px;
   border-radius: 99px;
