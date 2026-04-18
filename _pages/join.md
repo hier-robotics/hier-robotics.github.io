@@ -26,7 +26,7 @@ permalink: /join/
   border-radius: 10px;
   padding: 1rem 1.25rem;
   margin-bottom: 0.5rem;
-  font-size: 0.95rem;
+  font-size: 11pt;
   line-height: 1.65;
 }
 .badge {
@@ -48,7 +48,7 @@ permalink: /join/
   border-radius: 0 8px 8px 0;
   padding: 0.7rem 1rem;
   margin-bottom: 0.6rem;
-  font-size: 0.92rem;
+  font-size: 11pt;
   background: rgba(255,255,255,0.04);
 }
 .notice-open  { border-color: #4caf80; }
@@ -63,12 +63,12 @@ permalink: /join/
   gap: 10px;
   padding: 0.55rem 0;
   border-bottom: 1px solid rgba(255,255,255,0.07);
-  font-size: 0.92rem;
+  font-size: 11pt;
   align-items: flex-start;
 }
 .project-list li:last-child { border-bottom: none; }
 .project-num {
-  font-size: 0.75rem;
+  font-size: 11pt;
   font-weight: 600;
   opacity: 0.4;
   min-width: 20px;
@@ -82,7 +82,7 @@ permalink: /join/
   padding: 7px 16px;
   border: 1px solid rgba(255,255,255,0.25);
   border-radius: 8px;
-  font-size: 0.87rem;
+  font-size: 11pt;
   font-weight: 500;
   text-decoration: none !important;
   transition: background 0.15s;
