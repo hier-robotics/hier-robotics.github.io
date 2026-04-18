@@ -47,7 +47,7 @@ permalink: /join/
   border-left: 3px solid rgba(255,255,255,0.2);
   border-radius: 0 8px 8px 0;
   padding: 0.7rem 1rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.5rem;
   font-size: 11pt;
   background: rgba(255,255,255,0.04);
 }
@@ -56,7 +56,7 @@ permalink: /join/
 .project-list {
   list-style: none;
   padding: 0;
-  margin: 0.5rem 0 1rem;
+  margin: 0.5rem 0 0.5rem;
 }
 .project-list li {
   display: flex;
