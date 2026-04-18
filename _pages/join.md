@@ -124,37 +124,14 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 Current or admitted undergraduate and M.S. students at NC State University are encouraged to apply for research positions. We typically expect <strong>at least one year of collaboration</strong>, culminating in a conference paper submission (e.g., ICRA, IROS, Humanoids). Please include your research interests and the projects you are most passionate about.
 </p>
 
-<div class="join-card">
-  <p style="font-size:11pt; font-weight:600; opacity:0.5; text-transform:uppercase; letter-spacing:0.05em; margin:0 0 0.75rem;">Active Research Projects</p>
-  <ul class="project-list">
-    <li>
-      <span class="project-num">01</span>
-      <div>
-        <div class="project-name">Robot Hardware Development</div>
-      </div>
-    </li>
-    <li>
-      <span class="project-num">02</span>
-      <div>
-        <div class="project-name">Vision-Guided Hand Manipulation</div>
-        <div class="project-collab">Collaborator: JunYoung</div>
-      </div>
-    </li>
-    <li>
-      <span class="project-num">03</span>
-      <div>
-        <div class="project-name">Dual-Arm Teleoperation with a Moving Base</div>
-        <div class="project-collab">Collaborator: David</div>
-      </div>
-    </li>
-    <li>
-      <span class="project-num">04</span>
-      <div>
-        <div class="project-name">Transformable Arm on a Quadruped Robot</div>
-        <div class="project-collab">Collaborator: Andrea</div>
-      </div>
-    </li>
-  </ul>
+
+<div class="notice notice-open">
+  <span class="badge badge-open">2027 — Open</span>
+  Positions are available in:<br>
+  &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Robot Hardware Development</strong><br>
+  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Vision-Guided Hand Manipulation</strong><br>
+  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Dual-Arm Teleoperation with a Moving Base</strong><br>
+  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Transformable Arm on a Quadruped Robot</strong><br>
 </div>
 
 <a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S Form →</a>
