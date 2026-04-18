@@ -48,7 +48,7 @@ permalink: /join/
   border-radius: 0 8px 8px 0;
   padding: 0.2rem 0.4rem;
   margin-bottom: 0.1rem;
-  font-size: 11pt;
+  font-size: 10pt;
   background: rgba(255,255,255,0.04);
 }
 .notice-open  { border-color: #4caf80; }
