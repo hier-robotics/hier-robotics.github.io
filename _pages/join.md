@@ -141,7 +141,7 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 
   
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)<br>
+  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)
 </div>
 
 <a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S Form →</a>
