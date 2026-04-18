@@ -130,8 +130,8 @@ Current or admitted undergraduate and M.S. students at NC State University are e
   Positions are available in:<br>
   &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Robot Hardware Development</strong><br>
   &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)<br>
-  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)<br>
-  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)<br>
+  &nbsp;&nbsp;<span class="badge badge-area">3</span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)<br>
+  &nbsp;&nbsp;<span class="badge badge-area">4</span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)<br>
 </div>
 
 <a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S Form →</a>
