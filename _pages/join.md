@@ -18,13 +18,17 @@ We intend to accept new Ph.D. students annually, taking into account available g
 
 ## NC State University Undergraduate or M.S. Students
 <p style="font-size:11pt;">
-If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please <b>submit the google form </b> . It would be great if you could include your research interests and the projects that you are most passionate about. Typically, we expect <b>at least a year of collaboration</b>, culminating in the submission of a conference paper (e.g., ICRA, IROS, Humanoids). In addition, to provide us with a better understanding of your background, please include the following information:
+If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please <b> submit <a href="https://forms.gle/i6uSgZV67GSVB4fr5"><b>B.S. and M.S. Application Form</b></a> </b>. It would be great if you could include your research interests and the projects that you are most passionate about. Typically, we expect <b>at least a year of collaboration</b>, culminating in the submission of a conference paper (e.g., ICRA, IROS, Humanoids).  Currently, we have 4 research projects as follows: 
 </p>
-- <p style="font-size:11pt;"> which year you are at NC State University / future career path / an attachted CV/resume
+- <p style="font-size:11pt;"> 1) Robot Hardware Development: 
+- <p style="font-size:11pt;"> 2) Vision-Guided Hand Manipulation (Collaborator: JunYoung):
+- <p style="font-size:11pt;"> 3) Dual-Arm Teleoperation with a Moving Base (Collaborator: David):
+- <p style="font-size:11pt;"> 4) Transformable Arm on a Quadruped Robot (Collaborator: Andrea):
+
 
 ## Prospective Postdocs
 <p style="font-size:11pt;">
-At present, our lab does not have available funding to support postdoctoral positions. However, once funding becomes available for hiring postdocs, we will promptly announce the opportunity. If you have your own fellowship and are interested in collaborating with us, please feel free to reach out to the PI via email.
+At present, our lab does not have available funding to support postdoctoral positions. However, once funding becomes available for hiring postdocs, we will promptly announce the opportunity. If you have your own fellowship and are interested in collaborating with us, please feel free to reach out to the PI via email. 
 </p>
 
 ## Visiting Scholars
