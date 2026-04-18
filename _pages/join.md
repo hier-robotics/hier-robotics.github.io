@@ -102,7 +102,8 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 </p>
 
 <div class="notice notice-closed">
-  <span class="badge badge-closed">2026 — Closed</span> <strong>The 2026 admission cycle is finished.</strong>
+  <span class="badge badge-closed">2026 — Closed</span> <p style="font-size:11pt">
+<strong>The 2026 admission cycle is finished.</strong> </p>
 </div>
 
 <div class="notice notice-open">
