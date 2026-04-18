@@ -97,7 +97,7 @@ permalink: /join/
 <div class="join-section">
 <h2>🎓 Prospective Ph.D. Students</h2>
 
-<p style="font-size:0.95rem; line-height:1.7;">
+<p style="font-size:11pt; line-height:1.7;">
 We accept new Ph.D. students annually, subject to available grants and fellowships. We are looking for candidates excited about fabricating novel robotic systems, developing advanced planning and control algorithms, and deploying robots in real-world environments.
 </p>
 
@@ -120,12 +120,12 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 <div class="join-section">
 <h2>🏫 NC State Undergrad &amp; M.S. Students</h2>
 
-<p style="font-size:0.95rem; line-height:1.7;">
+<p style="font-size:11pt; line-height:1.7;">
 Current or admitted undergraduate and M.S. students at NC State University are encouraged to apply for research positions. We typically expect <strong>at least one year of collaboration</strong>, culminating in a conference paper submission (e.g., ICRA, IROS, Humanoids). Please include your research interests and the projects you are most passionate about.
 </p>
 
 <div class="join-card">
-  <p style="font-size:0.8rem; font-weight:600; opacity:0.5; text-transform:uppercase; letter-spacing:0.05em; margin:0 0 0.75rem;">Active Research Projects</p>
+  <p style="font-size:11pt; font-weight:600; opacity:0.5; text-transform:uppercase; letter-spacing:0.05em; margin:0 0 0.75rem;">Active Research Projects</p>
   <ul class="project-list">
     <li>
       <span class="project-num">01</span>
@@ -165,7 +165,7 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 <div class="join-section">
 <h2>🔬 Prospective Postdocs</h2>
 
-<p style="font-size:0.95rem; line-height:1.7;">
+<p style="font-size:11pt; line-height:1.7;">
 We do not currently have funding for postdoctoral positions. Openings will be announced as they become available. If you hold your own fellowship and are interested in collaborating with us, please feel free to reach out to the PI directly via email.
 </p>
 </div>
@@ -175,7 +175,7 @@ We do not currently have funding for postdoctoral positions. Openings will be an
 <div class="join-section">
 <h2>🌐 Visiting Scholars</h2>
 
-<p style="font-size:0.95rem; line-height:1.7;">
+<p style="font-size:11pt; line-height:1.7;">
 Researchers with fellowships interested in short-term collaboration (under one year) are welcome to reach out. Please email the PI or submit the inquiry form to discuss availability.
 </p>
 </div>
