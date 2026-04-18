@@ -107,9 +107,12 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 
 <div class="notice notice-open">
   <span class="badge badge-open">2027 — Open</span>
-  Ph.D. positions are available in:<br>
   &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Hierarchical RL-based whole-body control</strong><br>
-  &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Tele-whole-body control of humanoids</strong>
+</div>
+
+<div class="notice notice-open">
+  <span class="badge badge-open">2027 — Open</span>
+  &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Tele-whole-body control of humanoids</strong>
 </div>
 
 <a class="cta-btn cta-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header" target="_blank">Apply via Ph.D. Form →</a>
