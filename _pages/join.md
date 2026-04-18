@@ -33,7 +33,7 @@ permalink: /join/
   display: inline-block;
   font-size: 11pt;
   font-weight: 600;
-  padding: 2px 9px;
+  padding: 1px 6px;
   border-radius: 99px;
   margin-right: 6px;
   vertical-align: middle;
@@ -46,8 +46,8 @@ permalink: /join/
 .notice {
   border-left: 3px solid rgba(255,255,255,0.2);
   border-radius: 0 8px 8px 0;
-  padding: 0.3rem 0.5rem;
-  margin-bottom: 0.2rem;
+  padding: 0.2rem 0.4rem;
+  margin-bottom: 0.1rem;
   font-size: 11pt;
   background: rgba(255,255,255,0.04);
 }
