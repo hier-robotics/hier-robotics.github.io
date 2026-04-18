@@ -126,7 +126,7 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2027 — Open</span>
+  <span class="badge badge-open">2026 Summer,Fall — Open</span>
   Positions are available in:<br>
   &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Robot Hardware Development</strong><br>
   &nbsp;&nbsp;<span class="badge badge-area">2</span> <strong>Vision-Guided Hand Manipulation</strong><br>
