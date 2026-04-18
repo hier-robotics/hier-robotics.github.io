@@ -9,14 +9,9 @@ permalink: /join/
 
 <br>
 
-## Google Form
-<p style="font-size:11pt;">
-If you are interested in joining our lab, <b>please submit the google form:  <a href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header">Form</a> </b> 
-</p>
-
 ## Prospective Ph.D. Students
 <p style="font-size:11pt;">
-We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to <b>submit the google form </b> providing the following information:
+We intend to accept new Ph.D. students annually, taking into account available grants and fellowships. If prospective applicants are intrigued by the opportunity to engage in the fabrication of novel robotic systems, the development of advanced planning and control algorithms, and the exploration of innovative paradigms for real-world robot deployment, we encourage them to <b>submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header"> the Ph.D. google Form</a></b> providing the following information:
 </p>
 - <p style="font-size:11pt;"> The 2026 admission cycle is now closed and currently under review. </p>
 - <p style="font-size:11pt;"> We have <b>Ph.D. positions</b> available for the 2027 academic year in the following research areas: 1) <b> Hierarchical RL-based Whole-body Conntrol </b>, 2) <b> Tele-whole-body control of Humanoids</b>.     
