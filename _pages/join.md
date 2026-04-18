@@ -14,7 +14,7 @@ permalink: /join/
   margin-bottom: 3rem;
 }
 .join-section h2 {
-  font-size: 18pt;
+  font-size: 14pt;
   font-weight: 600;
   border-bottom: 1px solid rgba(255,255,255,0.15);
   padding-bottom: 0.5rem;
