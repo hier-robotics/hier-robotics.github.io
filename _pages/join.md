@@ -102,9 +102,7 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 </p>
 
 <div class="notice notice-closed">
-  <span class="badge badge-closed">2026 — Closed</span> <p style="font-size:11pt">
-<strong>The 2026 admission cycle is finished.</strong> </p>
-</div>
+  <span class="badge badge-closed">2026 — Closed</span> <strong>The 2026 admission cycle is finished.</strong> </div>
 
 <div class="notice notice-open">
   <span class="badge badge-open">2027 — Open</span> <strong>Hierarchical RL-based whole-body control</strong>
