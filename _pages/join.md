@@ -20,10 +20,10 @@ We intend to accept new Ph.D. students annually, taking into account available g
 <p style="font-size:11pt;">
 If you are a current or admitted undergraduate or M.S. student at NC State University and are interested in research positions, please <b> submit <a href="https://forms.gle/i6uSgZV67GSVB4fr5"><b>B.S. and M.S. Application Form</b></a> </b>. It would be great if you could include your research interests and the projects that you are most passionate about. Typically, we expect <b>at least a year of collaboration</b>, culminating in the submission of a conference paper (e.g., ICRA, IROS, Humanoids).  Currently, we have 4 research projects as follows: 
 </p>
-- <p style="font-size:11pt;"> 1) Robot Hardware Development: 
-- <p style="font-size:11pt;"> 2) Vision-Guided Hand Manipulation (Collaborator: JunYoung):
-- <p style="font-size:11pt;"> 3) Dual-Arm Teleoperation with a Moving Base (Collaborator: David):
-- <p style="font-size:11pt;"> 4) Transformable Arm on a Quadruped Robot (Collaborator: Andrea):
+- <p style="font-size:11pt;"> 1) <b>Robot Hardware Development</b>: 
+- <p style="font-size:11pt;"> 2) <b>Vision-Guided Hand Manipulation</b> (Collaborator: JunYoung):
+- <p style="font-size:11pt;"> 3) <b>Dual-Arm Teleoperation with a Moving Base</b> (Collaborator: David):
+- <p style="font-size:11pt;"> 4) <b>Transformable Arm on a Quadruped Robot</b> (Collaborator: Andrea):
 
 
 ## Prospective Postdocs
