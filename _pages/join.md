@@ -106,8 +106,7 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
 </div>
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2027 — Open</span>
-  &nbsp;&nbsp;<span class="badge badge-area">1</span> <strong>Hierarchical RL-based whole-body control</strong><br>
+  <span class="badge badge-open">2027 — Open</span> <strong>Hierarchical RL-based whole-body control</strong>
 </div>
 
 <div class="notice notice-open">
