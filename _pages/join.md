@@ -157,11 +157,9 @@ Current or admitted undergraduate and M.S. students at NC State University are e
   </ul>
 </div>
 
-<a class="cta-btn cta-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header" target="_blank">Apply via Ph.D. Form →</a>
+<a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S Form →</a>
 </div>
 
-<a class="cta-btn cta-secondary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S. Form →</a>
-</div>
 
 ---
 
