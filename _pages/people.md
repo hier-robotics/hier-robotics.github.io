@@ -134,10 +134,9 @@ Wonho Jung</b> <br>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/Prajjwal.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Prajjwal Singh"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Prajjwal Singh</b> <br>
-     MAE B.S.
+Future Student</b>
     </p>
   </div>
 </div>
