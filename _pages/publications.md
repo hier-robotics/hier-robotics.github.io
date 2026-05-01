@@ -12,6 +12,11 @@ permalink: /publications/
 ## 2026
 
 <p style="font-size:11pt">
+  <b>Learning-driven Whole-body Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  Hanbin Jang and Jaemin Lee <br>
+</p>
+
+<p style="font-size:11pt">
   <b>Contact-aware Plannig and Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
   JunYoung Kim and Jaemin Lee <br>
 </p>
