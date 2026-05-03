@@ -129,13 +129,13 @@ Current or admitted undergraduate and M.S. students at NC State University are e
   <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Robot Hardware Development</strong>
 </div>
 
-<div class="notice notice-open">
-  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)
+<div class="notice notice-closed">
+  <span class="badge badge-closed">2026 Summer,Fall — Open </span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)
 </div>
 
 
-<div class="notice notice-open">
-  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)
+<div class="notice notice-closed">
+  <span class="badge badge-closed">2026 Summer,Fall — Open </span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)
 </div>
 
   
