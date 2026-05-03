@@ -187,8 +187,8 @@ Jakub Jon (2025, M.S., Visiiting) - Helsing
 
 ## Formal Students (Undergraduate Students)
 <p style="text-align: justify;font-size:11pt;">
-Keagan Donovan (2025) - Prometheus Group <br>
-Ali Mohamed-Alie (2025) - Air Distribution Technologies, Inc.  
+Keagan Donovan (2025, B.S., MAE) - Prometheus Group <br>
+Ali Mohamed-Alie (2025, B.S., MAE) - Air Distribution Technologies, Inc.  
 </p>
 
 
