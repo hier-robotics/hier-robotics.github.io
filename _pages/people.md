@@ -154,7 +154,6 @@ Future Student</b>
     <img src="/assets/images/G1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="G1" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Humanoid G1</b> <br>
-    (2025 Summer)
     </p>
   </div>
 
@@ -162,7 +161,6 @@ Humanoid G1</b> <br>
     <img src="/assets/images/Go2.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Go2"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;">  <b>
 Quadruped Go2</b> <br>
-     (2024 Fall)
     </p>
   </div>
 
@@ -170,7 +168,6 @@ Quadruped Go2</b> <br>
     <img src="/assets/images/furanka_arm.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Furanka Arms</b> <br>
-     (2025 Fall)
     </p>
   </div>
 
