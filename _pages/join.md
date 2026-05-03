@@ -130,12 +130,12 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 </div>
 
 <div class="notice notice-closed">
-  <span class="badge badge-closed">2026 Summer,Fall — Open </span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)
+  <span class="badge badge-closed">2026 Summer,Fall — Closed </span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)
 </div>
 
 
 <div class="notice notice-closed">
-  <span class="badge badge-closed">2026 Summer,Fall — Open </span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)
+  <span class="badge badge-closed">2026 Summer,Fall — Closed </span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)
 </div>
 
   
