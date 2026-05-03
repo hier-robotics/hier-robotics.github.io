@@ -180,7 +180,10 @@ Furanka Arms</b> <br>
 
 
 ## Formal Students (Undergraduate Students)
-Keagan Donovan (2025) - Prometheus Group 
-Ali Mohamed-Alie (2025) - Air Distribution Technologies, Inc.
+<p style="text-align: justify;font-size:11pt;">
+Keagan Donovan (2025) - Prometheus Group <br>
+Ali Mohamed-Alie (2025) - Air Distribution Technologies, Inc.  
+</p>
+
 
 
