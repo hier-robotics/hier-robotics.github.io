@@ -177,7 +177,9 @@ Furanka Arms</b> <br>
 </div>
 
 ## Formal Students (Graduate Students)
-
+<p style="text-align: justify;font-size:11pt;">
+Jakub Jon (2025, M.S., Visiiting) - Helsing
+</p>
 
 ## Formal Students (Undergraduate Students)
 <p style="text-align: justify;font-size:11pt;">
