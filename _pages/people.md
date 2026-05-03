@@ -45,7 +45,7 @@ Academic Service <br>
   <div style="text-align: center;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
-    MAE Ph.D (2025 Fall) <br>
+    MAE Ph.D <br>
     M.S. and B.S. Hanyang University <br>
     Locomanipulation of humanoids
     </p>
@@ -54,21 +54,18 @@ Academic Service <br>
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
-    (2026 Fall)
     </p>
   </div>
 </div>
@@ -80,7 +77,7 @@ Academic Service <br>
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
-       MAE ABM (Spring 2025) <br>
+       MAE M.S. <br>
       Transformable robots
     </p>
   </div>
@@ -88,7 +85,7 @@ Academic Service <br>
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
-       MAE ABM (Fall 2025) <br>
+       MAE M.S. <br>
        Hybrid control for manipulators
     </p>
   </div>
@@ -96,7 +93,7 @@ Academic Service <br>
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Sebastian King</b> <br>
-       MAE M.S. (Spring 2026) <br>
+       MAE M.S. <br>
       Robot design
     </p>
   </div>
