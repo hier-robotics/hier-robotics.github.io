@@ -131,7 +131,7 @@ Wonho Jung</b> <br>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/Josh.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
+    <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
       ECE B.S. <br>
       Dual-Arm Manipulator
