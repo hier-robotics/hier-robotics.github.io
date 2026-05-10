@@ -129,7 +129,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 8</td>
       <td>Safety-critical Control 2 (Safe Navigation Application)</td>
-      <td> <b> Homework 2</b> </td>
+      <td> </td>
       <td>  
          <ul>
           <li><a href="https://ieeexplore.ieee.org/abstract/document/7782377">Control Barrier Function Based Quadratic Programs for Safety Critical Systems</a>, Aaron D. Ames et al.(2017)</li>
@@ -380,6 +380,7 @@ Lecture slides will be posted on the course website one hour before each lecture
         </ul>           
       </td>
     </tr>
+    <tr>
     <td>Week 12-13</td>
       <td>Whole-body Control</td>
       <td> </td>
