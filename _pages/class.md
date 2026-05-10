@@ -12,7 +12,7 @@ permalink: /class/
 ## Classes
 
 <ul>
-  <li> <b>MAE 435 Principles of Automatic Control (Undergraduate)</b> </li>
+  <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 435 Principles of Automatic Control (Undergraduate)</b></a></li>
   <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 589 Advanced Robotics (Graduate: advanced course)</b></a></li>
   <li><a href="#mae-589-modern-robotics-fall" style="font-size:18px;"><b>MAE 589 Modern Robotics (Undergraduate/Graduate: basic course)</b></a></li>
 </ul>
@@ -140,7 +140,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 9</td>
       <td>Markov Decision Process (MDP)</td>
-      <td></td>
+      <td><b> Homework 2</b></td>
       <td> 
         <ul>
           <li> Markov Decision Processes in Artificial Intelligence, Olivier Sigaud and Olivier Buffet</li>
