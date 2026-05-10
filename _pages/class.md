@@ -108,7 +108,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 6</td>
       <td>Optimal Control 2 (Manilulation Applilcation)</td>
-      <td> </td>
+      <td><b> Midterm 1 </b> </td>
       <td>
           <ul>
           <li>  Calculus of Variations and Optimal Control Theory, Daniel Liberzon </li>
@@ -129,7 +129,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 8</td>
       <td>Safety-critical Control 2 (Safe Navigation Application)</td>
-      <td> </td>
+      <td> <b> Homework 2</b> </td>
       <td>  
          <ul>
           <li><a href="https://ieeexplore.ieee.org/abstract/document/7782377">Control Barrier Function Based Quadratic Programs for Safety Critical Systems</a>, Aaron D. Ames et al.(2017)</li>
@@ -160,7 +160,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 11</td>
       <td>Q-Learning</td>
-      <td>  </td>
+      <td> <b> Midterm 2</b> </td>
       <td> 
         <ul>
           <li> Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto</li>
