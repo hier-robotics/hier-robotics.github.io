@@ -12,8 +12,9 @@ permalink: /class/
 ## Classes
 
 <ul>
-  <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 589 Advanced Robotics (Spring: advanced course)</b></a></li>
-  <li><a href="#mae-589-modern-robotics-fall" style="font-size:18px;"><b>MAE 589 Modern Robotics (Fall: basic course)</b></a></li>
+  <li> <b>MAE 435 Principles of Automatic Control (Undergraduate)</b>
+  <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 589 Advanced Robotics (Graduate: advanced course)</b></a></li>
+  <li><a href="#mae-589-modern-robotics-fall" style="font-size:18px;"><b>MAE 589 Modern Robotics (Undergraduate/Graduate: basic course)</b></a></li>
 </ul>
 
 
@@ -271,7 +272,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 2</td>
-      <td>Terminology and Rigid-body Motion</td>
+      <td>Terminology, Vector Space, Transformation</td>
       <td> </td>
       <td>
         <ul>
@@ -282,7 +283,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>Kinematic Control</td>
+      <td>Screw Theory, Jacobian, Kinematics</td>
       <td> <b>Project Survey</b></td>
       <td>
         <ul>
@@ -293,7 +294,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 4</td>
-      <td>Dynamic Control</td>
+      <td>Adjoint Representation, Single Rigid-body dynamics</td>
       <td> <b>Homework 1</b></td>
       <td>
         <ul>
