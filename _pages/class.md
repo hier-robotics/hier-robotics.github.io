@@ -284,7 +284,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 3</td>
       <td>Screw Theory, Kinematics, Singular Value Decomposition</td>
-      <td> <b>Project Survey</b></td>
+      <td> </td>
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
@@ -306,7 +306,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 5</td>
       <td>Multi-body Dynamics</td>
-      <td> <b>Project Proposal</b></td>
+      <td> </td>
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
@@ -317,7 +317,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 6</td>
       <td>Joint-space and Task-space Control</td>
-      <td> <b>Project Proposal</b></td>
+      <td> <b>Midterm 1</b></td>
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
@@ -328,7 +328,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 7</td>
       <td>Interpolations, Motion Planning</td>
-      <td> <b>Project Proposal</b></td>
+      <td> </td>
       <td>
         <ul>
           <li> Modern robotics, Lynch et al.(2017)</li>
@@ -339,7 +339,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 8</td>
       <td>Model-free Path Planning</td>
-      <td> </td>
+      <td><b> Homework 2 </b> </td>
       <td>
         <ul>
           <li> Rapidly-exploring ramdom tree (RRT), RRT* </li>
@@ -349,7 +349,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 9</td>
       <td>Data-driven Planning</td>
-      <td> <b>Homework 4</b>  </td>
+      <td>   </td>
       <td> 
         <ul>
           <li> Monte-Carlo method </li>
@@ -360,7 +360,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 10</td>
       <td>Centroidal Dynamics and Contacts</td>
-      <td> <b>Project Proposal</b></td>
+      <td> <b> Homework 3 </b></td>
       <td>
         <ul>
            <li><a href="https://link.springer.com/article/10.1007/s10514-013-9341-4">Centroidal dynamics of a humanoid robot</a>, Orin et al.(2013)</li>
@@ -371,7 +371,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     <tr>
       <td>Week 11</td>
       <td>Optimization-based Control</td>
-      <td> </td>
+      <td> <b> Midterm 2 </b> </td>
       <td>
         <ul>
            <li><a href="https://journals.sagepub.com/doi/full/10.1177/0278364914521306">Hierarchical quadratic programming: Fast online humanoid-robot motion generation</a>, Adrien et al.(2014)</li>
@@ -380,7 +380,7 @@ Lecture slides will be posted on the course website one hour before each lecture
         </ul>           
       </td>
     </tr>
-    <td>Week 12</td>
+    <td>Week 12-13</td>
       <td>Whole-body Control</td>
       <td> </td>
       <td> 
@@ -391,13 +391,7 @@ Lecture slides will be posted on the course website one hour before each lecture
           <li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.788902/full">Online gain adaptation of whole-body control for legged robots with unknown disturbances</a>, Lee et al.(2022)</li>
         </ul>          
       </td>
-    </tr> 
-    <tr>
-      <td>Week 13</td>
-      <td>Presentation/Discussion</td>
-      <td> <b> Final project presentation/report</b></td>
-      <td> </td>
-    </tr>     
+    </tr>   
   </tbody>
 </table>
 
@@ -411,20 +405,20 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
     <tr>
       <th>Attendence(Quiz)</th> 
       <th>Homework</th>
-      <th>Project Survey</th>
-      <th>Project Proposal</th>
+      <th>Midterm 1</th>
+      <th>Midterm 2</th>
       <th>Project Milestone</th>
-      <th>Final Presentation/Report</th>
+      <th>Project Final Report</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>10 %</td>
+      <td>10 %</td>
       <td>25 %</td>
-      <td>5 %</td>
+      <td>25 %</td>
       <td>10 %</td>
-      <td>10 %</td>
-      <td>20 % / 20%</td>
+      <td>20 %</td>
     </tr>
   </tbody>
 </table> 
