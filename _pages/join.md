@@ -112,7 +112,7 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
   <span class="badge badge-open">2027 — Open</span> <strong>Tele-whole-body control of humanoids</strong>
 </div>
 
-<a class="cta-btn cta-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header" target="_blank">Apply via Ph.D. Form →</a>
+<a class="cta-btn cta-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header" target="_blank">Google form for Ph.D. positions →</a>
 </div>
 
 ---
@@ -143,7 +143,7 @@ Current or admitted undergraduate and M.S. students at NC State University are e
   <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)
 </div>
 
-<a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Apply via B.S./M.S Form →</a>
+<a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Google form for B.S./M.S positions →</a>
 </div>
 
 
