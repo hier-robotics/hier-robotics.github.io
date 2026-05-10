@@ -18,7 +18,7 @@ permalink: /class/
 </ul>
 
 
-## MAE 589 Advanced Robotics (Spring)
+## MAE 589 Advanced Robotics (Advanced)
 <p style="text-align: justify;font-size:11pt;">
  This class will be offered in Spring semesters <br>
 </p>  
@@ -226,7 +226,7 @@ A detailed description of the projects will be posted and announced once the sem
 
 
 
-## MAE 589 Modern Robotics (Fall)
+## MAE 589 Modern Robotics (Basic)
 <p style="text-align: justify;font-size:11pt;">
  This class will be offered in Fall semesters <br>
 </p>  
