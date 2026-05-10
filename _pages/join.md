@@ -98,7 +98,7 @@ permalink: /join/
 <h2>🎓 Prospective Ph.D. Students</h2>
 
 <p style="font-size:11pt; line-height:1.7;">
-We accept new Ph.D. students annually, subject to available grants and fellowships. We are looking for candidates excited about fabricating novel robotic systems, developing advanced planning and control algorithms, and deploying robots in real-world environments.
+We accept new Ph.D. students annually, subject to available grants and fellowships. We are looking for candidates excited about fabricating novel robotic systems, developing advanced planning and control algorithms, and deploying robots in real-world environments. <b>Applicants must apply through the official graduate program at NCSU. In your application, please make sure to mention my name under the faculty you are interested in working with.</b> In addition, please submit the following Google Form so that I can learn about your expertise and research interests in advance.
 </p>
 
 <div class="notice notice-closed">
