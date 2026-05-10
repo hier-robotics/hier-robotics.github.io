@@ -149,7 +149,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Reinforcement Learning Concept</td>
+      <td>Reinforcement Learning Concept (Humanoid Application)</td>
       <td>  </td>
       <td> 
         <ul>
