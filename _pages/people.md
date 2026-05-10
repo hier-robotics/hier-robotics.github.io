@@ -46,7 +46,7 @@ Academic Service <br>
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (MAE) <br> 
     M.S.(2022) and B.S.(2020) Hanyang University, Korea <br>
-    Visiting Student, UCLA, US (2022) <br>
+    Visiting Student, UCLA, CA, US (2022) <br>
     Research Intern, KIST, Korea (2023-2024)<br>
     Whole-body control for Locomanipulation of humanoids
     </p>
