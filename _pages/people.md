@@ -90,14 +90,6 @@ Academic Service <br>
     </p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Sebastian King"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Sebastian King</b> <br>
-       MAE M.S. <br>
-      Robot design
-    </p>
-  </div>
-
 </div>
 
 <p> </p>
@@ -178,6 +170,7 @@ Furanka Arms</b> <br>
 
 ## Formal Students (Graduate Students)
 <p style="text-align: justify;font-size:11pt;">
+Sebastian King (2026, M.S., MAE) - <br>
 Jakub Jon (2025, M.S., Visiting) - Helsing
 </p>
 
