@@ -107,7 +107,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>Optimal Control 2</td>
+      <td>Optimal Control 2 (Manilulation Applilcation)</td>
       <td> </td>
       <td>
           <ul>
@@ -128,7 +128,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>   
     <tr>
       <td>Week 8</td>
-      <td>Safety-critical Control 2</td>
+      <td>Safety-critical Control 2 (Safe Navigation Application)</td>
       <td> </td>
       <td>  
          <ul>
