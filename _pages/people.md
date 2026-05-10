@@ -47,6 +47,7 @@ Academic Service <br>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D <br>
     M.S. and B.S. Hanyang University, Korea <br>
+    Visiting Student, UCLA, US <br>
     Research Intern, KIST, Korea <br>
     Whole-body control for Locomanipulation of humanoids
     </p>
