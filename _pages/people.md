@@ -46,7 +46,7 @@ Academic Service <br>
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     MAE Ph.D <br>
-    M.S. and B.S. Hanyang University <br>
+    M.S. and B.S. Hanyang University, Korea <br>
     Locomanipulation of humanoids
     </p>
   </div>
