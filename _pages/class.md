@@ -13,7 +13,7 @@ permalink: /class/
 
 <ul>
   <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 435 Principles of Automatic Control (Undergraduate)</b></a></li>
-  <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 589 Advanced Robotics (Graduate: advanced course)</b></a></li>
+  <li><a href="#mae-589-advanced-robotics-spring" style="font-size:18px;"><b>MAE 789 Advanced Robotics (Graduate: advanced course)</b></a></li>
   <li><a href="#mae-589-modern-robotics-fall" style="font-size:18px;"><b>MAE 589 Modern Robotics (Undergraduate/Graduate: basic course)</b></a></li>
 </ul>
 
