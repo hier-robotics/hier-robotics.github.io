@@ -149,17 +149,17 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 10</td>
-      <td>Supervised Learning</td>
-      <td> <b>Homework 2 </b> </td>
-      <td>
+      <td>Reinforcement Learning Concept</td>
+      <td>  </td>
+      <td> 
         <ul>
-          <li> Introduction to Machine Learning, Ethem Alpaydın</li>
+          <li> Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto</li>
         </ul>          
       </td>
     </tr> 
     <tr>
       <td>Week 11</td>
-      <td>Reinforcement Learning 1</td>
+      <td>Q-Learning</td>
       <td>  </td>
       <td> 
         <ul>
@@ -169,7 +169,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr>
     <tr>
       <td>Week 12</td>
-      <td>Reinforcement Learning 2</td>
+      <td>Policy Gradient Methods</td>
       <td>  </td>
       <td> 
         <ul>
@@ -179,7 +179,7 @@ Lecture slides will be posted on the course website one hour before each lecture
     </tr> 
     <tr>
       <td>Week 13</td>
-      <td>Reinforcement Learning 3</td>
+      <td>Poximal Policy Optimization</td>
       <td> </td>
       <td>
         <ul>
