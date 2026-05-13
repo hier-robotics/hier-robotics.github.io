@@ -127,14 +127,15 @@ Wonho Jung</b> <br>
     <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
       ECE B.S. <br>
-      Dual-Arm Manipulator
+      Dual-Arm manipulator
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Future Student</b>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> <br>
+      CSC B.S. <br>
+      Vision-guided hand manipluation
     </p>
   </div>
   
