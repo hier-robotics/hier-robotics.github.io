@@ -93,7 +93,7 @@ permalink: /people/
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
        MAE M.S. <br>
-      Transformable robots
+       • Topic: Transformable robots
     </p>
   </div>
 
@@ -101,7 +101,7 @@ permalink: /people/
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
        MAE M.S. <br>
-       Hybrid control for manipulators
+       • Topic: Hybrid control for manipulators
     </p>
   </div>
 
@@ -116,7 +116,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Nicholas Sutton</b> <br>
      CS B.S. <br>
-     Motion planning, Tele-locomotion 
+     • Topic: Motion planning, Tele-locomotion 
     </p>
   </div>
 
@@ -125,7 +125,7 @@ Nicholas Sutton</b> <br>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Wonho Jung</b> <br>
     Visiting Student from Seoul National University <br>
-      Safety-critical navigation
+     • Topic: Safety-critical navigation
     </p>
   </div>
 
@@ -133,7 +133,7 @@ Wonho Jung</b> <br>
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
        MAE B.S. <br>
-      Perception-guided planning and control
+      • Topic: Perception-guided planning and control
     </p>
   </div>
 
@@ -141,7 +141,7 @@ Wonho Jung</b> <br>
     <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
       ECE B.S. <br>
-      Dual-Arm manipulator
+      • Topic: Dual-Arm manipulator
     </p>
   </div>
 
@@ -149,7 +149,7 @@ Wonho Jung</b> <br>
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> <br>
       CSC B.S. <br>
-      Vision-guided hand manipluation
+      • Topic: Vision-guided hand manipluation
     </p>
   </div>
 
@@ -157,7 +157,7 @@ Wonho Jung</b> <br>
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> <br>
       MAE B.S. <br>
-      Robot Hardware Design
+     • Topic: Robot Hardware Design
     </p>
   </div>
   
