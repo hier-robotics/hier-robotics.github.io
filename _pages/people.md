@@ -13,9 +13,13 @@ permalink: /people/
 
 <div class="prof-profile-container" style="display: block; margin-bottom: 30px; clear: both;">
     <img src="/assets/images/Jaemin4.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
-    <div class="prof-intro" style="line-height: 1.67; font-size: 11.5pt; text-align: justify; color: #2c3e50;">
-        <p><strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.</p>
-        <p>Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the <strong>NVIDIA Academic Grant</strong> in robotics.</p>
+    <div class="prof-intro">
+        <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
+            <strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.
+        </p>
+        <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
+            Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the <strong>NVIDIA Academic Grant</strong> in robotics.
+        </p>
     </div>
 </div>
 
@@ -25,31 +29,39 @@ permalink: /people/
 
 ### 🎓 Academic & Professional Experience
 
-* **Assistant Professor** (2024 – Present)  
-    *Department of Mechanical and Aerospace Engineering, North Carolina State University, NC*
-* **Associate Faculty** (2025 – Present)  
-    *Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC*
-* **Postdoctoral Scholar** (2022 – 2024)  
-    *California Institute of Technology (Caltech), CA*
-* **Ph.D. in Mechanical Engineering / Robotics** (2016 – 2022)  
-    *The University of Texas at Austin, TX*
-* **Research Scientist** (2013 – 2016)  
-    *Korea Institute of Science and Technology (KIST), South Korea*
-
+<p style="font-size:11pt; margin: 10px 0 0 0;">
+    • <strong>Assistant Professor</strong> (2024 – Present) <br>
+    &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
+</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">
+    • <strong>Associate Faculty</strong> (2025 – Present) <br>
+    &nbsp;&nbsp;&nbsp;<em>Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC</em>
+</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">
+    • <strong>Postdoctoral Scholar</strong> (2022 – 2024) <br>
+    &nbsp;&nbsp;&nbsp;<em>California Institute of Technology (Caltech), CA</em>
+</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">
+    • <strong>Ph.D. in Mechanical Engineering / Robotics</strong> (2016 – 2022) <br>
+    &nbsp;&nbsp;&nbsp;<em>The University of Texas at Austin, TX</em>
+</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">
+    • <strong>Research Scientist</strong> (2013 – 2016) <br>
+    &nbsp;&nbsp;&nbsp;<em>Korea Institute of Science and Technology (KIST), South Korea</em>
+</p>
 ---
 
 ### 🏛️ Professional Service & Leadership
 
-* **Faculty Member**, NC State Robotics Steering Committee (2025 – Present)
-* **Associate Editor**, *IEEE Robotics and Automation Letters (IEEE RA-L)* (2024 – Present)
-* **Associate Editor**, *IEEE International Conference on Robotics and Automation (ICRA)* (2024 – Present)
-
+<p style="font-size:11pt; margin: 10px 0 0 0;">• Faculty Member, NC State Robotics Steering Committee (2025 – Present)</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE International Conference on Robotics and Automation (ICRA)</em> (2024 – Present)</p>
 ---
 
 ### 🔬 Research Interests
-* **Robotics & Autonomy:** Legged Locomotion, Humanoids, Animaloids, and Loco-manipulation.
-* **Control Theory:** Whole-Body Control, Safety-Critical Control, Optimal Planning, and Hybrid Dynamical Systems.
-* **Learning and AI:** Learning-based Whole-body Control and connecting Robotic Systems with Generative AI.
+<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>Robotics & Autonomy:</strong> Legged Locomotion, Humanoids, Animaloids, and Loco-manipulation.</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>Control Theory:</strong> Whole-Body Control, Safety-Critical Control, Optimal Planning, and Hybrid Dynamical Systems.</p>
+<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>AI Integration:</strong> Learning-based Control and connecting Robotic Systems with Generative AI.</p>
 
 <p> </p>
 
