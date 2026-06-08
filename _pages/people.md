@@ -114,8 +114,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Nicholas Sutton</b> <br>
-     CS B.S. <br>
+Nicholas Sutton</b> (CSC)<br>
      • Topic: Motion planning, Tele-locomotion 
     </p>
   </div>
@@ -131,32 +130,28 @@ Wonho Jung</b> <br>
 
   <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
-       MAE B.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> (MAE) <br>
       • Topic: Perception-guided planning and control
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
-      ECE B.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> (ECE) <br>
       • Topic: Dual-Arm manipulator
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> <br>
-      CSC B.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> (CSC) <br>
       • Topic: Vision-guided hand manipluation
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> <br>
-      MAE B.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> (MAE) <br>
      • Topic: Robot Hardware Design
     </p>
   </div>
