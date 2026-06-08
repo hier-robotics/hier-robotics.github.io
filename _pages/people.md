@@ -53,8 +53,6 @@ permalink: /people/
 
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin: 30px 0;" />
 
----
-
 <p> </p>
 
 ## Ph.D. Students
