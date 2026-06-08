@@ -12,7 +12,7 @@ permalink: /people/
 ## Professor: Dr. Jaemin Lee
 
 <div class="prof-profile-container" style="display: block; margin-bottom: 30px; clear: both;">
-    <img src="/assets/images/Jaemin4.jpg" alt="Dr. Jaemin Lee" align="left" width="220px" style="margin-right: 25px; margin-bottom: 20px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover; border: 3px solid #E1E6EB; box-shadow: 0 4px 10px rgba(0,0,0,0.05);"/>
+    <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <div class="prof-intro" style="line-height: 1.67; font-size: 11.5pt; text-align: justify; color: #2c3e50;">
         <p><strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.</p>
         <p>Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the <strong>NVIDIA Academic Grant</strong> in robotics.</p>
@@ -50,42 +50,6 @@ permalink: /people/
 * **Robotics & Autonomy:** Legged Locomotion, Humanoids, Animaloids, and Loco-manipulation.
 * **Control Theory:** Whole-Body Control, Safety-Critical Control, Optimal Planning, and Hybrid Dynamical Systems.
 * **Learning and AI:** Learning-based Whole-body Control and connecting Robotic Systems with Generative AI.
-
-<!-- <img src="/assets/images/Jaemin4.jpg" align="left" width="250px" style="margin-right: 20px;margin-top: 20px;border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;"/>
-<p style="text-align: justify;font-size:11pt;">
-  Dr. Lee's research interests span the area of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control and hybrid dynamical systems, with a special focus on applications to loco-manipulation of legged robots, animaloid, or humanoids with experimental validations, connecting robotic systems and generative AI. Dr. Lee has been recognized through multiple honors, including an NVIDIA Academic Grant in robotics.<br>
-</p>  
-
-<p style="text-align: justify;font-size:11pt;">
-  - Assistant Professor, Department of Mechanical and Aerospace Engineering, North carolina State University, NC (2024~) <br>
-  - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC (2025~) <br>
-  - Postdoctoral Scholar, California Institute of Technology, CA (2022-2024) <br>
-  - Ph.D., The University of Texas at Austin, TX (2016-2022) <br>
-  - Research Scientist, Korea Institute of Science and Technology, South Korea (2013-2016) <br>
-</p>
-
-
-<p style="text-align: justify;font-size:11pt;">
-  - NC State Robotics Steering Committee Faculty Member, North carolina State University, NC (2025~) <br>
-  - Associate Editor, IEEE Robotics and Automation Letter (IEEE RA-L) (2024~) <br>
-  - Associate Editor, IEEE International Conference on Robotics and Automation (ICRA) (2024~)
-</p>
-
-
-<br> -->
-
-
-<!--  <p style="text-align: justify;font-size:11pt;">
-MAE Cources <br>
-  - Undergraduate: MAE 435 Principles of Automatic Control (Spring) <br>
-  - Graduate: MAE 589 Fundamentals for Modern Robotics (2025 Fall), MAE 789 Advanced Planning and Control for Robots (2026 Fall)
-</p>
-
-<p style="text-align: justify;font-size:11pt;">
-Academic Service <br>
-  - Associate Editor, IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA) <br>
-  - Reviewer, IEEE Transactions on Robotics (IEEE T-RO), IEEE Robotics and Automation Letter (IEEE RA-L), IEEE International Conference on Robotics and Automation (ICRA),  IEEE International Conference on Intelligent Robots and Systems (IROS), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), Robotica, ASME Journal of Dynamic Systems, Measurement and Control, Autonomous Robots (AURO), IEEE Transaction on Industrial Electronics (TIE), IEEE Control Systems Letters (L-CSS)
-</p> -->
 
 <p> </p>
 
