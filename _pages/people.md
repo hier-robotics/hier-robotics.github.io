@@ -91,16 +91,16 @@ permalink: /people/
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
-       MAE M.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> (MAE)<br>
+       • ABM (Expected 2027), North Carolina State University <br>
        • Topic: Transformable robots
     </p>
   </div>
 
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
-       MAE M.S. <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> (MAE)<br>
+       • ABM (Expected 2027), North Carolina State University<br>
        • Topic: Hybrid control for manipulators
     </p>
   </div>
