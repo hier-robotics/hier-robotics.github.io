@@ -37,20 +37,16 @@ permalink: /people/
     • <strong>Assistant Professor</strong> (2024 – Present), &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
 </p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Associate Faculty</strong> (2025 – Present) <br>
-    &nbsp;&nbsp;&nbsp;<em>Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC</em>
+    • <strong>Associate Faculty</strong> (2025 – Present), &nbsp;&nbsp;&nbsp;<em>Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC</em>
 </p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Postdoctoral Scholar</strong> (2022 – 2024) <br>
-    &nbsp;&nbsp;&nbsp;<em>California Institute of Technology (Caltech), CA</em>
+    • <strong>Postdoctoral Scholar</strong> (2022 – 2024), &nbsp;&nbsp;&nbsp;<em>California Institute of Technology (Caltech), CA</em>
 </p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Ph.D. in Mechanical Engineering / Robotics</strong> (2016 – 2022) <br>
-    &nbsp;&nbsp;&nbsp;<em>The University of Texas at Austin, TX</em>
+    • <strong>Ph.D. in Mechanical Engineering / Robotics</strong> (2016 – 2022), &nbsp;&nbsp;&nbsp;<em>The University of Texas at Austin, TX</em>
 </p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Research Scientist</strong> (2013 – 2016) <br>
-    &nbsp;&nbsp;&nbsp;<em>Korea Institute of Science and Technology (KIST), South Korea</em>
+    • <strong>Research Scientist</strong> (2013 – 2016), &nbsp;&nbsp;&nbsp;<em>Korea Institute of Science and Technology (KIST), South Korea</em>
 </p>
 ---
 
