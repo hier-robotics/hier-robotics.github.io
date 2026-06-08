@@ -12,17 +12,39 @@ permalink: /people/
 ## Professor: Dr. Jaemin Lee
 
 <div class="prof-profile-container" style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px; clear: both; flex-wrap: wrap;">
-    <!-- 사진 영역: 크기를 고정하여 글에 밀리지 않도록 설정 -->
+    <!-- 사진 영역 -->
     <div style="flex: 0 0 250px;">
         <img src="/assets/images/Jaemin4.jpg" style="width: 100%; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jaemin Lee" />
     </div>  
-    <!-- 글 영역: 남은 공간을 모두 차지하도록 설정 -->
+    <!-- 통합 글 영역 -->
     <div class="prof-intro" style="flex: 1; min-width: 280px;">
-        <p style="font-size:11pt; margin: 0 0 10px 0; text-align: justify; line-height: 1.6;">
-            <strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.
+        <!-- 경력 사항 섹션 -->
+        <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 14pt; border-bottom: 1px solid #eee; padding-bottom: 5px;">🎓 Academic & Professional Experience</h3>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • <strong>Assistant Professor</strong> (2024 – Present), &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
         </p>
-        <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
-            Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the NVIDIA Academic Grant in robotics.
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • <strong>Associate Faculty</strong> (2025 – Present), &nbsp;&nbsp;&nbsp;<em>Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC</em>
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • <strong>Postdoctoral Scholar</strong> (2022 – 2024), &nbsp;&nbsp;&nbsp;<em>California Institute of Technology (Caltech), CA</em>
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • <strong>Ph.D. in Mechanical Engineering / Robotics</strong> (2016 – 2022), &nbsp;&nbsp;&nbsp;<em>The University of Texas at Austin, TX</em>
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 25px 0; line-height: 1.4;">
+            • <strong>Research Scientist</strong> (2013 – 2016), &nbsp;&nbsp;&nbsp;<em>Korea Institute of Science and Technology (KIST), South Korea</em>
+        </p>
+        <!-- 서비스 및 리더십 섹션 (새로 추가된 부분) -->
+        <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 14pt; border-bottom: 1px solid #eee; padding-bottom: 5px;">🏛️ Professional Service & Leadership</h3>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • Faculty Member, <strong>NC State Robotics Steering Committee</strong> (2025 – Present)
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • Associate Editor, <em>IEEE International Conference on Robotics and Automation (ICRA)</em> (2024 – Present)
         </p>
     </div>
 </div>
@@ -31,30 +53,6 @@ permalink: /people/
 
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin: 30px 0;" />
 
-### 🎓 Academic & Professional Experience
-
-<p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Assistant Professor</strong> (2024 – Present), &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
-</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Associate Faculty</strong> (2025 – Present), &nbsp;&nbsp;&nbsp;<em>Joint Department of Biomedical Engineering, UNC–Chapel Hill and NC State University, NC</em>
-</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Postdoctoral Scholar</strong> (2022 – 2024), &nbsp;&nbsp;&nbsp;<em>California Institute of Technology (Caltech), CA</em>
-</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Ph.D. in Mechanical Engineering / Robotics</strong> (2016 – 2022), &nbsp;&nbsp;&nbsp;<em>The University of Texas at Austin, TX</em>
-</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Research Scientist</strong> (2013 – 2016), &nbsp;&nbsp;&nbsp;<em>Korea Institute of Science and Technology (KIST), South Korea</em>
-</p>
----
-
-### 🏛️ Professional Service & Leadership
-
-<p style="font-size:11pt; margin: 10px 0 0 0;">• Faculty Member, NC State Robotics Steering Committee (2025 – Present)</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE International Conference on Robotics and Automation (ICRA)</em> (2024 – Present)</p>
 ---
 
 <p> </p>
