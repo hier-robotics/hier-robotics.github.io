@@ -11,10 +11,14 @@ permalink: /people/
 
 ## Professor: Dr. Jaemin Lee
 
-<div class="prof-profile-container" style="display: block; margin-bottom: 30px; clear: both;">
-    <img src="/assets/images/Jaemin4.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
-    <div class="prof-intro">
-        <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
+<div class="prof-profile-container" style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px; clear: both; flex-wrap: wrap;">
+    <!-- 사진 영역: 크기를 고정하여 글에 밀리지 않도록 설정 -->
+    <div style="flex: 0 0 250px;">
+        <img src="/assets/images/Jaemin4.jpg" style="width: 100%; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jaemin Lee" />
+    </div>  
+    <!-- 글 영역: 남은 공간을 모두 차지하도록 설정 -->
+    <div class="prof-intro" style="flex: 1; min-width: 280px;">
+        <p style="font-size:11pt; margin: 0 0 10px 0; text-align: justify; line-height: 1.6;">
             <strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.
         </p>
         <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
@@ -30,8 +34,7 @@ permalink: /people/
 ### 🎓 Academic & Professional Experience
 
 <p style="font-size:11pt; margin: 10px 0 0 0;">
-    • <strong>Assistant Professor</strong> (2024 – Present) <br>
-    &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
+    • <strong>Assistant Professor</strong> (2024 – Present), &nbsp;&nbsp;&nbsp;<em>Department of Mechanical and Aerospace Engineering, North Carolina State University, NC</em>
 </p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">
     • <strong>Associate Faculty</strong> (2025 – Present) <br>
@@ -57,11 +60,6 @@ permalink: /people/
 <p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)</p>
 <p style="font-size:11pt; margin: 10px 0 0 0;">• Associate Editor, <em>IEEE International Conference on Robotics and Automation (ICRA)</em> (2024 – Present)</p>
 ---
-
-### 🔬 Research Interests
-<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>Robotics & Autonomy:</strong> Legged Locomotion, Humanoids, Animaloids, and Loco-manipulation.</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>Control Theory:</strong> Whole-Body Control, Safety-Critical Control, Optimal Planning, and Hybrid Dynamical Systems.</p>
-<p style="font-size:11pt; margin: 10px 0 0 0;">• <strong>AI Integration:</strong> Learning-based Control and connecting Robotic Systems with Generative AI.</p>
 
 <p> </p>
 
