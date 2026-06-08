@@ -18,6 +18,7 @@ permalink: /people/
 <p style="text-align: justify;font-size:11pt;">
   - Assistant Professor, Department of Mechanical and Aerospace Engineering, North carolina State University, NC (2024~) <br>
   - Associate Faculty, Joint Department of Biomedical Engineering at UNC–Chapel Hill and NC State University, NC (2025~) <br>
+  - NC State Robotics Steering Committee Faculty Member, North carolina State University, NC (2025~) <br>
   - Postdoctoral Scholar, California Institute of Technology, CA (2022-2024) <br>
   - Ph.D., The University of Texas at Austin, TX (2016-2022) <br>
   - Research Scientist, Korea Institute of Science and Technology, South Korea (2013-2016) <br>
