@@ -22,7 +22,7 @@ permalink: /people/
             <strong>Dr. Jaemin Lee</strong> is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at North Carolina State University. His research spans the core areas of robotics, optimal planning, whole-body control, safety-critical control, autonomy, learning-based control, and hybrid dynamical systems. A primary focus of his work is the practical application and experimental validation of these methodologies on the loco-manipulation of legged robots, animaloids, and humanoids, bridging the gap between physical robotic systems and generative AI.
         </p>
         <p style="font-size:11pt; margin: 10px 0 0 0; text-align: justify; line-height: 1.6;">
-            Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the <strong>NVIDIA Academic Grant</strong> in robotics.
+            Dr. Lee’s contributions to the field have been recognized through several prestigious honors, including the NVIDIA Academic Grant in robotics.
         </p>
     </div>
 </div>
