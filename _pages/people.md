@@ -204,6 +204,7 @@ Jakub Jon (2025, M.S., Visiting) - Helsing
 
 ## Formal Students (Undergraduate Students)
 <p style="text-align: justify;font-size:11pt;">
+Hanbin Jang (2025, B.S., Visiting) - <br>
 Keagan Donovan (2025, B.S., MAE) - Blue Origin <br>
 Ali Mohamed-Alie (2025, B.S., MAE) - Air Distribution Technologies, Inc.  
 </p>
