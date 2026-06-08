@@ -38,7 +38,7 @@ permalink: /people/
         <!-- 서비스 및 리더십 섹션 (새로 추가된 부분) -->
         <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 14pt; border-bottom: 1px solid #eee; padding-bottom: 5px;">🏛️ Professional Service & Leadership</h3>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
-            • Faculty Member, <strong>NC State Robotics Steering Committee</strong> (2025 – Present)
+            • Faculty Member, NC State Robotics Steering Committee (2025 – Present)
         </p>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
             • Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)
@@ -50,8 +50,6 @@ permalink: /people/
 </div>
 
 <div style="clear: both;"></div>
-
-<hr style="border: 0; height: 1px; background: #e0e0e0; margin: 30px 0;" />
 
 <p> </p>
 
