@@ -41,6 +41,9 @@ permalink: /people/
             • Faculty Member, NC State Robotics Steering Committee (2025 – Present)
         </p>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
+            • Associate Faculty Member, xGI Initiative, NC State University (2026 – Present)
+        </p>
+        <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
             • Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)
         </p>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
