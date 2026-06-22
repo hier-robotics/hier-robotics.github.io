@@ -1,22 +1,149 @@
 ---
-layout: page
+layout: splash
+classes:
+  - landing
+  - dark-theme
+toc: false
 title: Research Directions
 permalink: /research/
 ---
 
-<!-- MAIN HERO IMAGE SECTION -->
-<p align="center" style="margin-top: 30px; margin-bottom: 40px;">
-  <img src="/assets/images/Research intro.jpg" 
-       alt="Research intro.jpg - Key Open Problems in Humanoid Robotics" 
-       width="100%" 
-       style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.06); border: 1px solid #e1e8ed;">
-</p>
+<style>
+
+/* HERO SECTION */
+
+.hero-section{
+position:relative;
+height:520px;
+overflow:hidden;
+}
+
+.hero-video{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+object-fit:cover;
+z-index:-1;
+}
+
+.hero-overlay{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.45);
+}
+
+.hero-text{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+color:white;
+text-align:center;
+max-width:800px;
+}
+
+.hero-text h1{
+font-size:48px;
+margin-bottom:10px;
+}
+
+.hero-text p{
+font-size:18px;
+}
+
+/* IMAGE SECTION */
+
+.hero-images {
+  display: flex;         /* 가로 배치 */
+  gap: 20px;            /* 사진 사이 간격 */
+  justify-content: center; /* 중앙 정렬 */
+  width: 100%;
+  margin: 40px 0;
+}
+
+.hero-images img {
+  /* 핵심 코드: 고정된 높이를 부여하여 통일감 생성 */
+  height: 400px;         /* 원하는 높이로 조절하세요 */
+  
+  /* 핵심 코드: 비율이 달라도 컨테이너에 꽉 차게 조절 (중앙 기준 Crop) */
+  object-fit: cover;
+  
+  /* 유연한 너비 설정 (모바일 대응) */
+  flex: 1;               /* 남은 공간을 반씩 차지 */
+  min-width: 0;          /* Flexbox 버그 방지 */
+  
+  /* 부가 스타일 */
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease;
+}
+
+/* 마우스 호버 효과 (선택 사항) */
+.hero-images img:hover {
+  transform: scale(1.02);
+}
+
+/* 모바일 대응: 세로로 쌓기 */
+@media (max-width: 768px) {
+  .hero-images {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .hero-images img {
+    height: 300px;       /* 모바일에서는 높이를 조금 줄임 */
+    width: 100%;
+  }
+}
+  
+.research-section{
+margin-top:60px;
+}
+
+.research-box{
+background:#f6f8fb;
+padding:20px;
+border-radius:8px;
+}
+
+.research-box p{
+font-size:11pt;
+text-align:justify;
+}  
+
+<!-- HERO VIDEO -->
+
+<section class="hero-section">
+
+<img src="/assets/images/main_image.png" alt="Robot Image" class="hero-video">  
+
+<div class="hero-overlay"></div>
+
+</section>
+  
+<section class="research-section">
+
+<h2 style="text-align:center;margin-top:60px">Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
+</h2>
+
+<div class="news-box">
+<p> The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab<\b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning<\b>, <b>control<\b>, <b>learning<\b>, and <b>physical interaction<\b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence. </p>
+</div>
+
+</section>
+
+  
+
 
 <div align="center">
 
 # Building Physically Intelligent Humanoids
 
-### Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
+## Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
 
 The **Hybrid Intelligent Experimental Robotics (HIER) Lab** develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges **planning**, **control**, **learning**, and **physical interaction** to create robots that move beyond simple terrain traversability and achieve true physical intelligence.
 
