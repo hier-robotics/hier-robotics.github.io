@@ -26,11 +26,11 @@ body {
 
 .hero-video {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: auto;
+  left: auto;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   z-index: -1;
 }
 
