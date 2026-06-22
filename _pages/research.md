@@ -18,11 +18,17 @@ body {
 
 .hero-section {
   position: relative;
-  height: 520px;
-  /* overflow: hidden; */
+  width: 100%;
+  height: 520px;             /* 1. 요청하신 대로 높이를 520px로 절대 고정 */
+  background-color: #ffffff; /* 2. 이미지가 조절되면서 생기는 여백을 흰색으로 채워 일체감 부여 */
   border-radius: 14px;
   margin-top: 20px;
-}
+  
+  /* 3. 내부 이미지를 상하좌우 정중앙에 배치하기 위한 정렬 세팅 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 
 .hero-video {
   position: absolute;
@@ -53,7 +59,10 @@ body {
 }
 
 .hero-images img {
-  height: 400px;         /* 고정 높이 */
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
   object-fit: contain;     /* 비율 유지하며 Crop */
   flex: 1;               /* 반씩 공간 차지 */
   min-width: 0;          
