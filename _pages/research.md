@@ -20,7 +20,7 @@ body {
 .hero-section {
   position: relative;
   height: 520px;
-  overflow: hidden;
+  /* overflow: hidden; */
   border-radius: 14px;
   margin-top: 20px;
 }
@@ -55,7 +55,7 @@ body {
 
 .hero-images img {
   height: 400px;         /* 고정 높이 */
-  object-fit: scale-down;     /* 비율 유지하며 Crop */
+  object-fit: contain;     /* 비율 유지하며 Crop */
   flex: 1;               /* 반씩 공간 차지 */
   min-width: 0;          
   border-radius: 12px;
