@@ -10,8 +10,8 @@ permalink: /research/
 
 <style>
 
-GENERAL RESETS & LIGHT THEME */
-/* body {
+/* GENERAL RESETS & LIGHT THEME */
+body {
   background-color: #ffffff !important;
   color: #333333 !important;
 }
