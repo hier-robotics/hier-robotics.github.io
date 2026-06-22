@@ -130,8 +130,8 @@ text-align:justify;
 <h2 style="text-align:center;margin-top:60px">Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
 </h2>
 
-<div class="news-box">
-<p> The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab<\b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning<\b>, <b>control<\b>, <b>learning<\b>, and <b>physical interaction<\b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence. </p>
+<div class="research-box">
+<p> The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab</b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning</b>, <b>control</b>, <b>learning</b>, and <b>physical interaction</b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence. </p>
 </div>
 
 </section>
