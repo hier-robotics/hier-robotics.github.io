@@ -11,10 +11,10 @@ permalink: /research/
 <style>
 
 /* GENERAL RESETS & LIGHT THEME */
-body {
+/* body {
   background-color: #ffffff !important;
   color: #333333 !important;
-}
+} */
 
 .hero-section {
   position: relative;
