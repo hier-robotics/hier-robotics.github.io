@@ -111,7 +111,7 @@ body {
 
 <!-- HERO IMAGE 구역 -->
 <section class="hero-section">
-  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-images">  
+  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-video">  
   <div class="hero-overlay"></div>
 </section>
 
