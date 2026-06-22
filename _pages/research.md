@@ -20,7 +20,7 @@ body {
   position: relative;
   width: 100%;
   height: 520px;             /* 1. 요청하신 대로 높이를 520px로 절대 고정 */
-  background-color: transparent; /* 2. 이미지가 조절되면서 생기는 여백을 흰색으로 채워 일체감 부여 */
+  background-color: #ffffff; /* 2. 이미지가 조절되면서 생기는 여백을 흰색으로 채워 일체감 부여 */
   border-radius: 14px;
   margin-top: 40px;
   display: flex;
