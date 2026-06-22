@@ -29,6 +29,7 @@ body {
   align-items: center;
   justify-content: center;
   overflow: hidden;
+}
 
 .hero-video {
   position: absolute;
