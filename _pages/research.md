@@ -39,12 +39,6 @@ body {
 }
 
 .hero-overlay {
-  /* position: absolute;
-  top: auto;
-  left: auto;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.05); /* 흰색 배경에 맞춰 오버레이 투명도 조절 */ */
   display: none;
 }
 
