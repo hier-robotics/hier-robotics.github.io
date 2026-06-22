@@ -91,7 +91,6 @@ body {
   margin-top: 40px;
 }
 
-/* 클래스명 불일치 해결 (.news-box와 혼용되던 부분 통합) */
 .research-box {
   background: #f6f8fb;
   padding: 24px;
@@ -112,7 +111,7 @@ body {
 
 <!-- HERO IMAGE 구역 -->
 <section class="hero-section">
-  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-video">  
+  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-images">  
   <div class="hero-overlay"></div>
 </section>
 
