@@ -1,60 +1,138 @@
 ---
-layout: splash
-classes:
-  - landing
-  - dark-theme
-title: "Research"
+layout: page
+title: Research Directions
 permalink: /research/
 ---
 
-<br>
-
-## Safety-critical Whole-body Planning and Control
-
-<img src="/assets/images/whole_body_control.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 10px;"/>
-<p style="text-align: justify;font-size:11pt;">
-  The objective of <b>whole-body planning and control</b> is to achieve the safe and efficient operations of intricate robotic systems that incorporate multiple points of contact, complicated constraints, and floating bases. Leveraging simplified rules and tasks derived from reduced-order models, we derive comprehensive control commands for the entire body, optimizing performance while maintaining a delicate equilibrium between safety and productivity through <b>whole-body planning and control</b> strategies. Central to our research focus is the development of comprehensive whole-body controllers, reachability-based motion planning techniques, and the implementation of safety-critical planning methodologies, addressing challenges posed by the model discrepancy between reduced-order and full-body models.
+<p align="center">
+  <img src="/assets/images/Research_intro.png"
+       alt="Grand Challenges in Humanoid Robotics"
+       width="100%">
 </p>
 
-<p style="font-size:11pt;">
-- topics: multi-layered architecture / safety-crtitical control/ whole-body control
-</p>
+<div align="center">
 
-<br>
+# Building Physically Intelligent Humanoids
 
-## Sensor-based Versatile Loco-manipulation
+### Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
 
-<img src="/assets/images/perception_based_locomotion.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 10px;"/>
-<p style="text-align: justify;font-size:11pt;">
-  <b>Loco-manipulation</b> stands as a significnatly important capability for executing intricate, human-like missions in unstructured environments and wildelife. The choice of locomotion type profoundly impacts stability, dexterity, precision, and the integration of manipulation with mobility amid physical interactions. Particularly, in dynamic levels, agile and robust locomotion becomes imperative to effectively manage reactive forces for not only locomotion but also manipulation in contacts with the environment while ensuring precise global localization. To optimize agility, stability, and accuracy in <b>loco-manipulation</b>, we employ a multifaceted approach, harnessing multiple sensors within a reactive planning and control architecture. Our goal is to delve into optimization problems that dynamically ascertain the most suitable locomotion types, thereby enhancing performance and minimizing risks during the execution of long-term <b>loco-manipulation</b> missions using legged robots. This study amalgamates model-based and data-driven methodologies, leveraging uncertain measurements from the sensors of the robotic systems.
-</p>
+The **Hybrid Intelligent Experimental Robotics (HIER) Lab** develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges **planning**, **control**, **learning**, and **physical interaction** to create robots that move beyond terrain traversability and achieve true physical intelligence.
 
-<p style="font-size:11pt;">
-- topics: locomotion control / robust control / learning-based control / perception in a loop
-</p>
+</div>
 
-<br>
+---
 
-## Transformable Hardware
+## Why Humanoid Robotics?
 
-<img src="/assets/images/transformerable_hardware.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 20px;"/>
-<p style="text-align: justify;font-size:11pt;">
-  Each locomotion type boasts its own set of advantages, particularly in terms of stability. For instance, quadrupedal locomotion is better for its stability and versatility, offering a robust platform for various tasks. However, it may not be suitable for terrains with limited space and often requires additional limbs to execute additional manipulation tasks compared to bipedal locomotion. Moreover, when navigating complex environments or emulating wildlife behaviors, such as climbing and hanging, robots face formidable challenges. To address these challenges, our focus lies in the development of innovative hardware for loco-manipulation, incorporating features like <b>transformable limbs and end-effectors</b> to enhance versatility and overall performance. Drawing inspiration from nature, such as the adaptability of gorilla front limbs, we aim to create limbs capable of <b>transitioning between roles as both arms and legs</b>, endowed with powerful mechanical performance. Our efforts center on refining the mechanical structure of robotic systems, employing hybrid actuation methods that combine hydraulic and electric actuators to provide temporary enhanced power and leverage natural damping effects for extreme locomotion scenarios.
-</p>
+Recent breakthroughs have enabled humanoid robots to walk, climb stairs, and traverse rough terrain. However, operating in the real world requires substantially more than locomotion.
 
-<p style="font-size:11pt;">
-- topics: transformable hardware / hybrid dynamics / multi-purpose limbs / novel mechanisms
-</p>
+Future humanoids must simultaneously achieve:
 
-<br>
+<div align="center">
 
-## AI-based Task Scheduling
+| Agile | Safe | Precise | Adaptive |
+|:------:|:------:|:------:|:------:|
+| Dynamic whole-body motion | Formal safety guarantees | Contact-rich interaction | Lifelong learning |
+| Rapid response | Human-centered operation | Robust manipulation | Online adaptation |
+| Robust balance | Constraint satisfaction | Task accuracy | Generalization |
 
-<img src="/assets/images/AI_based.jpg" align="left" width="200px" style="margin-right: 20px;margin-top: 15px;"/>
-<p style="text-align: justify;font-size:11pt;">
-  <b>Generative AI</b> has emerged as an important component in high-level decision-making and formalizing tools through interactive communication. Moreover, the rich of data enhances the adaptability and robustness of planning and control architectures. In this context, our focus lies in constructing a layered architecture and closed-loop system incorporating high-level logic design, task scheduling, motion planning, and hardware control using <b>the AI and data-driven methods</b>. More specifically, our approach involves leveraging <b>generative AI</b> not only to guide behavioral principles by evaluating risk levels but also to define behavioral logics utilized to specific environments and missions. Furthermore, the output from low-level control within sensor-based hardware systems is returned to the generative AI, enabling the reproduction of adaptive solutions. Additionally, in this process, we are committed to developing wrappers that ensure dynamic consistency between the outcomes generated by <b>the AI</b> and the behavior of real hardware systems.  
-</p>
+</div>
 
-<p style="font-size:11pt;">
-- topics: multi-tasking in a loop with AI / learning-based mode adaptation / risk-aware reconfiguration for long-term missions 
-</p>
+These capabilities define the next frontier of humanoid robotics and form the foundation of our research agenda.
+
+---
+
+# Research Pillars
+
+---
+
+## 🚀 Safe and Agile Humanoid Control
+
+Developing dynamic locomotion and whole-body control strategies that enable humanoids to move with human-level agility while maintaining safety and robustness.
+
+**Research Topics**
+
+- Whole-Body Control (WBC)
+- Dynamic Locomotion
+- Centroidal Dynamics
+- Model Predictive Control
+- Safety-Critical Control
+- Control Barrier Functions
+
+---
+
+## 🤝 Contact-Aware Planning and Physical Intelligence
+
+Enabling humanoids to intelligently exploit environmental contacts to improve stability, reachability, and task performance.
+
+**Research Topics**
+
+- Contact-Aware Planning
+- Multi-Contact Locomotion
+- Whole-Body Manipulation
+- Mixed-Integer Optimization
+- Hybrid Dynamical Systems
+- Physical Interaction
+
+---
+
+## 🧠 Adaptive Robot Learning and Embodied Intelligence
+
+Creating robots that continuously learn, adapt, and generalize across tasks, environments, and embodiments.
+
+**Research Topics**
+
+- Reinforcement Learning
+- Lifelong Learning
+- Foundation Models for Robotics
+- Sim-to-Real Transfer
+- Online Adaptation
+- Morphology-Aware Intelligence
+
+---
+
+# Grand Challenges
+
+The image above highlights several fundamental challenges that remain unsolved in humanoid robotics:
+
+### Dynamicity vs. Precision
+
+How can robots move dynamically while maintaining manipulation accuracy?
+
+### Safety vs. Performance
+
+How can robots maximize agility without sacrificing formal safety guarantees?
+
+### Adaptation in Unknown Environments
+
+How can robots operate reliably beyond their training distribution?
+
+### Intelligent Contact Utilization
+
+How can humanoids autonomously determine when, where, and how to establish environmental contacts?
+
+### Lifelong Improvement
+
+How can robots continuously acquire knowledge throughout deployment without catastrophic forgetting?
+
+---
+
+# Our Approach
+
+At HIER Lab, we believe that physical intelligence emerges from the integration of four tightly coupled components:
+
+<div align="center">
+
+### Planning × Control × Learning × Embodiment
+
+</div>
+
+We combine optimization-based planning, whole-body control, machine learning, and morphology-aware design to develop robotic systems capable of robust operation in real-world environments.
+
+---
+
+# Long-Term Vision
+
+> To create humanoid robots that move dynamically, interact safely, exploit contacts intelligently, and continuously adapt to new environments.
+
+By bridging model-based robotics and modern AI, HIER Lab seeks to establish the scientific foundations of physically intelligent robots capable of working alongside humans in complex and unstructured environments.
