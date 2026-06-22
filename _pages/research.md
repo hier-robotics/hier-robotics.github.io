@@ -18,11 +18,10 @@ body {
 
 .hero-section {
   position: relative;
-  width: 100%;
-  max-width: 1050px; /* 너무 커지지 않도록 최대 너비 제한 */
-  margin: 20px auto 0 auto;
-  overflow: hidden;
+  height: 520px;
+  /* overflow: hidden; */
   border-radius: 14px;
+  margin-top: 20px;
 }
 
 .hero-video {
@@ -54,12 +53,8 @@ body {
 }
 
 .hero-images img {
-  width: 100% ;  /* 부모 너비에 무조건 맞춤 */
-  height: auto ; /* 가로에 맞춰 세로 높이가 자동으로 늘어남 (잘림 방지 핵심) */
-  object-fit: fill;     /* 비율 유지하며 fill */
-  position: relative;      /* absolute로 붕 떠있던 기본 설정을 해제 */
-  top: auto;
-  left: auto;
+  height: 400px;         /* 고정 높이 */
+  object-fit: contain;     /* 비율 유지하며 Crop */
   flex: 1;               /* 반씩 공간 차지 */
   min-width: 0;          
   border-radius: 12px;
