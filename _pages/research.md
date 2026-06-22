@@ -49,7 +49,7 @@ body {
   display: flex;         /* 가로 배치 */
   gap: 20px;            /* 사진 사이 간격 */
   justify-content: center; /* 중앙 정렬 */
-  width: 100%;
+  width: 90%;
   margin: 40px 0;
 }
 
