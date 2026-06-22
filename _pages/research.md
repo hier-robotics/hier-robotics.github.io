@@ -22,7 +22,7 @@ body {
   height: 520px;             /* 1. 요청하신 대로 높이를 520px로 절대 고정 */
   background-color: #ffffff; /* 2. 이미지가 조절되면서 생기는 여백을 흰색으로 채워 일체감 부여 */
   border-radius: 14px;
-  margin-top: 20px;
+  margin-top: 40px;
   
   /* 3. 내부 이미지를 상하좌우 정중앙에 배치하기 위한 정렬 세팅 */
   display: flex;
