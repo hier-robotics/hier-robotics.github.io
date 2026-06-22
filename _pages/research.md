@@ -10,54 +10,41 @@ permalink: /research/
 
 <style>
 
+/* GENERAL RESETS & LIGHT THEME */
+body {
+  background-color: #ffffff !important;
+  color: #333333 !important;
+}
+
 /* HERO SECTION */
-
-.hero-section{
-position:relative;
-height:520px;
-overflow:hidden;
+.hero-section {
+  position: relative;
+  height: 520px;
+  overflow: hidden;
+  border-radius: 14px;
+  margin-top: 20px;
 }
 
-.hero-video{
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-object-fit:cover;
-z-index:-1;
+.hero-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
 }
 
-.hero-overlay{
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-background:rgba(0,0,0,0.45);
-}
-
-.hero-text{
-position:absolute;
-top:50%;
-left:50%;
-transform:translate(-50%,-50%);
-color:white;
-text-align:center;
-max-width:800px;
-}
-
-.hero-text h1{
-font-size:48px;
-margin-bottom:10px;
-}
-
-.hero-text p{
-font-size:18px;
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.05); /* 흰색 배경에 맞춰 오버레이 투명도 조절 */
 }
 
 /* IMAGE SECTION */
-
 .hero-images {
   display: flex;         /* 가로 배치 */
   gap: 20px;            /* 사진 사이 간격 */
@@ -67,75 +54,75 @@ font-size:18px;
 }
 
 .hero-images img {
-  /* 핵심 코드: 고정된 높이를 부여하여 통일감 생성 */
-  height: 400px;         /* 원하는 높이로 조절하세요 */
-  
-  /* 핵심 코드: 비율이 달라도 컨테이너에 꽉 차게 조절 (중앙 기준 Crop) */
-  object-fit: cover;
-  
-  /* 유연한 너비 설정 (모바일 대응) */
-  flex: 1;               /* 남은 공간을 반씩 차지 */
-  min-width: 0;          /* Flexbox 버그 방지 */
-  
-  /* 부가 스타일 */
+  height: 400px;         /* 고정 높이 */
+  object-fit: cover;     /* 비율 유지하며 Crop */
+  flex: 1;               /* 반씩 공간 차지 */
+  min-width: 0;          
   border-radius: 12px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
   transition: transform 0.3s ease;
 }
 
-/* 마우스 호버 효과 (선택 사항) */
 .hero-images img:hover {
   transform: scale(1.02);
 }
 
-/* 모바일 대응: 세로로 쌓기 */
+/* 모바일 대응 */
 @media (max-width: 768px) {
   .hero-images {
     flex-direction: column;
     gap: 15px;
   }
   .hero-images img {
-    height: 300px;       /* 모바일에서는 높이를 조금 줄임 */
+    height: 300px;
     width: 100%;
   }
 }
   
-.research-section{
-margin-top:60px;
+.research-section {
+  margin-top: 40px;
 }
 
-.research-box{
-background:#f6f8fb;
-padding:20px;
-border-radius:8px;
+/* 클래스명 불일치 해결 (.news-box와 혼용되던 부분 통합) */
+.research-box {
+  background: #f6f8fb;
+  padding: 24px;
+  border-radius: 12px;
+  border: 1px solid #eef2f6;
+  margin-top: 20px;
 }
 
-.research-box p{
-font-size:11pt;
-text-align:justify;
+.research-box p {
+  font-size: 11pt;
+  text-align: justify;
+  line-height: 1.7;
+  color: #333333;
 }  
 
-<!-- HERO VIDEO -->
+</style>
 
+
+<!-- HERO IMAGE 구역 -->
 <section class="hero-section">
-
-<img src="/assets/images/main_image.png" alt="Robot Image" class="hero-video">  
-
-<div class="hero-overlay"></div>
-
+  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-video">  
+  <div class="hero-overlay"></div>
 </section>
+
   
+<!-- 연구 내용 소개 구역 -->
 <section class="research-section">
 
-<h2 style="text-align:center;margin-top:60px">Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
-</h2>
+  <h2 style="text-align:center; margin-top:40px; color:#003366; font-weight:700;">
+    Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
+  </h2>
 
-<div class="research-box">
-<p> The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab</b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning</b>, <b>control</b>, <b>learning</b>, and <b>physical interaction</b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence. </p>
-</div>
+  <div class="research-box">
+    <p>
+      The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab</b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning</b>, <b>control</b>, <b>learning</b>, and <b>physical interaction</b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence.
+    </p>
+  </div>
 
 </section>
-
   
 
 
