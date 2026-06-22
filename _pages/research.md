@@ -49,13 +49,13 @@ body {
   display: flex;         /* 가로 배치 */
   gap: 20px;            /* 사진 사이 간격 */
   justify-content: center; /* 중앙 정렬 */
-  width: 90%;
+  width: 100%;
   margin: 40px 0;
 }
 
 .hero-images img {
   height: 400px;         /* 고정 높이 */
-  object-fit: cover;     /* 비율 유지하며 Crop */
+  object-fit: contain;     /* 비율 유지하며 Crop */
   flex: 1;               /* 반씩 공간 차지 */
   min-width: 0;          
   border-radius: 12px;
