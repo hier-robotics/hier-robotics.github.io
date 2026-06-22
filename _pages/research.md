@@ -120,33 +120,29 @@ body {
     <p>
       The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab</b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning</b>, <b>control</b>, <b>learning</b>, and <b>physical interaction</b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence.
     </p>
+    <p>
+      Recent breakthroughs have enabled humanoid robots to walk, climb stairs, and traverse rough terrain. However, operating in the real world requires substantially more than standard locomotion. To achieve true full autonomy, future humanoids must simultaneously master **Agility, Safety, Precision, and Adaptability**. These requirements introduce deep theoretical and experimental trade-offs that define the core research agenda of the HIER Lab.
+    </p>
+  </div>
+</section>
+
+
+<section class="research-section">
+
+  <h2 style="text-align:center; margin-top:40px; color:#003366; font-weight:700;">
+    Core Research Pillars
+  </h2>
+
+  <div class="research-box">
+    <p>🚀 <b>Pillar 1: Agile Speed Control & Safety-Critical Dynamics</b>: We develop optimization-based control architectures and dynamic locomotion strategies that allow full-body humanoids to maneuver with human-level agility while providing mathematical safety guarantees. </p>
   </div>
 
 </section>
-  
 
 
-<div align="center">
 
-# Building Physically Intelligent Humanoids
 
-## Towards Agile, Safe, Precise, and Adaptive Robots for the Real World
-
-The **Hybrid Intelligent Experimental Robotics (HIER) Lab** develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges **planning**, **control**, **learning**, and **physical interaction** to create robots that move beyond simple terrain traversability and achieve true physical intelligence.
-
-</div>
-
----
-
-## The Next Frontier of Humanoid Robotics
-
-Recent breakthroughs have enabled humanoid robots to walk, climb stairs, and traverse rough terrain. However, operating in the real world requires substantially more than standard locomotion. 
-
-To achieve true full autonomy, future humanoids must simultaneously master **Agility, Safety, Precision, and Adaptability**. These requirements introduce deep theoretical and experimental trade-offs that define the core research agenda of the HIER Lab.
-
----
-
-# Core Research Pillars
+# 
 
 We systematically address the **6 Key Open Problems** in humanoid robotics by dividing our research into three tightly coupled pillars, blending model-based control theory with modern embodied AI.
 
