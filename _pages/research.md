@@ -121,7 +121,7 @@ body {
       The <b>Hybrid Intelligent Experimental Robotics (HIER) Lab</b> develops next-generation humanoid robots capable of operating autonomously in complex and dynamic environments. Our research bridges <b>planning</b>, <b>control</b>, <b>learning</b>, and <b>physical interaction</b> to create robots that move beyond simple terrain traversability and achieve true physical intelligence.
     </p>
     <p>
-      Recent breakthroughs have enabled humanoid robots to walk, climb stairs, and traverse rough terrain. However, operating in the real world requires substantially more than standard locomotion. To achieve true full autonomy, future humanoids must simultaneously master **Agility, Safety, Precision, and Adaptability**. These requirements introduce deep theoretical and experimental trade-offs that define the core research agenda of the HIER Lab.
+      Recent breakthroughs have enabled humanoid robots to walk, climb stairs, and traverse rough terrain. However, operating in the real world requires substantially more than standard locomotion. To achieve true full autonomy, future humanoids must simultaneously master <b>Agility, Safety</b>, <b>Precision</b>, and <b>Adaptability</b>. These requirements introduce deep theoretical and experimental trade-offs that define the core research agenda of the HIER Lab.
     </p>
   </div>
 </section>
@@ -135,66 +135,27 @@ body {
 
   <div class="research-box">
     <p>🚀 <b>Pillar 1: Agile Speed Control & Safety-Critical Dynamics</b>: We develop optimization-based control architectures and dynamic locomotion strategies that allow full-body humanoids to maneuver with human-level agility while providing mathematical safety guarantees. </p>
+    <p> - <b>Agile Motion Generation</b>: Overcoming the limitations of current methods by enabling rapid acceleration, deceleration, and sharp maneuvering without sacrificing whole-body balance.</p>
+    <p> - <b>Safety–Performance Optimization</b>: Utilizing Control Barrier Functions (CBFs) and Model Predictive Control (MPC) to establish formal safety boundaries, allowing the robot to maximize performance without risking catastrophic system instability.</p>
+    <p> - <b>Dynamicity-Precision Balancing</b>: Developing frameworks that resolve the inherent trade-off between high dynamicity (fast, powerful motions) and high precision (accurate, stable contact execution) during rapid real-world deployment.</p>
   </div>
 
+  <div class="research-box">
+    <p>🤝 <b>Pillar 2: Multi-Contact Planning & Environmental Intelligence</b>:  We empower humanoid robots to intelligently perceive their surroundings and exploit multi-contact interactions with the environment to expand their stability, reachability, and task capabilities.</p>
+    <p> - <b>Locomotion in Unmodeled Environments</b>: Engineering real-time perception and predictive control algorithms that allow legged systems to adjust to moving obstacles, sudden terrain variations, and external disturbances.</p>
+    <p> - <b>Multi-Contact Decision Making</b>: Solving computationally intensive mixed-integer and non-linear optimization problems to enable robots to autonomously determine when, where, and how to sequence contacts using hands, arms, and legs.</p>
+    <p> - <b>Whole-Body Loco-Manipulation</b>: Creating unified frameworks where locomotion and manipulation merge, enabling rich physical interaction with unstructured surroundings.</p>
+  </div>
+
+
+  <div class="research-box">
+    <p>🧠 <b>Pillar 3: Lifelong Adaptation & Embodied AI</b>:  We investigate data-driven methods and modern robotic learning paradigms to build humanoids capable of continuous improvement throughout their operational lifespan.</p>
+    <p> - <b>Sim-to-Real Generalization</b>: Applying advanced Reinforcement Learning (RL) that remains robust even when deployed well outside the initial offline training distributions.</p>
+    <p> - <b>Lifelong Learning with Safety Bounds</b>: Developing adaptation loops—Perceive, Adapt, Learn, Deploy—ensuring the robot continuously learns from new tasks and environments without catastrophic forgetting.</p>
+    <p> - <b>Morphology-Aware Intelligence</b>: Designing algorithms that automatically compensate for physical or morphological changes in the robot hardware during long-term field deployment.</p>
+  </div>
+  
 </section>
 
 
 
-
-# 
-
-We systematically address the **6 Key Open Problems** in humanoid robotics by dividing our research into three tightly coupled pillars, blending model-based control theory with modern embodied AI.
-
----
-
-## 🚀 Pillar 1: Agile Speed Control & Safety-Critical Dynamics
-*Addressing Key Problems (1) Agile Speed Control, (3) Safety-Performance Trade-off, and (4) Dynamicity-Precision Trade-off*
-
-We develop optimization-based control architectures and dynamic locomotion strategies that allow full-body humanoids to maneuver with human-level agility while providing mathematical safety guarantees.
-
-* **Agile Motion Generation:** Overcoming the limitations of current methods by enabling rapid acceleration, deceleration, and sharp maneuvering without sacrificing whole-body balance.
-* **Safety–Performance Optimization:** Utilizing Control Barrier Functions (CBFs) and Model Predictive Control (MPC) to establish formal safety boundaries, allowing the robot to maximize performance without risking catastrophic system instability.
-* **Dynamicity-Precision Balancing:** Developing frameworks that resolve the inherent trade-off between high dynamicity (fast, powerful motions) and high precision (accurate, stable contact execution) during rapid real-world deployment.
-
----
-
-## 🤝 Pillar 2: Multi-Contact Planning & Environmental Intelligence
-*Addressing Key Problems (2) Locomotion in Unknown Environments and (5) Multi-Contact Decision Making*
-
-We empower humanoid robots to intelligently perceive their surroundings and exploit multi-contact interactions with the environment to expand their stability, reachability, and task capabilities.
-
-* **Locomotion in Unmodeled Environments:** Engineering real-time perception and predictive control algorithms that allow legged systems to adjust to moving obstacles, sudden terrain variations, and external disturbances.
-* **Multi-Contact Decision Making:** Solving computationally intensive mixed-integer and non-linear optimization problems to enable robots to autonomously determine when, where, and how to sequence contacts using hands, arms, and legs.
-* **Whole-Body Loco-Manipulation:** Creating unified frameworks where locomotion and manipulation merge, enabling rich physical interaction with unstructured surroundings.
-
----
-
-## 🧠 Pillar 3: Lifelong Adaptation & Embodied AI
-*Addressing Key Problem (6) Lifelong Adaptation and Generalization*
-
-We investigate data-driven methods and modern robotic learning paradigms to build humanoids capable of continuous improvement throughout their operational lifespan.
-
-* **Sim-to-Real Generalization:** Applying advanced Reinforcement Learning (RL) that remains robust even when deployed well outside the initial offline training distributions.
-* **Lifelong Learning with Safety Bounds:** Developing adaptation loops—*Perceive, Adapt, Learn, Deploy*—ensuring the robot continuously learns from new tasks and environments without catastrophic forgetting.
-* **Morphology-Aware Intelligence:** Designing algorithms that automatically compensate for physical or morphological changes in the robot hardware during long-term field deployment.
-
----
-
-# Our Approach
-
-At HIER Lab, we believe that physical intelligence emerges from the integration of four fundamental elements:
-
-<div align="center">
-
-### Planning × Control × Learning × Embodiment
-
-</div>
-
-By bridging optimization-based planning, whole-body control, machine learning, and hardware innovation, we establish the scientific foundations for robots capable of working safely and efficiently alongside humans.
-
----
-
-# Long-Term Vision
-
-> To create humanoid robots that move dynamically, interact safely, exploit contacts intelligently, and continuously adapt to new environments.
