@@ -53,6 +53,7 @@ body {
   display: flex;         /* 가로 배치 */
   gap: 20px;            /* 사진 사이 간격 */
   justify-content: center; /* 중앙 정렬 */
+  background-color: #ffffff; 
   width: 100%;
   margin: 40px 0;
 }
