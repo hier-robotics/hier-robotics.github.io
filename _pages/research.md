@@ -103,13 +103,6 @@ body {
 </style>
 
 
-<!-- HERO IMAGE 구역 -->
-<section class="hero-section">
-  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-video">  
-  <div class="hero-overlay"></div>
-</section>
-
-  
 <!-- 연구 내용 소개 구역 -->
 <section class="research-section">
 
@@ -126,6 +119,14 @@ body {
     </p>
   </div>
 </section>
+
+
+<!-- HERO IMAGE 구역 -->
+<section class="hero-section">
+  <img src="/assets/images/Research_intro.jpg" alt="Key Open Problems" class="hero-video">  
+  <div class="hero-overlay"></div>
+</section>
+
 
 
 <section class="research-section">
