@@ -70,7 +70,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
     • M.S.(-), - <br>  
     • B.S.(-), - <br>
@@ -79,7 +79,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
     • M.S.(-), - <br>  
     • B.S.(-), - <br>
@@ -88,7 +88,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
     • M.S.(-), - <br>  
     • B.S.(-), - <br>
