@@ -71,19 +71,28 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
+    • M.S.(-), - <br>  
+    • B.S.(-), - <br>
+    • Topic: - 
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
+    • M.S.(-), - <br>  
+    • B.S.(-), - <br>
+    • Topic: -   
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Incoming Ph.D. Student</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
+    • M.S.(-), - <br>  
+    • B.S.(-), - <br>
+    • Topic: - 
     </p>
   </div>
 </div>
