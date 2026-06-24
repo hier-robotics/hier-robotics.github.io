@@ -85,7 +85,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
     • M.S.(2026), University of Southern California, CA <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
-    • Visiting Student (2025), Georgia Institute of Technology <br>      
+    • Visiting Student (2025), Georgia Institute of Technology, GA <br>      
     • Topic: Fault-aware Safe Learning for Humanoid Locomanipulation  
     </p>
   </div>
