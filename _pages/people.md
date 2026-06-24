@@ -129,7 +129,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Nicholas Sutton</b> (<br>
+Nicholas Sutton</b> <br>
      • Topic: Motion planning, Tele-locomotion 
     </p>
   </div>
