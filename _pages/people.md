@@ -73,7 +73,7 @@ permalink: /people/
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
     • M.S.(),  <br>  
-    • B.S.(2024), KAIST, Korea <br>
+    • B.S.(2024), Korea Advanced Institute of Science and Technology (KAIST), Korea <br>
     • Research Intern (-), - <br>     
     • Topic: - 
     </p>
@@ -82,7 +82,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
-    • M.S.(2026), University of Southern California, CA, US <br>  
+    • M.S.(2026), University of Southern California (USC), CA, US <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
     • Visiting Student (),  <br>      
     • Topic: -   
@@ -92,7 +92,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
-    • B.S.(2026), Seoul National University, Korea <br>  
+    • B.S.(2026), Seoul National University (SNU), Korea <br>  
     • Visiting Student (2025), NCSU, NC, US <br>
     • Topic: - 
     </p>
