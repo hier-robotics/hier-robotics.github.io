@@ -63,7 +63,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (MAE) <br> 
     • M.S.(2022), Hanyang University, Korea <br>  
     • B.S.(2020), Hanyang University, Korea <br>
-    • Visiting Student (2022), University of California, Los Angeles<br>
+    • Visiting Student (2022), University of California, Los Angeles, CA<br>
     • Research Intern (2023-2024), KIST, Korea <br>
     • Topic: Whole-body control for Locomanipulation of humanoids
     </p>
@@ -72,7 +72,7 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
-    • Ph.D. Studies (2024-2026), Stony Brook University <br>  
+    • Ph.D. Studies (2024-2026), Stony Brook University, NY <br>  
     • B.S.(2024), KAIST <br>
     • Research Intern (2025) VinMotion, Vietnam  <br>
     • Research Intern (2024) LG Electronics, Korea  <br>    
@@ -83,7 +83,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
-    • M.S.(2026), University of Southern California <br>  
+    • M.S.(2026), University of Southern California, CA <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
     • Visiting Student (2025), Georgia Institute of Technology <br>      
     • Topic: Fault-aware Safe Learning for Humanoid Locomanipulation  
@@ -94,7 +94,7 @@ permalink: /people/
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
     • B.S.(2026), Seoul National University, Korea <br>  
-    • Visiting Student (2025), North Carolina State Unversity <br>
+    • Visiting Student (2025), North Carolina State Unversity, NC <br>
     • Topic: Context-aware Adaptive Framework for Long-horizon Robotic Tasks
     </p>
   </div>
