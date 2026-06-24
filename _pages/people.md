@@ -72,7 +72,7 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
-    • M.S.(-), - <br>  
+    • M.S.(),  <br>  
     • B.S.(2024), KAIST, Korea <br>
     • Research Intern (-), - <br>     
     • Topic: - 
@@ -84,7 +84,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
     • M.S.(2026), University of Southern California, CA, US <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
-    • Visiting Student (-), - <br>      
+    • Visiting Student (),  <br>      
     • Topic: -   
     </p>
   </div>
