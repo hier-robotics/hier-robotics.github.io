@@ -76,7 +76,7 @@ permalink: /people/
     • B.S.(2024), KAIST, Korea <br>
     • Research Intern (2025) VinMotion, Vietnam  <br>
     • Research Intern (2024) LG Electronics,  Korea  <br>    
-    • Topic: - 
+    • Topic: Morphology-aware Interactive Humanoid Manipulation 
     </p>
   </div>
 
@@ -86,7 +86,7 @@ permalink: /people/
     • M.S.(2026), University of Southern California (USC), CA, US <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
     • Visiting Student (2025), Georgia Institute of Technology, GA, US <br>      
-    • Topic: -   
+    • Topic: Fault-aware Safe Learning for Humanoid Locomanipulation  
     </p>
   </div>
 
@@ -95,7 +95,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
     • B.S.(2026), Seoul National University (SNU), Korea <br>  
     • Visiting Student (2025), NCSU, NC, US <br>
-    • Topic: - 
+    • Topic: Context-aware Adaptive Framework for Long-horizon Robotic Tasks
     </p>
   </div>
 </div>
