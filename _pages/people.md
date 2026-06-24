@@ -72,8 +72,8 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
-    • Ph.D. Studies (2024-2026), Stony Brook University (SBU), NY, US  <br>  
-    • B.S.(2024), Korea Advanced Institute of Science and Technology (KAIST), Korea <br>
+    • Ph.D. Studies (2024-2026), Stony Brook University, NY, US  <br>  
+    • B.S.(2024), KAIST, Korea <br>
     • Research Intern (2025) VinMotion, Vietnam  <br>
     • Research Intern (2024) LG Electronics,  Korea  <br>    
     • Topic: - 
