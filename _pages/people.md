@@ -72,9 +72,10 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
-    • M.S.(),  <br>  
+    • Ph.D. Studies (2024-2026), Stony Brook University (SBU), NY, US  <br>  
     • B.S.(2024), Korea Advanced Institute of Science and Technology (KAIST), Korea <br>
-    • Research Intern (),  <br>     
+    • Research Intern (2025) VinMotion, Vietnam  <br>
+    • Research Intern (2024) LG Electronics,  Korea  <br>    
     • Topic: - 
     </p>
   </div>
@@ -84,7 +85,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
     • M.S.(2026), University of Southern California (USC), CA, US <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
-    • Visiting Student (),  <br>      
+    • Visiting Student (2025), Georgia Institute of Technology, GA, US <br>      
     • Topic: -   
     </p>
   </div>
