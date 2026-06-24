@@ -38,10 +38,10 @@ permalink: /people/
         <!-- 서비스 및 리더십 섹션 (새로 추가된 부분) -->
         <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 14pt; border-bottom: 1px solid #eee; padding-bottom: 5px;">🏛️ Professional Service & Leadership</h3>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
-            • Faculty Member, NC State Robotics Steering Committee (2025 – Present)
+            • Faculty Member, <em>NC State Robotics Steering Committee</em> (2025 – Present)
         </p>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
-            • Associate Faculty Member, xGI Initiative, NC State University (2026 – Present)
+            • Associate Faculty Member, <em>xGI Initiative, NC State University </em> (2026 – Present)
         </p>
         <p style="font-size:11pt; margin: 8px 0 0 0; line-height: 1.4;">
             • Associate Editor, <em>IEEE Robotics and Automation Letters (IEEE RA-L)</em> (2024 – Present)
@@ -73,7 +73,7 @@ permalink: /people/
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
     • M.S.(-), - <br>  
-    • B.S.(-), - <br>
+    • B.S.(2024), KAIST, Korea <br>
     • Topic: - 
     </p>
   </div>
@@ -81,8 +81,9 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
-    • M.S.(-), - <br>  
-    • B.S.(-), - <br>
+    • M.S.(2026), University of Southern California, CA, US <br>  
+    • B.S.(2024), Hong Kong Baptist University, China <br>
+    • Visiting Student (-), - <br>      
     • Topic: -   
     </p>
   </div>
@@ -90,8 +91,8 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
-    • M.S.(-), - <br>  
-    • B.S.(-), - <br>
+    • B.S.(2026), Seoul National University, Korea <br>  
+    • Visiting Student (2025), NCSU, NC, US <br>
     • Topic: - 
     </p>
   </div>
