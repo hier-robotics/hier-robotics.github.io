@@ -74,6 +74,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
     • M.S.(-), - <br>  
     • B.S.(2024), KAIST, Korea <br>
+    • Research Intern (-), - <br>     
     • Topic: - 
     </p>
   </div>
