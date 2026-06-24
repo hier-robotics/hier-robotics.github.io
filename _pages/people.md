@@ -58,7 +58,7 @@ permalink: /people/
 
 ## Ph.D. Students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
-  <div style="text-align: center;">
+  <div style="text-align: left;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (MAE) <br> 
     • M.S.(2022), Hanyang University, Korea <br>  
