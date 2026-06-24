@@ -60,7 +60,7 @@ permalink: /people/
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (MAE) <br> 
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> <br> 
     • M.S.(2022), Hanyang University, Korea <br>  
     • B.S.(2020), Hanyang University, Korea <br>
     • Visiting (2022), University of California, Los Angeles, CA<br>
@@ -71,7 +71,7 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> <br>
     • Ph.D. Studies (2024-2026), Stony Brook University, NY <br>  
     • B.S.(2024), KAIST, Korea <br>
     • Research Intern (2025) VinMotion, Vietnam  <br>
@@ -82,7 +82,7 @@ permalink: /people/
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> <br>
     • M.S.(2026), University of Southern California, CA <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
     • Visiting (2025), Georgia Institute of Technology, GA <br>      
@@ -92,7 +92,7 @@ permalink: /people/
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> <br>
     • B.S.(2026), Seoul National University, Korea <br>  
     • Visiting (2025), North Carolina State Unversity, NC <br>
     • Topic: Context-aware Adaptive Framework for Long-horizon Robotic Tasks
@@ -106,7 +106,7 @@ permalink: /people/
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> (MAE)<br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
        • ABM (Expected 2027), North Carolina State University <br>
        • Topic: Transformable robots
     </p>
@@ -114,7 +114,7 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> (MAE)<br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
        • ABM (Expected 2027), North Carolina State University<br>
        • Topic: Hybrid control for manipulators
     </p>
@@ -129,7 +129,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Nicholas Sutton</b> (CSC)<br>
+Nicholas Sutton</b> (<br>
      • Topic: Motion planning, Tele-locomotion 
     </p>
   </div>
@@ -145,28 +145,28 @@ Wonho Jung</b> <br>
 
   <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> (MAE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
       • Topic: Perception-guided planning and control
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> (ECE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
       • Topic: Dual-Arm manipulator
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> (CSC) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> <br>
       • Topic: Vision-guided hand manipluation
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> (MAE) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> <br>
      • Topic: Robot Hardware Design
     </p>
   </div>
