@@ -81,7 +81,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
+    <img src="/assets/images/Jingxi_Lu.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> <br>
     • M.S.(2026), University of Southern California, CA <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
@@ -91,7 +91,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
+    <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> <br>
     • B.S.(2026), Seoul National University, Korea <br>  
     • Visiting (2025), North Carolina State Unversity, NC <br>
