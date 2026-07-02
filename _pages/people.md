@@ -70,7 +70,7 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
+    <img src="/assets/images/Tony_Ho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> <br>
     • M.S.(2026), Stony Brook University, NY <br>  
     • B.S.(2024), KAIST, Korea <br>
