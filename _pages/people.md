@@ -108,7 +108,7 @@ permalink: /people/
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
        • ABM (Expected 2027), North Carolina State University <br>
-       • Topic: Transformable robots
+       • Topic: Transformable robots 
     </p>
   </div>
 
