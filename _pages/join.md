@@ -105,11 +105,7 @@ We accept new Ph.D. students annually, subject to available grants and fellowshi
   <span class="badge badge-closed">2026 — Closed</span> <strong>The 2026 admission cycle is finished.</strong> </div>
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2027 — Open</span> <strong>Hierarchical RL-based whole-body control</strong>
-</div>
-
-<div class="notice notice-open">
-  <span class="badge badge-open">2027 — Open</span> <strong>Tele-whole-body control of humanoids</strong>
+  <span class="badge badge-open">2027 — Open</span> <strong>Hierarchical RL-based whole-body control</strong> or <strong>Tele-whole-body control of humanoids</strong>
 </div>
 
 <a class="cta-btn cta-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSf12F7a69N05kfKWwhAMZGzGm1A9pB-n3qlT5zlWiW54e6txw/viewform?usp=header" target="_blank">Google form for Ph.D. positions →</a>
