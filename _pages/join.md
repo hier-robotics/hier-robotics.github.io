@@ -126,21 +126,24 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Robot Hardware Development</strong>
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Robot Hardware Development</strong> (Collaborator: Dr. Lee) <br>
+  Requirements: CAD, Motor Control, PCB skills or experiences.
 </div>
 
-<div class="notice notice-closed">
-  <span class="badge badge-closed">2026 Summer,Fall — Closed </span> <strong>Vision-Guided Hand Manipulation</strong> (Collaborator: JunYoung)
+<div class="notice notice-open">
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Safe Navigation of Quadruped Robots</strong> (Collaborator: Jingxi Lu) <br>
+  Requirements: CAD, basic Python/C++ skills. 
 </div>
 
 
-<div class="notice notice-closed">
-  <span class="badge badge-closed">2026 Summer,Fall — Closed </span> <strong>Dual-Arm Teleoperation with a Moving Base</strong> (Collaborator: David)
-</div>
+<!-- <div class="notice notice-open">
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong> </strong> (Collaborator: David)
+</div> -->
 
   
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Summer,Fall — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea)
+  <span class="badge badge-open">2026 Fall / 2027 Spring — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea) <br>
+  Requirements: CAD, Motor Control, basic Python/C++ skills.   
 </div>
 
 <a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Google form for B.S./M.S positions →</a>
