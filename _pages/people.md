@@ -127,33 +127,9 @@ permalink: /people/
 ## B.S. and Visiting Students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
-    <img src="/assets/images/nwsutton.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Nicholas Sutton" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Nicholas Sutton</b> <br>
-     • Topic: Motion planning, Tele-locomotion 
-    </p>
-  </div>
-
-  <div style="text-align: center;">  
-    <img src="/assets/images/Wonho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Wonho Jung"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
-Wonho Jung</b> <br>
-    Visiting Student from Seoul National University <br>
-     • Topic: Safety-critical navigation
-    </p>
-  </div>
-
-  <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
       • Topic: Perception-guided planning and control
-    </p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="/assets/images/Josh_1.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Josh Bang"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Josh Bang</b> <br>
-      • Topic: Dual-Arm manipulator
     </p>
   </div>
 
