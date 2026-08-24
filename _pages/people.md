@@ -203,6 +203,7 @@ Jakub Jon (2025, M.S., Visiting) - Helsing
 
 ## Formal Students (Undergraduate Students)
 <p style="text-align: justify;font-size:11pt;">
+Wonho Jung (2026, B.S., Visiting) - M.S. Student, Seoul National University<br>
 Hanbin Jang (2025, B.S., Visiting) - Ph.D. Student, HIER Lab, North Carolina State University<br>
 Keagan Donovan (2025, B.S., MAE) - Blue Origin <br>
 Ali Mohamed-Alie (2025, B.S., MAE) - Air Distribution Technologies, Inc.  
