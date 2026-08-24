@@ -136,21 +136,21 @@ permalink: /people/
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> (MAE 2026) <br>
       • Topic: Perception-guided planning and control
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> (CSC 2026) <br>
       • Topic: Vision-guided hand manipluation
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> (MAE 2026) <br>
      • Topic: Robot Hardware Design
     </p>
   </div>
