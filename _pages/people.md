@@ -107,7 +107,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> <br>
-       • ABM (Expected 2027), North Carolina State University <br>
+       • ABM, North Carolina State University <br>
        • Topic: Transformable robots 
     </p>
   </div>
@@ -115,8 +115,16 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> <br>
-       • ABM (Expected 2027), North Carolina State University<br>
+       • ABM, North Carolina State University<br>
        • Topic: Hybrid control for manipulators
+    </p>
+  </div>
+
+  <div style="text-align: center;">  
+    <img src="/assets/images/Rae.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Rae E. Heinzerling</b> <br>
+       • B.S.(2025), North Carolina State University<br>
+       • Topic: 
     </p>
   </div>
 
