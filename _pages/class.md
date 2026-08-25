@@ -17,7 +17,7 @@ permalink: /class/
   <li><a href="#mae-589-modern-robotics-fall" style="font-size:18px;"><b>MAE 589 Modern Robotics (Undergraduate/Graduate: basic course)</b></a></li>
 </ul>
 
-
+<!--
 ## MAE 589 Advanced Robotics (Advanced)
 <p style="text-align: justify;font-size:11pt;">
  This class will be offered in Spring semesters <br>
@@ -447,3 +447,4 @@ Attendance is strongly encouraged. However, if you need to miss class due to rea
 3. <b> Project Proposal </b>: Students will define their own research problems. To demonstrate the significance and challenges of the proposed project, <b>at least 5 relevant academic papers</b> must be cited.   <b>(3 pages PPT)</b> <br>
 4. <b> Project Milestone </b>: Students will present the progress of their projects, including both theoretical development and practical demonstrations. The presentation must clearly indicate the overall completeness of the project and outline any challenges that may prevent full completion. <b>(3 pages PPT)</b> <br>
 5. <b> Project Presentation/Report </b>: Students will deliver a final presentation covering the entire project—from problem definition to validation <b>(10 pages PPT)</b>. They must submit a final report formatted according to the <b>IEEE conference template</b>, with <b>5 pages for content and 1 additional page for references (more than 15 papers)</b> 
+-->
