@@ -121,10 +121,18 @@ permalink: /people/
   </div>
 
   <div style="text-align: center;">  
-    <img src="/assets/images/Rae.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
+    <img src="/assets/images/Rae.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Heinzerling"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Rae E. Heinzerling</b> (MAE 2026) <br>
        • B.S.(2025), North Carolina State University<br>
        • Topic: Active Vision using an Eye-in-Hand Camera
+    </p>
+  </div>
+
+  <div style="text-align: center;">  
+    <img src="/assets/images/Craig_Bowman" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Craig Bowman</b> (MAE 2026) <br>
+       • B.S.(2025), University of North Carolina at Charlotte<br>
+       • Topic: RL-based Control of Robots
     </p>
   </div>
 
