@@ -162,6 +162,13 @@ permalink: /people/
      • Topic: Robot Hardware Design
     </p>
   </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/Mattew.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Mattew"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Matthew Mitchell</b> (MAE 2026) <br>
+     • Topic: Robot Control and Design
+    </p>
+  </div>
   
 </div>
 
