@@ -12,6 +12,21 @@ permalink: /publications/
 ## 2026
 
 <p style="font-size:11pt">
+  <b>RL-base safe quadrupedal navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  Jinxi Lu and Jaemin Lee <br>
+</p>
+
+<p style="font-size:11pt">
+  <b>Model-based safe quadrupedal navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  Wonho Jung, JunYoung Kim, and Jaemin Lee <br>
+</p>
+
+<p style="font-size:11pt">
+  <b>Robot Perception and Manipulation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  Anh Tung Ho, Jaemin Lee, and External Collaborators <br>
+</p>
+
+<p style="font-size:11pt">
   <b>Learning-driven Whole-body Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
   Hanbin Jang and Jaemin Lee <br>
 </p>
