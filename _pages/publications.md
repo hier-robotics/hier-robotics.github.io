@@ -41,7 +41,7 @@ permalink: /publications/
 <p style="font-size:11pt">
   <b>Safety-critical Locomotion of Biped Robots in Infeasible Paths: Overcoming Obstacles during Navigation toward Destination</b> <br>
   Jaemin Lee, Min Dai, Jeeseop Kim, and Aaron D. Ames <br>
-  Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025 <br>
+  IEEE International Conference on Robotics and Automation (ICRA) 2025 <br>
   <a href="https://ieeexplore.ieee.org/document/11127337">link</a> 
 </p>
 
