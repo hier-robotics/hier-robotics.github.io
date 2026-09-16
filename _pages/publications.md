@@ -12,12 +12,12 @@ permalink: /publications/
 ## 2026
 
 <p style="font-size:11pt">
-  <b>RL-base safe quadrupedal navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  <b>RL-base Safe Quadrupedal Navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
   Jinxi Lu and Jaemin Lee <br>
 </p>
 
 <p style="font-size:11pt">
-  <b>Model-based safe quadrupedal navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  <b>Model-based Safe Quadrupedal Navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
   Wonho Jung, JunYoung Kim, and Jaemin Lee <br>
 </p>
 
