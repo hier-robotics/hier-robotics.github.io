@@ -9,8 +9,6 @@ main:
   - title: "People"
     url: /people/
   - title: "Videos"
-    url: /videos/
-  - title: "Class"
-    url: /class/    
+    url: /videos/ 
   - title: "Join"
     url: /join/    
