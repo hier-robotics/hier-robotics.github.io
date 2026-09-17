@@ -102,44 +102,50 @@ font-size:18px;
 /* RESEARCH GRID */
 
 .research-grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-gap:28px;
-margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 25px;
+  flex-wrap: nowrap;
 }
 
 .research-card{
-background:white;
-padding:24px;
-border-radius:14px;
-box-shadow:0 5px 18px rgba(0,0,0,0.1);
-transition:all .25s;
-display: flex;
-flex-direction: column; /* 요소를 수직(위->아래)으로 쌓음 */
-align-items: center;    /* 요소를 수평(좌우)으로 가운데 정렬 */
-text-align: center;     /* 텍스트도 가운데 정렬 */ 
+  background: transparent;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  width: 180px;
+  transition: transform .25s;
 }
 
 .research-card:hover{
-transform:translateY(-6px);
-box-shadow:0 15px 35px rgba(0,0,0,0.2);
+  transform: translateY(-6px);
+  box-shadow: none;
 }
 
-.card-icon {
-  width: 150px;  /* 아이콘 크기 조절 */
+.card-icon{
+  width: 150px;
   height: 150px;
-  margin-bottom: 15px;
   object-fit: contain;
+  margin-bottom: 12px;
 }
-  
+
 .research-card h3{
-color:#003366;
-margin-top:0;
+  color: #003366;
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.25;
 }
 
 .research-card p{
-font-size:11pt;
-text-align:justify;
+  display: none;
 }
 
 /* NEWS */
@@ -241,41 +247,41 @@ Modeling and analysis of hybrid dynamical systems arising in legged robots with 
 <div class="research-card">
 <img src="/assets/images/learning.png" alt="Learning Icon" class="card-icon">   
 <h3>Learning-Based Robotics</h3>
-<p>
+<!-- <p>
 Applying reinforcement learning and data-driven methods to develop adaptive robotic behaviors.
-</p>
+</p> -->
 </div>
 
 <div class="research-card">
 <img src="/assets/images/tele.png" alt="Tele Icon" class="card-icon"> 
 <h3>Tele Whole-Body Control</h3>
-<p>
+<!-- <p>
 Developing tele-operation frameworks enabling intuitive control of humanoid robots.
-</p>
+</p> -->
 </div>
 
 <div class="research-card">
 <img src="/assets/images/safety_critical.png" alt="safety Icon" class="card-icon">   
 <h3>Safety-Critical Control</h3>
-<p>
+<!-- <p>
 Studying control theory for ensuring safety of full-body humanoid robots.
-</p>
+</p> -->
 </div>
 
 <div class="research-card">
 <img src="/assets/images/hetero.png" alt="Heterogeneous Icon" class="card-icon">   
 <h3>Heterogeneous Robot Team</h3>
-<p>
+<!-- <p>
 Develoing unified frameworks for collaborating among heterogeneous robots, enabling coordinated loco-manipulation and task execution.
-</p>
+</p> -->
 </div>  
   
 <div class="research-card">
 <img src="/assets/images/hardware.png" alt="Hardware Icon" class="card-icon"> 
 <h3>Robotic Hardware Innovation</h3>
-<p>
+<!-- <p>
 Designing robotic hardware for efficient and robust mission execution.
-</p>
+</p> -->
 </div>
 
 <!-- <div class="research-card">
