@@ -192,7 +192,7 @@
     transition: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #fff;
     }
 
     &.site-logo {
@@ -286,7 +286,7 @@
       font-size: $type-size-7;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #fff;
         background: $navicon-link-color-hover;
       }
     }
