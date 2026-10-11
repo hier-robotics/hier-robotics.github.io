@@ -186,6 +186,9 @@ body {
   animation-delay: 0.25s;
 
   &--overlay {
+    min-height: 400px;
+    display: flex;
+    align-items: center;
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
