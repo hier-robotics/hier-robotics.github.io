@@ -27,13 +27,14 @@ permalink: /publications/
 </p>
 
 <p style="font-size:11pt">
-  <b>Learning-driven Whole-body Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
-  Hanbin Jang and Jaemin Lee <br>
+  <b>Contact-aware Plannig and Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
+  JunYoung Kim and Jaemin Lee <br>
 </p>
 
 <p style="font-size:11pt">
-  <b>Contact-aware Plannig and Control</b> (Submitted, Topics only due to the double-blind review policy)  <br>
-  JunYoung Kim and Jaemin Lee <br>
+  <b>LA-WBC: Learning-driven Adaptation of Whole-Body Control for Safe Locomotion on Uncertain Terrain</b>  <br>
+  Hanbin Jang and Jaemin Lee <br>
+  IEEE Robotics and Automation Letters 2026
 </p>
 
 ## 2025
