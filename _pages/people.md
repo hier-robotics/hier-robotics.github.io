@@ -81,7 +81,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (Ph.D. Student) <br> 
     • M.S., Hanyang University, Korea <br>  
     • B.S., Hanyang University, Korea <br>
-    • Visiting, University of California, Los Angeles, CA<br>
+    • Visiting, UCLA, CA CA<br>
     • Research Intern, KIST, Korea <br>
     • Topic: Whole-body control for Locomanipulation of humanoids
     </p>
@@ -103,7 +103,7 @@ permalink: /people/
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (Ph.D. Student) <br>
     • M.S., University of Southern California, CA <br>  
     • B.S., Hong Kong Baptist University, China <br>
-    • Visiting, Georgia Institute of Technology, GA <br>      
+    • Visiting, Georgia Tech, GA <br>      
     • Topic: Fault-aware Safe Learning for Humanoid Locomanipulation  
     </p>
   </div>
