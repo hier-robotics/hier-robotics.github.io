@@ -57,28 +57,16 @@ permalink: /people/
 <p> </p>
 
 
-.team-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-  align-items: start;
-}
-
-@media (max-width: 768px) {
-  .team-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 ## Members
-<div class="team-grid">
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (Ph.D. Student) <br> 
-    • M.S.(2022), Hanyang University, Korea <br>  
-    • B.S.(2020), Hanyang University, Korea <br>
-    • Visiting (2022), University of California, Los Angeles, CA<br>
-    • Research Intern (2023-2024), KIST, Korea <br>
+    • M.S., Hanyang University, Korea <br>  
+    • B.S., Hanyang University, Korea <br>
+    • Visiting, University of California, Los Angeles, CA<br>
+    • Research Intern, KIST, Korea <br>
     • Topic: Whole-body control for Locomanipulation of humanoids
     </p>
   </div>
@@ -86,10 +74,10 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/Tony_Ho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (Ph.D. Student) <br>
-    • M.S.(2026), Stony Brook University, NY <br>  
-    • B.S.(2024), KAIST, Korea <br>
-    • Research Intern (2025) VinMotion, Vietnam  <br>
-    • Research Intern (2024) LG Electronics, Korea  <br>    
+    • M.S., Stony Brook University, NY <br>  
+    • B.S., KAIST, Korea <br>
+    • Research Intern, VinMotion, Vietnam  <br>
+    • Research Intern, LG Electronics, Korea  <br>    
     • Topic: Morphology-aware Interactive Humanoid Manipulation 
     </p>
   </div>
@@ -97,9 +85,9 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/Jingxi_Lu.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (Ph.D. Student) <br>
-    • M.S.(2026), University of Southern California, CA <br>  
-    • B.S.(2024), Hong Kong Baptist University, China <br>
-    • Visiting (2025), Georgia Institute of Technology, GA <br>      
+    • M.S., University of Southern California, CA <br>  
+    • B.S., Hong Kong Baptist University, China <br>
+    • Visiting, Georgia Institute of Technology, GA <br>      
     • Topic: Fault-aware Safe Learning for Humanoid Locomanipulation  
     </p>
   </div>
@@ -107,8 +95,8 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (Ph.D. Student) <br>
-    • B.S.(2026), Seoul National University, Korea <br>  
-    • Visiting (2025), North Carolina State Unversity, NC <br>
+    • B.S., Seoul National University, Korea <br>  
+    • Visiting, North Carolina State Unversity, NC <br>
     • Topic: Context-aware Adaptive Framework for Long-horizon Robotic Tasks
     </p>
   </div>
@@ -116,7 +104,7 @@ permalink: /people/
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> (M.S. Student) <br>
-       • ABM (Expected 2027), North Carolina State University <br>
+       • B.S., North Carolina State University <br>
        • Topic: Transformable robots 
     </p>
   </div>
@@ -124,7 +112,7 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> (M.S. Student)  <br>
-       • ABM (Expected 2027), North Carolina State University<br>
+       • B.S., North Carolina State University<br>
        • Topic: Hybrid control for manipulators
     </p>
   </div>
@@ -132,7 +120,7 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/Rae.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Heinzerling"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Rae E. Heinzerling</b> (M.S. Student)  <br>
-       • B.S.(2025), North Carolina State University<br>
+       • B.S., North Carolina State University<br>
        • Topic: Active Vision using an Eye-in-Hand Camera
     </p>
   </div>
@@ -140,7 +128,7 @@ permalink: /people/
   <div style="text-align: center;">  
     <img src="/assets/images/Craig_Bowman.JPG" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Craig Bowman</b> (M.S. Student)  <br>
-       • B.S.(2025), University of North Carolina at Charlotte<br>
+       • B.S., University of North Carolina at Charlotte<br>
        • Topic: RL-based Control of Robots
     </p>
   </div>
