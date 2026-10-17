@@ -58,28 +58,33 @@ font-size:18px;
 /* IMAGE SECTION */
 
 .hero-images {
-  display: flex;         /* 가로 배치 */
-  gap: 20px;            /* 사진 사이 간격 */
-  justify-content: center; /* 중앙 정렬 */
+  display: flex;
+  gap: 20px;
+  justify-content: center;
   width: 100%;
   margin: 30px 0 10px;
 }
 
 .hero-images img {
-  /* 핵심 코드: 고정된 높이를 부여하여 통일감 생성 */
-  height: 400px;         /* 원하는 높이로 조절하세요 */
-  
-  /* 핵심 코드: 비율이 달라도 컨테이너에 꽉 차게 조절 (중앙 기준 Crop) */
+  flex: 1 1 0;
+  width: 0;
+  min-width: 0;
+  height: 400px;
   object-fit: cover;
-  
-  /* 유연한 너비 설정 (모바일 대응) */
-  flex: 1;               /* 남은 공간을 반씩 차지 */
-  min-width: 0;          /* Flexbox 버그 방지 */
-  
-  /* 부가 스타일 */
-  /* border-radius: 12px; */
+  object-position: center;
   box-shadow: 0 5px 15px rgba(0,0,0,0.08);
   transition: transform 0.3s ease;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .hero-images {
+    gap: 8px;
+  }
+
+  .hero-images img {
+    height: 160px;
+  }
 }
 
 /* 마우스 호버 효과 (선택 사항) */
