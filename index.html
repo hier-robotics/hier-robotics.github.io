@@ -155,6 +155,22 @@ toc: false
   transform: scale(1.02);
 }
 
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.video-grid iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: none;
+  border-radius: 8px;
+}
+  
 /* =========================
    MOBILE
 ========================= */
