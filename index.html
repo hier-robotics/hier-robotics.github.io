@@ -11,39 +11,43 @@ toc: false
 /* HERO SECTION */
 
 .hero-section{
-position:relative;
-height:520px;
-overflow:hidden;
+  position: relative;
+  height: auto;
+  min-height: 650px;
+  overflow: hidden;
+  isolation: isolate;
 }
 
 .hero-video{
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-object-fit:cover;
-z-index:-1;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
 }
 
 .hero-overlay{
-position:absolute;
-top:0;
-left:0;
-width:100%;
-height:100%;
-background:rgba(0,0,0,0.45);
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  z-index: 1;
 }
 
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 80px 30px 55px;
+}
+  
 .hero-text{
-position:absolute;
-top:50%;
-left:50%;
-transform:translate(-50%,-50%);
-color:white;
-text-align:center;
-width:80%; 
-max-width:1500px;
+  position: static;
+  transform: none;
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto 45px;
+  color: white;
+  text-align: center;
 }
 
 .hero-text h1{
@@ -76,6 +80,28 @@ font-size:18px;
   transition: transform 0.3s ease;
 }
 
+/* Research Cards */
+.hero-section .research-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero-section .research-card {
+  width: 100%;
+  min-width: 0;
+  align-items: center;
+}
+
+.hero-section .card-icon {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  object-fit: contain;
+}  
+
 /* Mobile */
 
 /* ===================================
@@ -92,7 +118,11 @@ font-size:18px;
     align-items: center;
     justify-content: center;
   }
-
+  
+  .hero-content {
+    padding: 45px 15px 35px;
+  }
+  
   .hero-video {
     position: absolute;
     width: 100%;
@@ -148,6 +178,15 @@ font-size:18px;
   .hero-text p {
     font-size: 15px;
     line-height: 1.5;
+  }
+  
+  .hero-section .research-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 15px 10px;
+  }
+
+  .hero-section .card-icon {
+    max-width: 110px;
   }
 }
 
@@ -298,18 +337,57 @@ We develop <b>intelligent robots capable of agile loco-manipulation in complex e
 Our research spans theoretical and experimental robotics, enabling robots to operate safely and efficiently in environments shared with humans and wildlife.
 </p>  
 </div>
+
+<div class="research-grid">
+    <div class="research-card">
+      <img src="/assets/images/locomanipulation.png"
+           alt="Autonomous Loco-Manipulation"
+           class="card-icon">
+    </div>
+    <div class="research-card">
+      <img src="/assets/images/learning.png"
+           alt="Learning-Based Robotics"
+           class="card-icon">
+    </div>
+    <div class="research-card">
+      <img src="/assets/images/tele.png"
+           alt="Tele Whole-Body Control"
+           class="card-icon">
+    </div>
+    <div class="research-card">
+      <img src="/assets/images/safety_critical.png"
+           alt="Safety-Critical Control"
+           class="card-icon">
+    </div>
+    <div class="research-card">
+      <img src="/assets/images/hetero.png"
+           alt="Heterogeneous Robot Team"
+           class="card-icon">
+    </div>
+    <div class="research-card">
+      <img src="/assets/images/hardware.png"
+           alt="Robotic Hardware Innovation"
+           class="card-icon">
+    </div>
+  </div>
 </section>
 
-<!-- LAB PHOTOS -->
 <div class="hero-images">
 <img src="/assets/images/Hier_lab.jpg">
 <img src="/assets/images/symposium.jpg">
 <img src="/assets/images/Human-robot-collaboration.jpeg">
 </div>
 
+<!-- LAB PHOTOS -->
+<!-- <div class="hero-images">
+<img src="/assets/images/Hier_lab.jpg">
+<img src="/assets/images/symposium.jpg">
+<img src="/assets/images/Human-robot-collaboration.jpeg">
+</div> -->
+
 <!-- RESEARCH -->
 
-<section>
+<!-- <section>
   <h2 style="text-align:center; margin-top:30px;">Research</h2>
 
   <div class="research-grid">
@@ -351,7 +429,7 @@ Our research spans theoretical and experimental robotics, enabling robots to ope
     </div>
 
   </div>
-</section>
+</section> -->
 
 
 
