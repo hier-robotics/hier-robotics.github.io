@@ -8,10 +8,9 @@ toc: false
 
 <style>
 
-
-/* =========================
+/* ==================================
    HERO SECTION
-========================= */
+================================== */
 
 .hero-section {
   position: relative;
@@ -34,7 +33,7 @@ toc: false
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0,0.55);
+  background: rgba(0, 0, 0, 0.55);
   z-index: 1;
 }
 
@@ -43,20 +42,24 @@ toc: false
   z-index: 2;
   width: 100%;
   box-sizing: border-box;
-  padding: 70px 30px 50px;
+  padding: 55px 30px 55px;
 }
 
-/* =========================
+/* ==================================
    HERO TEXT
-========================= */
+================================== */
 
 .hero-text {
   position: static;
+  top: auto;
+  left: auto;
+  transform: none;
+
   width: 100%;
   max-width: 1100px;
-  margin: 0 auto 40px;
+  margin: 0 auto 35px;
   padding: 0;
-  transform: none;
+
   color: white;
   text-align: center;
   box-sizing: border-box;
@@ -65,7 +68,12 @@ toc: false
 .hero-text h1 {
   font-size: 48px;
   line-height: 1.2;
-  margin: 0 0 15px;
+  margin: 0 0 12px;
+}
+
+.hero-text h2 {
+  font-size: 22px;
+  line-height: 1.4;
 }
 
 .hero-text p {
@@ -73,27 +81,36 @@ toc: false
   line-height: 1.5;
 }
 
-/* =========================
+/* ==================================
    RESEARCH GRID
-========================= */
+================================== */
 
 .research-grid {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 20px;
+
   width: 100%;
   max-width: 1200px;
   margin: 25px auto 0;
+  padding: 20px 22px;
+  box-sizing: border-box;
+
   justify-items: center;
-  align-items: start;
+  align-items: center;
+
+  /* Shared translucent panel */
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 18px;
+
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
 }
 
-.research-card {
-  background: transparent;
-  padding: 0;
-  box-shadow: none;
-  border-radius: 0;
+/* Individual research cards */
 
+.research-card {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -101,7 +118,15 @@ toc: false
 
   width: 100%;
   min-width: 0;
-  transition: transform .25s;
+  padding: 0;
+  margin: 0;
+
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+
+  transition: transform 0.25s ease;
 }
 
 .research-card:hover {
@@ -114,28 +139,30 @@ toc: false
   max-width: 150px;
   height: auto;
   object-fit: contain;
-  margin-bottom: 12px;
+  margin-bottom: 0;
 }
 
 .research-card h3 {
-  color: #ffffff;
-  margin: 0;
+  color: white;
   font-size: 16px;
   line-height: 1.25;
+  margin: 0;
 }
 
+/* Icons already contain their labels */
 .research-card p {
   display: none;
 }
 
-/* =========================
+/* ==================================
    IMAGE SECTION
-========================= */
+================================== */
 
 .hero-images {
   display: flex;
   gap: 20px;
   justify-content: center;
+  align-items: center;
   width: 100%;
   margin: 30px 0 10px;
 }
@@ -145,8 +172,10 @@ toc: false
   width: 0;
   min-width: 0;
   height: 400px;
+
   object-fit: cover;
   object-position: center;
+
   box-shadow: 0 5px 15px rgba(0,0,0,0.08);
   transition: transform 0.3s ease;
 }
@@ -155,25 +184,25 @@ toc: false
   transform: scale(1.02);
 }
 
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 20px;
-  margin-top: 10px;
+/* ==================================
+   TABLET
+================================== */
+
+@media (min-width: 769px) and (max-width: 1100px) {
+
+  .research-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    max-width: 750px;
+  }
+
+  .card-icon {
+    max-width: 145px;
+  }
 }
 
-.video-grid iframe {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  height: auto;
-  border: none;
-  border-radius: 8px;
-}
-  
-/* =========================
+/* ==================================
    MOBILE
-========================= */
+================================== */
 
 @media (max-width: 768px) {
 
@@ -186,20 +215,22 @@ toc: false
     padding: 35px 15px 30px;
   }
 
+  /* Text */
+
   .hero-text {
     position: static;
+    transform: none;
     width: 100%;
     max-width: 100%;
     margin: 0 auto 25px;
     padding: 0;
-    transform: none;
     text-align: center;
   }
 
   .hero-text h1 {
     font-size: 28px;
     line-height: 1.2;
-    margin: 0 0 12px;
+    margin-bottom: 12px;
   }
 
   .hero-text h2 {
@@ -213,13 +244,18 @@ toc: false
     margin: 12px 0;
   }
 
-  /* Research: 3 columns x 2 rows */
+  /* Research icons: 3 x 2 */
 
   .research-grid {
-    display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 15px 10px;
+
+    width: 100%;
+    max-width: 100%;
     margin: 20px auto 0;
+    padding: 15px 10px;
+
+    border-radius: 14px;
   }
 
   .research-card {
@@ -231,156 +267,16 @@ toc: false
     width: 100%;
     max-width: 110px;
     height: auto;
-    margin-bottom: 8px;
+    margin-bottom: 0;
   }
 
   .research-card h3 {
     font-size: 12px;
   }
 
-  /* Photos: original aspect ratios */
+  /* Photos: original aspect ratio */
 
   .hero-images {
-    flex-direction: row;
-    gap: 8px;
-    align-items: center;
-  }
-
-  .hero-images img {
-    flex: 1 1 0;
-    width: 0;
-    height: auto;
-    object-fit: contain;
-  }
-}
-
-
-
-  
-/* HERO SECTION */
-
-.hero-section{
-  position: relative;
-  height: auto;
-  min-height: 650px;
-  overflow: hidden;
-  isolation: isolate;
-}
-
-.hero-video{
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  z-index: 0;
-}
-
-.hero-overlay{
-  position: absolute;
-  inset: 0;
-  background: rgba(0,0,0,0.55);
-  z-index: 1;
-}
-
-.hero-content {
-  position: relative;
-  z-index: 2;
-  padding: 80px 30px 55px;
-}
-  
-.hero-text{
-  position: static;
-  transform: none;
-  width: 90%;
-  max-width: 1100px;
-  margin: 0 auto 45px;
-  color: white;
-  text-align: center;
-}
-
-.hero-text h1{
-font-size:48px;
-margin-bottom:0px;
-}
-
-.hero-text p{
-font-size:18px;
-}
-
-/* IMAGE SECTION */
-
-.hero-images {
-  display: flex;
-  gap: 20px;
-  justify-content: center;
-  width: 100%;
-  margin: 30px 0 10px;
-}
-
-.hero-images img {
-  flex: 1 1 0;
-  width: 0;
-  min-width: 0;
-  height: 400px;
-  object-fit: cover;
-  object-position: center;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-  transition: transform 0.3s ease;
-}
-
-/* Research Cards */
-.hero-section .research-grid {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.hero-section .research-card {
-  width: 100%;
-  min-width: 0;
-  align-items: center;
-}
-
-.hero-section .card-icon {
-  width: 100%;
-  max-width: 150px;
-  height: auto;
-  object-fit: contain;
-}  
-
-/* Mobile */
-
-/* ===================================
-   MOBILE HERO SECTION
-=================================== */
-
-@media (max-width: 768px) {
-
-  .hero-section {
-    height: auto;
-    min-height: 650px;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .hero-content {
-    padding: 45px 15px 35px;
-  }
-  
-  .hero-video {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .hero-images {
-    display: flex;
     flex-direction: row;
     gap: 8px;
     align-items: center;
@@ -393,108 +289,8 @@ font-size:18px;
     height: auto;
     object-fit: contain;
   }
-
-  .hero-overlay {
-    position: absolute;
-    inset: 0;
-  }
-
-  .hero-text {
-    position: relative;
-    top: auto;
-    left: auto;
-    transform: none;
-
-    width: 92%;
-    max-width: 100%;
-    padding: 35px 10px;
-    box-sizing: border-box;
-    text-align: center;
-    z-index: 1;
-  }
-
-  .hero-text h1 {
-    font-size: 30px;
-    line-height: 1.2;
-    margin-bottom: 12px;
-  }
-
-  .hero-text h2 {
-    font-size: 20px;
-    line-height: 1.35;
-  }
-
-  .hero-text p {
-    font-size: 15px;
-    line-height: 1.5;
-  }
-  
-  .hero-section .research-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 15px 10px;
-  }
-
-  .hero-section .card-icon {
-    max-width: 110px;
-  }
 }
 
-
-/* RESEARCH GRID */
-
-
-.research-grid {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 40px;
-  margin-top: 25px;
-  flex-wrap: nowrap;
-}
-
-.research-card {
-  background: transparent;
-  padding: 0;
-  box-shadow: none;
-  border-radius: 0;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-
-  width: 180px;
-  flex-shrink: 0;
-  transition: transform .25s;
-}
-
-.research-card:hover {
-  transform: translateY(-6px);
-  box-shadow: none;
-}
-
-.card-icon {
-  width: 150px;
-  height: 150px;
-  object-fit: contain;
-  margin-bottom: 12px;
-}
-
-.research-card h3 {
-  color: #003366;
-  margin: 0;
-  font-size: 16px;
-  line-height: 1.25;
-}
-
-.research-card p {
-  display: none;
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-  .research-grid {
-    display: grid;
 
 /* NEWS */
 
