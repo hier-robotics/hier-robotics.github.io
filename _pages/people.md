@@ -9,7 +9,7 @@ permalink: /people/
 
 <br>
 
-## Professor: Dr. Jaemin Lee
+## Faculty: Dr. Jaemin Lee
 
 <div class="prof-profile-container" style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px; clear: both; flex-wrap: wrap;">
     <!-- 사진 영역 -->
@@ -56,11 +56,11 @@ permalink: /people/
 
 <p> </p>
 
-## Ph.D. Students
+## Members
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/Junyoung.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="JunYoung Kim" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (MAE 2025) <br> 
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>JunYoung Kim</b> (Ph.D. Student) <br> 
     • M.S.(2022), Hanyang University, Korea <br>  
     • B.S.(2020), Hanyang University, Korea <br>
     • Visiting (2022), University of California, Los Angeles, CA<br>
@@ -71,7 +71,7 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/Tony_Ho.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Anh Tung (Tony) Ho"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Anh Tung (Tony) Ho</b> (Ph.D. Student) <br>
     • M.S.(2026), Stony Brook University, NY <br>  
     • B.S.(2024), KAIST, Korea <br>
     • Research Intern (2025) VinMotion, Vietnam  <br>
@@ -82,7 +82,7 @@ permalink: /people/
 
   <div style="text-align: center;">
     <img src="/assets/images/Jingxi_Lu.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Jingxi Lu"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Jingxi Lu</b> (Ph.D. Student) <br>
     • M.S.(2026), University of Southern California, CA <br>  
     • B.S.(2024), Hong Kong Baptist University, China <br>
     • Visiting (2025), Georgia Institute of Technology, GA <br>      
@@ -92,21 +92,16 @@ permalink: /people/
 
   <div style="text-align: center;">
     <img src="/assets/images/hanbin_Jang.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Hanbin (Ethan) Jang"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Hanbin (Ethan) Jang</b> (Ph.D. Student) <br>
     • B.S.(2026), Seoul National University, Korea <br>  
     • Visiting (2025), North Carolina State Unversity, NC <br>
     • Topic: Context-aware Adaptive Framework for Long-horizon Robotic Tasks
     </p>
   </div>
-</div>
-
-<p> </p>
-
-## M.S and Accelerated B.S/M.S. (ABM) Students
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
+  
   <div style="text-align: center;">
     <img src="/assets/images/Andrea.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Andrea Basuroski" />
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> (MAE 2025) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Andrea Basuroski</b> (M.S. Student) <br>
        • ABM (Expected 2027), North Carolina State University <br>
        • Topic: Transformable robots 
     </p>
@@ -114,7 +109,7 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/David.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> (MAE 2025) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>David Alexander</b> (M.S. Student)  <br>
        • ABM (Expected 2027), North Carolina State University<br>
        • Topic: Hybrid control for manipulators
     </p>
@@ -122,7 +117,7 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/Rae.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Heinzerling"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Rae E. Heinzerling</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Rae E. Heinzerling</b> (M.S. Student)  <br>
        • B.S.(2025), North Carolina State University<br>
        • Topic: Active Vision using an Eye-in-Hand Camera
     </p>
@@ -130,43 +125,43 @@ permalink: /people/
 
   <div style="text-align: center;">  
     <img src="/assets/images/Craig_Bowman.JPG" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="David Alexander"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Craig Bowman</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Craig Bowman</b> (M.S. Student)  <br>
        • B.S.(2025), University of North Carolina at Charlotte<br>
        • Topic: RL-based Control of Robots
     </p>
   </div>
-
-</div>
-
-<p> </p>
-
-## B.S. and Visiting Students
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start;">
   <div style="text-align: center;">
     <img src="/assets/images/noah.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Noah Bowman"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Noah Bowman</b> (UG Student) <br>
       • Topic: Perception-guided planning and control
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/daimian.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Daimian"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> (CSC 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Daimian Gouge</b> (UG Student) <br>
       • Topic: Vision-guided hand manipluation
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Ian Shub</b> (UG Student) <br>
      • Topic: Robot Hardware Design
     </p>
   </div>
 
   <div style="text-align: center;">
     <img src="/assets/images/Mattew.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Mattew"/>
-    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Matthew Mitchell</b> (MAE 2026) <br>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Matthew Mitchell</b> (UG Student)<br>
      • Topic: Robot Control and Design
+    </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Eera Singh</b> (UG Student) <br>
+     • Topic: Robot Hardware Design
     </p>
   </div>
   
