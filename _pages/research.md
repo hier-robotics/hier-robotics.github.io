@@ -405,7 +405,7 @@ permalink: /research/
   <section class="research-item">
 
     <div class="research-image">
-    <img src="/assets/images/human-robot-collaboration.jpeg" alt="Robot Team">
+    <img src="/assets/images/Human-robot-collaboration.jpeg" alt="Robot Team">
     </div>
 
     <div class="research-description">
