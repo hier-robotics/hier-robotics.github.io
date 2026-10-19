@@ -204,7 +204,7 @@ Quadruped Go2</b> <br>
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/images/furanka_arm.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
+    <img src="/assets/images/dual_arm.jpg" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Franka"/>
     <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>
 Furanka Arms</b> <br>
     </p>
