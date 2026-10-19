@@ -1,12 +1,13 @@
-
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+
 classes:
-  - wide
+
   - landing
+  - dark-theme
 toc: false
+title: Research Directions
+permalink: /research/
 ---
 
 <style>
