@@ -313,7 +313,7 @@ permalink: /research/
 
   <!-- RESEARCH 01 -->
 
-  <section class="research-item">
+  <section id="locomanipulation" class="research-item">
 
     <div class="research-image">
     <img src="/assets/images/Peginhole.jpg" alt="peginhole">
@@ -356,7 +356,7 @@ permalink: /research/
 
   <!-- RESEARCH 02 -->
 
-  <section class="research-item reverse">
+  <section id="learning" class="research-item reverse">
 
     <div class="research-image">
     <img src="/assets/images/box_carry.jpg" alt="boxcarry">
@@ -398,7 +398,7 @@ permalink: /research/
 
   <!-- RESEARCH 03 -->
 
-  <section class="research-item">
+  <section id="heterogeneous" class="research-item">
 
     <div class="research-image">
     <img src="/assets/images/Human-robot-collaboration.jpeg" alt="Robot Team">
@@ -440,7 +440,7 @@ permalink: /research/
 
   <!-- RESEARCH 04 -->
 
-  <section class="research-item reverse">
+  <section id="control" class="research-item reverse">
 
     <div class="research-image">
     <img src="/assets/images/safety_locomotion.jpg" alt="Safety locomotion">
@@ -483,7 +483,7 @@ permalink: /research/
 
   <!-- RESEARCH 05 -->
 
-  <section class="research-item">
+  <section id="hardware" class="research-item">
 
     <div class="research-image">
       <div class="research-image-placeholder">
