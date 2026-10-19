@@ -316,9 +316,7 @@ permalink: /research/
   <section class="research-item">
 
     <div class="research-image">
-      <div class="research-image-placeholder">
-        Humanoid Loco-Manipulation Image
-      </div>
+    <img src="/assets/images/locomanipulation.jpg" alt="Rocomanipualtion">
     </div>
 
     <div class="research-description">
