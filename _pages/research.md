@@ -447,9 +447,7 @@ permalink: /research/
   <section class="research-item reverse">
 
     <div class="research-image">
-      <div class="research-image-placeholder">
-        Optimal and Safety-Critical Control Image
-      </div>
+    <img src="/assets/images/safety_locomotion.jpg" alt="Safety locomotion">
     </div>
 
     <div class="research-description">
