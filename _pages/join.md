@@ -122,24 +122,24 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Robot Hardware Development</strong> (Collaborator: Dr. Lee) <br>
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Robot Hardware Development</strong> <br>
   Requirements: CAD, Motor Control, PCB skills or experiences.
 </div>
 
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Safe Navigation of Quadruped Robots</strong> (Collaborator: Jingxi Lu) <br>
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Safe Navigation of Quadruped Robots</strong>  <br>
   Requirements: CAD, basic Python/C++ skills. 
 </div>
 
-
-<!-- <div class="notice notice-open">
-  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong> </strong> (Collaborator: David)
-</div> -->
+<div class="notice notice-open">
+  <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Dexterous Dual-Arm Manipulation</strong>  <br>
+  Requirements: CAD, basic Python/C++ skills. 
+</div>
 
   
 <div class="notice notice-open">
-  <span class="badge badge-open">2026 Fall / 2027 Spring — Open </span> <strong>Transformable Arm on a Quadruped Robot</strong> (Collaborator: Andrea) <br>
-  Requirements: CAD, Motor Control, basic Python/C++ skills.   
+  <span class="badge badge-open">2026 Fall / 2027 Spring — Open </span> <strong>Electronics and Circuit Board Development</strong><br>
+  Requirements: PCB Design, Power management, Sensor board skills.   
 </div>
 
 <a class="cta-btn cta-primary" href="https://forms.gle/i6uSgZV67GSVB4fr5" target="_blank">Google form for B.S./M.S positions →</a>
