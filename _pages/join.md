@@ -123,7 +123,7 @@ Current or admitted undergraduate and M.S. students at NC State University are e
 
 <div class="notice notice-open">
   <span class="badge badge-open">2026 Fall/ 2027 Spring — Open </span> <strong>Robot Hardware Development</strong> <br>
-  Requirements: CAD, Motor Control, PCB skills or experiences.
+  Requirements: CAD, Motor Control skills or experiences.
 </div>
 
 <div class="notice notice-open">
