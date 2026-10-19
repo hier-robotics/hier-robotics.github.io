@@ -359,9 +359,7 @@ permalink: /research/
   <section class="research-item reverse">
 
     <div class="research-image">
-      <div class="research-image-placeholder">
-        Whole-Body Planning and Control Image
-      </div>
+    <img src="/assets/images/box_carry.jpg" alt="boxcarry">
     </div>
 
     <div class="research-description">
