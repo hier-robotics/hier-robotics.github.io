@@ -316,7 +316,7 @@ permalink: /research/
   <section class="research-item">
 
     <div class="research-image">
-    <img src="/assets/images/peginhole.jpg" alt="peginhole">
+    <img src="/assets/images/Peginhole.jpg" alt="peginhole">
     </div>
 
     <div class="research-description">
