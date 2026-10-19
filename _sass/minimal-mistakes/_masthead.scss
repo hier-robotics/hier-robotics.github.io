@@ -4,35 +4,35 @@
 
 .masthead {
   position: relative;
-  // background-color: #000;
   top: 0;
-  border-bottom: 1px solid $background-color transparent;
-  // border-bottom: 1px solid $gray;  
+  width: 100%;
+  height: auto;
+  min-height: 100px;
+
+  background: #000;
+  border-bottom: none;
+  padding-bottom: 12px;
+
+  z-index: 20;
+
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
-  z-index: 20;
-  height: 100px;
-  // z-index: 10;
 
   &__inner-wrap {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1em;
-    max-width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
+    width: 100%;
+    max-width: none;
+    margin: 0 auto;
+    padding: 10px 3%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-family: $sans-serif-narrow;
 
     nav {
       z-index: 10;
@@ -44,8 +44,10 @@
   }
 }
 
+/* Logo */
 .site-logo img {
   height: 5rem;
+  width: auto;
 }
 
 .site-title {
@@ -86,6 +88,18 @@
   }
 }
 
+/* Navigation font size */
+.greedy-nav .visible-links a {
+  font-size: 17px;
+  font-weight: 600;
+  padding: 0.5rem 0.8rem;
+}
+
+/* Navigation spacing */
+.greedy-nav .visible-links {
+  gap: 10px;
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
@@ -94,5 +108,26 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .masthead {
+    min-height: auto;
+    padding-bottom: 8px;
+  }
+
+  .masthead__inner-wrap {
+    padding: 8px 4%;
+  }
+
+  .site-logo img {
+    height: 3.5rem;
+  }
+
+  .greedy-nav .visible-links a {
+    font-size: 14px;
+    padding: 0.4rem 0.5rem;
   }
 }
