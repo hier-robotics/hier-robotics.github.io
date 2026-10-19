@@ -316,7 +316,7 @@ permalink: /research/
   <section class="research-item">
 
     <div class="research-image">
-    <img src="/assets/images/locomanipulation.jpg" alt="Rocomanipualtion">
+    <img src="/assets/images/peginhole.jpg" alt="peginhole">
     </div>
 
     <div class="research-description">
