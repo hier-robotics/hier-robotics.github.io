@@ -16,6 +16,14 @@ permalink: /research/
    HIER LAB RESEARCH PAGE
 ================================ */
 
+html {
+  scroll-behavior: smooth;
+}
+
+.research-item {
+  scroll-margin-top: 120px;
+}
+  
 .research-page {
   width: 100%;
   max-width: 1400px;
