@@ -2,6 +2,7 @@
    MASTHEAD
    ========================================================================== */
 
+
 .masthead {
   position: relative;
   top: 0;
@@ -11,14 +12,11 @@
 
   background: #000;
   border-bottom: none;
-  padding-bottom: 12px;
+
+  margin-bottom: 12px;
+  padding: 0;
 
   z-index: 20;
-
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
 
   &__inner-wrap {
     @include clearfix;
@@ -31,8 +29,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-
     font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: none;
+    }
 
     nav {
       z-index: 10;
