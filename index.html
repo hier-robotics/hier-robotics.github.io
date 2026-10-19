@@ -357,6 +357,23 @@ aspect-ratio:16/9;
 border-radius:8px;
 }
 
+/* Force five columns */
+.research-grid {
+  display: grid !important;
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  gap: 20px !important;
+}
+
+.research-card {
+  width: 100%;
+  min-width: 0;
+}
+
+.research-card a {
+  display: block;
+  width: 100%;
+}
+  
 </style>
 
 
