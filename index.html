@@ -356,23 +356,6 @@ width:100%;
 aspect-ratio:16/9;
 border-radius:8px;
 }
-
-/* Force five columns */
-.research-grid {
-  display: grid !important;
-  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
-  gap: 20px !important;
-}
-
-.research-card {
-  width: 100%;
-  min-width: 0;
-}
-
-.research-card a {
-  display: block;
-  width: 100%;
-}
   
 </style>
 
@@ -398,43 +381,38 @@ Our research spans theoretical and experimental robotics, enabling robots to ope
 </div>
 
 <div class="research-grid">
-    <div class="research-card">
-    <a href="/research/#locomanipulation">  
-      <img src="/assets/images/locomanipulation.png"
-           alt="Autonomous Loco-Manipulation"
-           class="card-icon">
-    </div>
-    <div class="research-card">
-      <a href="/research/#learning">
-      <img src="/assets/images/learning.png"
-           alt="Learning-Based Robotics"
-           class="card-icon">
-    </div>
-    <!-- <div class="research-card">
-      <img src="/assets/images/tele.png"
-           alt="Tele Whole-Body Control"
-           class="card-icon">
-    </div> -->
-    <div class="research-card">
-          <a href="/research/#heterogeneous">
-      <img src="/assets/images/hetero.png"
-           alt="Heterogeneous Robot Team"
-           class="card-icon">
-    </div>  
-    <div class="research-card">
-        <a href="/research/#control">  
-      <img src="/assets/images/safety_critical.png"
-           alt="Safety-Critical Control"
-           class="card-icon">
-    </div>
-    <div class="research-card">
-         <a href="/research/#hardware"> 
-      <img src="/assets/images/hardware.png"
-           alt="Robotic Hardware Innovation"
-           class="card-icon">
-    </div>
-  </div>
-</div>  
+
+  <a href="/research/#locomanipulation" class="research-card">
+    <img src="/assets/images/locomanipulation.png"
+         alt="Autonomous Loco-Manipulation"
+         class="card-icon">
+  </a>
+
+  <a href="/research/#learning" class="research-card">
+    <img src="/assets/images/learning.png"
+         alt="Learning-Based Robotics"
+         class="card-icon">
+  </a>
+
+  <a href="/research/#control" class="research-card">
+    <img src="/assets/images/safety_critical.png"
+         alt="Safety-Critical Control"
+         class="card-icon">
+  </a>
+
+  <a href="/research/#heterogeneous" class="research-card">
+    <img src="/assets/images/hetero.png"
+         alt="Heterogeneous Robot Team"
+         class="card-icon">
+  </a>
+
+  <a href="/research/#hardware" class="research-card">
+    <img src="/assets/images/hardware.png"
+         alt="Robotics Hardware Innovation"
+         class="card-icon">
+  </a>
+
+</div> 
 </section>
 
 <div class="hero-images">
