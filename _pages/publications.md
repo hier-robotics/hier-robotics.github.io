@@ -34,7 +34,7 @@ permalink: /publications/
 <p style="font-size:11pt">
   <b>LA-WBC: Learning-driven Adaptation of Whole-Body Control for Safe Locomotion on Uncertain Terrain</b>  <br>
   Hanbin Jang and Jaemin Lee <br>
-  IEEE Robotics and Automation Letters (RA-L) 2026
+  IEEE Robotics and Automation Letters (RA-L) 2026 <br>
   <a href="https://ieeexplore.ieee.org/abstract/document/11740650">link</a> 
 </p>
 
