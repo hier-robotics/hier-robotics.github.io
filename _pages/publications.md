@@ -13,7 +13,7 @@ permalink: /publications/
 
 <p style="font-size:11pt">
   <b>RL-base Safe Quadrupedal Navigation</b> (Submitted, Topics only due to the double-blind review policy)  <br>
-  Jinxi Lu and Jaemin Lee <br>
+  Jingxi Lu and Jaemin Lee <br>
 </p>
 
 <p style="font-size:11pt">
