@@ -182,6 +182,13 @@ permalink: /people/
      • Topic: Robot Hardware Design
     </p>
   </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/images/robot_logo.png" style="width: 100%; max-width: 250px; border-radius: 50%; aspect-ratio: 1/1; object-fit: cover;" alt="Future student"/>
+    <p style="font-size:11pt; margin: 10px 0 0 0;"> <b>Kunsang Gole</b> (UG Student) <br>
+     • Topic: Robot Hardware Design
+    </p>
+  </div> 
   
 </div>
 
